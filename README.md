@@ -93,7 +93,7 @@ Les corpus bretons de [wiki2iramuteq](https://github.com/Anakeyn/wiki2iramuteq) 
 
 ## 4. Installer le dictionnaire dans IRaMuTeQ
 
-### Méthode A : choisir le dictionnaire à l'ouverture du corpus
+### Méthode A (recommandée) : choisir le dictionnaire à l'ouverture du corpus
 
 Dans la fenêtre de paramètres qui s'affiche avec *Fichier → Ouvrir un corpus* :
 1. encodage : **utf-8** (ou **cp1252** pour la version Windows) ;
@@ -101,9 +101,9 @@ Dans la fenêtre de paramètres qui s'affiche avec *Fichier → Ouvrir un corpus
 3. dictionnaire : **Autre**, puis désignez `lexique_br.txt` ;
 4. si la case est proposée, décochez **Utiliser le dictionnaire des expressions** : les expressions bretonnes sont déjà soudées par `preparer_corpus_breton.py`, et celui d'une autre langue n'a pas de sens pour le breton.
 
-### Méthode B : remplacer le dictionnaire d'une langue inutilisée
+### Méthode B : si votre version d'IRaMuTeQ ne propose pas le dictionnaire « Autre »
 
-À utiliser si votre version ne propose pas le choix du dictionnaire.
+Cette méthode remplace le dictionnaire d'une langue inutilisée. Ne l'utilisez que si la fenêtre d'ouverture du corpus ne propose pas le choix **Autre** pour le dictionnaire.
 
 1. Les dictionnaires se trouvent dans le dossier `.iramuteq` (ou `.Iramuteq`) de votre dossier personnel, sous-dossier `dictionnaires`.
 2. **Sauvegardez** le lexique d'une langue que vous n'utilisez pas.
