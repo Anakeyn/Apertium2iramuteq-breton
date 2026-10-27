@@ -1,0 +1,3738 @@
+a barzh fin ar gont	a_barzh_fin_ar_gont	ADV
+a barzh ma	a_barzh_ma	CON
+a barzh nemeur	a_barzh_nemeur	ADV
+a barzh pell	a_barzh_pell	ADV
+a benn ar fin	a_benn_ar_fin	ADV
+a benn arc_hoazh	a_benn_arc_hoazh	ADV
+a benn bremañ	a_benn_bremañ	ADV
+a benn ma	a_benn_ma	CON
+a benn nebeud	a_benn_nebeud	ADV
+a benn nebeut	a_benn_nebeut	ADV
+a benn nemeur	a_benn_nemeur	ADV
+a benn neuze	a_benn_neuze	ADV
+a benn pemzektez	a_benn_pemzektez	ADV
+a benn un nebeud bloavezhioù	a_benn_un_nebeud_bloavezhioù	ADV
+a benn un nebeud mizioù	a_benn_un_nebeud_mizioù	ADV
+a bep seurt	a_bep_seurt	ADV
+a berzh mamm	a_berzh_mamm	ADV
+a berzh tad	a_berzh_tad	ADV
+a c_hwen e gein	a_c_hwen_e_gein	ADV
+a capella	a_capella	ADV
+a di da di	a_di_da_di	ADV
+a dra sur	a_dra_sur	ADV
+a drugarez da	a_drugarez_da	PRE
+a drugarez doue	a_drugarez_doue	ADV
+a du all	a_du_all	ADV
+a du hag a dal	a_du_hag_a_dal	ADV
+a enep ar gouloù	a_enep_ar_gouloù	ADV
+a enep da	a_enep_da	PRE
+a feiz fall	a_feiz_fall	ADV
+a feiz vat	a_feiz_vat	ADV
+a feur ma	a_feur_ma	CON
+a galon ganeoc_h	a_galon_ganeoc_h	ONO
+a galon ganit	a_galon_ganit	ONO
+a gement ha ma ouifen	a_gement_ha_ma_ouifen	ADV
+a gement se	a_gement_se	ADV
+a gleiz hag a zehou	a_gleiz_hag_a_zehou	ADV
+a greiz kalon	a_greiz_kalon	ADV
+a hed an amzer	a_hed_an_amzer	ADV
+a hed an deiz	a_hed_an_deiz	ADV
+a hed an devezh	a_hed_an_devezh	ADV
+a hed an dorn	a_hed_an_dorn	ADV
+a hed an istor	a_hed_an_istor	ADV
+a hed ar bloaz	a_hed_ar_bloaz	ADV
+a hed ar c_hein	a_hed_ar_c_hein	ADV
+a hed ar sizhun	a_hed_ar_sizhun	ADV
+a hed ar wech	a_hed_ar_wech	ADV
+a hed ar wezh	a_hed_ar_wezh	ADV
+a hed dorn	a_hed_dorn	ADV
+a is da	a_is_da	PRE
+a ispilh ouzh	a_ispilh_ouzh	PRE
+a istribilh ouzh	a_istribilh_ouzh	PRE
+a live gant	a_live_gant	PRE
+a nevez zo	a_nevez_zo	ADV
+a ouenn eo dezhañ	a_ouenn_eo_dezhañ	ADV
+a raok ma	a_raok_ma	CON
+a raok na	a_raok_na	CON
+a raok pell	a_raok_pell	ADV
+a raok pep tra	a_raok_pep_tra	ADV
+a rez an douar	a_rez_an_douar	ADV
+a seurt se	a_seurt_se	ADV
+a uc_h daa	a_uc_h_daa	PRE
+a us da	a_us_da	PRE
+a van da van	a_van_da_van	ADV
+a vloaz da vloaz	a_vloaz_da_vloaz	ADV
+a vremañ	a_vremañ	ADJ
+a wel da	a_wel_da	PRE
+a wir galon	a_wir_galon	ADV
+a youl an neñv	a_youl_an_neñv	ADV
+a youl doue	a_youl_doue	ADV
+a youl vat	a_youl_vat	ADJ
+a zeiz da zeiz	a_zeiz_da_zeiz	ADV
+a ziàr benn	a_ziàr_benn	PRE
+a zoug e gamm	a_zoug_e_gamm	ADV
+abadenn c_hoariva	abadenn_c_hoariva	NOM
+abadennoù c_hoariva	abadennoù_c_hoariva	NOM
+abalamour da	abalamour_da	PRE
+abaoe ar bloaz paseet	abaoe_ar_bloaz_paseet	ADV
+abaoe ma	abaoe_ma	CON
+abaoe ur pennad	abaoe_ur_pennad	ADV
+abaoe warlene	abaoe_warlene	ADV
+abred da vintin	abred_da_vintin	ADV
+abred diouzh ar mintin	abred_diouzh_ar_mintin	ADV
+abred eus ar mintin	abred_eus_ar_mintin	ADV
+ac_h eus	ac_h_eus	AUX
+adalek an deiz ma	adalek_an_deiz_ma	CON
+adalek ar bloaz a zeu	adalek_ar_bloaz_a_zeu	ADV
+adalek ar bloaz da zont	adalek_ar_bloaz_da_zont	ADV
+adalek bremañ	adalek_bremañ	PRE
+adalek ma	adalek_ma	CON
+ahel diorren	ahel_diorren	NOM
+ahelioù diorren	ahelioù_diorren	NOM
+ajañs diorren	ajañs_diorren	NOM
+ajañsoù diorren	ajañsoù_diorren	NOM
+alumenn vioù	alumenn_vioù	NOM
+alumennoù vioù	alumennoù_vioù	NOM
+am befe	am_befe	AUX
+am bez	am_bez	AUX
+am beze	am_beze	AUX
+am bije	am_bije	AUX
+am bo	am_bo	AUX
+am boa	am_boa	AUX
+am boe	am_boe	AUX
+am eus	am_eus	AUX
+amañ a us	amañ_a_us	ADV
+amañ bezant	amañ_bezant	ADV
+amañ dindan	amañ_dindan	ADV
+amañ e giz mañ	amañ_e_giz_mañ	ADV
+amañ kevret	amañ_kevret	ADV
+amzer da zont	amzer_da_zont	NOM
+amzer dazont	amzer_dazont	NOM
+amzer vak	amzer_vak	NOM
+amzerioù da zont	amzerioù_da_zont	NOM
+amzerioù dazont	amzerioù_dazont	NOM
+amzerioù vak	amzerioù_vak	NOM
+an abretañ ar gwellañ	an_abretañ_ar_gwellañ	ADV
+an aliesañ	an_aliesañ	CON
+an aliesañ ar gwellañ	an_aliesañ_ar_gwellañ	ADV
+an devezh pad	an_devezh_pad	ADV
+an doare ma	an_doare_ma	CON
+an eil dre egile	an_eil_dre_egile	ADV
+an eil gant eben	an_eil_gant_eben	ADV
+an eil gant egile	an_eil_gant_egile	ADV
+an eil goude eben	an_eil_goude_eben	ADV
+an eil goude egile	an_eil_goude_egile	ADV
+an eil hag eben	an_eil_hag_eben	ADV
+an eil hag egile	an_eil_hag_egile	ADV
+an eil pe eben	an_eil_pe_eben	ADV
+an eil pe egile	an_eil_pe_egile	ADV
+an eil war lerc_h eben	an_eil_war_lerc_h_eben	ADV
+an eil war lerc_h egile	an_eil_war_lerc_h_egile	ADV
+anat deoc_h	anat_deoc_h	CON
+anat dit	anat_dit	CON
+angell begel	angell_begel	NOM
+angell brenk	angell_brenk	NOM
+angell c_hein	angell_c_hein	NOM
+angell c_hof	angell_c_hof	NOM
+angell gein	angell_gein	NOM
+angell gof	angell_gof	NOM
+angell kein	angell_kein	NOM
+angell kof	angell_kof	NOM
+angell lost	angell_lost	NOM
+angell pegel	angell_pegel	NOM
+angell prenk	angell_prenk	NOM
+angell vegel	angell_vegel	NOM
+angell vrenk	angell_vrenk	NOM
+angelloù begel	angelloù_begel	NOM
+angelloù brenk	angelloù_brenk	NOM
+angelloù c_hein	angelloù_c_hein	NOM
+angelloù c_hof	angelloù_c_hof	NOM
+angelloù gein	angelloù_gein	NOM
+angelloù gof	angelloù_gof	NOM
+angelloù kein	angelloù_kein	NOM
+angelloù kof	angelloù_kof	NOM
+angelloù lost	angelloù_lost	NOM
+angelloù pegel	angelloù_pegel	NOM
+angelloù prenk	angelloù_prenk	NOM
+angelloù vegel	angelloù_vegel	NOM
+angelloù vrenk	angelloù_vrenk	NOM
+annez studierien	annez_studierien	NOM
+annezioù studierien	annezioù_studierien	NOM
+annezoù studierien	annezoù_studierien	NOM
+anv boutin	anv_boutin	NOM
+anv divoutin	anv_divoutin	NOM
+anv gwan doareañ	anv_gwan_doareañ	NOM
+anv gwan verb	anv_gwan_verb	NOM
+anvioù boutin	anvioù_boutin	NOM
+anvioù divoutin	anvioù_divoutin	NOM
+anvioù gwan doareañ	anvioù_gwan_doareañ	NOM
+anvioù gwan verb	anvioù_gwan_verb	NOM
+aotronez barner	aotronez_barner	NOM
+aotronez enseller	aotronez_enseller	NOM
+aotronez komiser	aotronez_komiser	NOM
+aotronez maer	aotronez_maer	NOM
+aotronez prezidant	aotronez_prezidant	NOM
+aotronez rektor	aotronez_rektor	NOM
+aotronez rener	aotronez_rener	NOM
+aotrou barner	aotrou_barner	NOM
+aotrou enseller	aotrou_enseller	NOM
+aotrou ker	aotrou_ker	ONO
+aotrou komiser	aotrou_komiser	NOM
+aotrou maer	aotrou_maer	NOM
+aotrou prezidant	aotrou_prezidant	NOM
+aotrou rektor	aotrou_rektor	NOM
+aotrou rener	aotrou_rener	NOM
+aotrouien barner	aotrouien_barner	NOM
+aotrouien enseller	aotrouien_enseller	NOM
+aotrouien ger	aotrouien_ger	ONO
+aotrouien komiser	aotrouien_komiser	NOM
+aotrouien maer	aotrouien_maer	NOM
+aotrouien prezidant	aotrouien_prezidant	NOM
+aotrouien rektor	aotrouien_rektor	NOM
+aotrouien rener	aotrouien_rener	NOM
+aotrounez barner	aotrounez_barner	NOM
+aotrounez enseller	aotrounez_enseller	NOM
+aotrounez ker	aotrounez_ker	ONO
+aotrounez komiser	aotrounez_komiser	NOM
+aotrounez maer	aotrounez_maer	NOM
+aotrounez prezidant	aotrounez_prezidant	NOM
+aotrounez rektor	aotrounez_rektor	NOM
+aotrounez rener	aotrounez_rener	NOM
+aoz labour	aoz_labour	NOM
+aozadur kelenn	aozadur_kelenn	NOM
+aozadur skol veur	aozadur_skol_veur	NOM
+aozadur stummañ	aozadur_stummañ	NOM
+aozadurioù kelenn	aozadurioù_kelenn	NOM
+aozadurioù skol veur	aozadurioù_skol_veur	NOM
+aozadurioù stummañ	aozadurioù_stummañ	NOM
+aozioù labour	aozioù_labour	NOM
+ar bloavezh pad	ar_bloavezh_pad	ADV
+ar bloaz a zeu	ar_bloaz_a_zeu	ADV
+ar bloaz mañ	ar_bloaz_mañ	ADV
+ar bloaz war lerc_h	ar_bloaz_war_lerc_h	ADV
+ar buanañ ar gwellañ	ar_buanañ_ar_gwellañ	ADV
+ar c_hentañ ar gwellañ	ar_c_hentañ_ar_gwellañ	ADV
+ar mod ma	ar_mod_ma	CON
+ar pezh	ar_pezh	PRO:rel
+ar pezh a	ar_pezh_a	PRO:rel
+ar rag hag ar perag	ar_rag_hag_ar_perag	ADV
+ar re	ar_re	PRO:rel
+ar re all	ar_re_all	PRO:ind
+ar re hont	ar_re_hont	PRO:dem
+ar re mañ	ar_re_mañ	PRO:dem
+ar re se	ar_re_se	PRO:dem
+ar vevenn ne dalvez ket ar vezherenn	ar_vevenn_ne_dalvez_ket_ar_vezherenn	ADV
+argerzh treiñ	argerzh_treiñ	NOM
+argerzhioù treiñ	argerzhioù_treiñ	NOM
+arm tan	arm_tan	NOM
+armoù tan	armoù_tan	NOM
+arsav bus	arsav_bus	NOM
+arsavioù bus	arsavioù_bus	NOM
+arz divinout	arz_divinout	NOM
+arzoù divinout	arzoù_divinout	NOM
+asied don	asied_don	NOM
+asiedoù don	asiedoù_don	NOM
+astenn tredan	astenn_tredan	NOM
+astennoù tredan	astennoù_tredan	NOM
+aveadur sport	aveadur_sport	NOM
+aveadurioù sport	aveadurioù_sport	NOM
+az pefe	az_pefe	AUX
+az peus	az_peus	AUX
+az pez	az_pez	AUX
+az peze	az_peze	AUX
+az pije	az_pije	AUX
+az po	az_po	AUX
+az poa	az_poa	AUX
+az poe	az_poe	AUX
+aze emañ an dalc_h	aze_emañ_an_dalc_h	ADV
+azen gornek	azen_gornek	ONO
+bad rakwelet	bad_rakwelet	NOM
+badoù rakwelet	badoù_rakwelet	NOM
+bag bezhina	bag_bezhina	NOM
+bag pesketa	bag_pesketa	NOM
+bag pezhina	bag_pezhina	NOM
+bag toneta	bag_toneta	NOM
+bag touneta	bag_touneta	NOM
+bag vezhina	bag_vezhina	NOM
+bagoù bezhina	bagoù_bezhina	NOM
+bagoù pesketa	bagoù_pesketa	NOM
+bagoù pezhina	bagoù_pezhina	NOM
+bagoù toneta	bagoù_toneta	NOM
+bagoù touneta	bagoù_touneta	NOM
+bagoù vezhina	bagoù_vezhina	NOM
+balafenn deiz	balafenn_deiz	NOM
+balafenn noz	balafenn_noz	NOM
+balafenned deiz	balafenned_deiz	NOM
+balafenned noz	balafenned_noz	NOM
+banell hent	banell_hent	NOM
+banell heñchañ	banell_heñchañ	NOM
+banellerezh hent	banellerezh_hent	NOM
+banellerezh heñchañ	banellerezh_heñchañ	NOM
+banellerezhioù hent	banellerezhioù_hent	NOM
+banellerezhioù heñchañ	banellerezhioù_heñchañ	NOM
+banelloù hent	banelloù_hent	NOM
+banelloù heñchañ	banelloù_heñchañ	NOM
+banne dour	banne_dour	NOM
+banne glav	banne_glav	NOM
+banne kafe	banne_kafe	NOM
+banneoù dour	banneoù_dour	NOM
+banneoù glav	banneoù_glav	NOM
+banneoù kafe	banneoù_kafe	NOM
+baot douar	baot_douar	NOM
+baot mor	baot_mor	NOM
+baot vor	baot_vor	NOM
+baoted douar	baoted_douar	NOM
+baotoù mor	baotoù_mor	NOM
+baotoù vor	baotoù_vor	NOM
+baper adaozet	baper_adaozet	NOM
+baperioù adaozet	baperioù_adaozet	NOM
+bara krazet	bara_krazet	NOM
+baraoù krazet	baraoù_krazet	NOM
+barrenn houarn	barrenn_houarn	NOM
+barrennoù houarn	barrennoù_houarn	NOM
+barrinier houarn	barrinier_houarn	NOM
+bazh skiañ	bazh_skiañ	NOM
+bazh taboulin	bazh_taboulin	NOM
+bec_h dezhi	bec_h_dezhi	ONO
+bed al labour	bed_al_labour	NOM
+bed ar c_hornôg	bed_ar_c_hornôg	NOM
+bedoù al labour	bedoù_al_labour	NOM
+bedoù ar c_hornôg	bedoù_ar_c_hornôg	NOM
+bellder bihanañ	bellder_bihanañ	NOM
+bellder brasañ	bellder_brasañ	NOM
+bellderioù bihanañ	bellderioù_bihanañ	NOM
+bellderioù brasañ	bellderioù_brasañ	NOM
+bellderoù bihanañ	bellderoù_bihanañ	NOM
+bellderoù brasañ	bellderoù_brasañ	NOM
+bellgomz hezoug	bellgomz_hezoug	NOM
+bellgomzer hezoug	bellgomzer_hezoug	NOM
+bellgomzerioù hezoug	bellgomzerioù_hezoug	NOM
+bemp kant	bemp_kant	ADJ:num
+benn ahel an norzh	benn_ahel_an_norzh	NOM
+benn ahel ar su	benn_ahel_ar_su	NOM
+benn an embregerezh	benn_an_embregerezh	NOM
+bennoù ahel an norzh	bennoù_ahel_an_norzh	NOM
+bennoù ahel ar su	bennoù_ahel_ar_su	NOM
+bennoù an embregerezh	bennoù_an_embregerezh	NOM
+bennoù devezh	bennoù_devezh	NOM
+bennoù embregerezh	bennoù_embregerezh	NOM
+benveg gwintañ	benveg_gwintañ	NOM
+benveg labour	benveg_labour	NOM
+benveg luc_hskeudenniñ	benveg_luc_hskeudenniñ	NOM
+benveg seniñ	benveg_seniñ	NOM
+benvegoù gwintañ	benvegoù_gwintañ	NOM
+benvegoù labour	benvegoù_labour	NOM
+benvegoù luc_hskeudenniñ	benvegoù_luc_hskeudenniñ	NOM
+benvegoù seniñ	benvegoù_seniñ	NOM
+bep an amzer	bep_an_amzer	ADV
+bep an tammig	bep_an_tammig	ADV
+bep bloaz	bep_bloaz	ADV
+bep gwech ma	bep_gwech_ma	CON
+bep ma	bep_ma	CON
+bep noz	bep_noz	ADV
+bep sizhun	bep_sizhun	ADV
+bep taol	bep_taol	ADV
+bep tro	bep_tro	ADV
+bep tro ma	bep_tro_ma	CON
+beseurt mod	beseurt_mod	ADV
+betek arc_hoazh	betek_arc_hoazh	ADV
+betek bremañ	betek_bremañ	ADV
+betek fin ar bloaz	betek_fin_ar_bloaz	ADV
+betek fin ar miz	betek_fin_ar_miz	ADV
+betek fin ar sizhun	betek_fin_ar_sizhun	ADV
+betek ma	betek_ma	CON
+betek na	betek_na	CON
+betek penn kentañ	betek_penn_kentañ	PRE
+betek re	betek_re	ADV
+betek warc_hoazh	betek_warc_hoazh	ADV
+bevar c_hant	bevar_c_hant	ADJ:num
+bezet pe vezet	bezet_pe_vezet	ADV
+bezh arrebeuri	bezh_arrebeuri	NOM
+bezh moneiz	bezh_moneiz	NOM
+bezhioù arrebeuri	bezhioù_arrebeuri	NOM
+bezhioù moneiz	bezhioù_moneiz	NOM
+bigi bezhina	bigi_bezhina	NOM
+bigi pesketa	bigi_pesketa	NOM
+bigi pezhina	bigi_pezhina	NOM
+bigi toneta	bigi_toneta	NOM
+bigi touneta	bigi_touneta	NOM
+bigi vezhina	bigi_vezhina	NOM
+bignez avaloù	bignez_avaloù	NOM
+bignezenn avaloù	bignezenn_avaloù	NOM
+biniaouioù bras	biniaouioù_bras	NOM
+biniaouioù kozh	biniaouioù_kozh	NOM
+biniawoù bras	biniawoù_bras	NOM
+biniawoù kozh	biniawoù_kozh	NOM
+biniou bras	biniou_bras	NOM
+biniou kozh	biniou_kozh	NOM
+binioù bras	binioù_bras	NOM
+binioù kozh	binioù_kozh	NOM
+bintet uhel	bintet_uhel	ADJ
+binviji gwintañ	binviji_gwintañ	NOM
+binviji labour	binviji_labour	NOM
+binviji luc_hskeudenniñ	binviji_luc_hskeudenniñ	NOM
+binviji seniñ	binviji_seniñ	NOM
+binvioù gwintañ	binvioù_gwintañ	NOM
+binvioù labour	binvioù_labour	NOM
+binvioù luc_hskeudenniñ	binvioù_luc_hskeudenniñ	NOM
+binvioù seniñ	binvioù_seniñ	NOM
+biskoazh c_hoazh	biskoazh_c_hoazh	ONO
+biskoazh kemend all	biskoazh_kemend_all	ONO
+biskoazh kement all	biskoazh_kement_all	ONO
+bizhier skiañ	bizhier_skiañ	NOM
+bizhier taboulin	bizhier_taboulin	NOM
+blac_h yaouank	blac_h_yaouank	NOM
+blac_hed yaouank	blac_hed_yaouank	NOM
+blev melen	blev_melen	NOM
+blev velen	blev_velen	NOM
+blevenn melen	blevenn_melen	NOM
+blevenn velen	blevenn_velen	NOM
+bloavezh hanter	bloavezh_hanter	NOM
+bloavezh mat	bloavezh_mat	NOM
+bloavezh mat deoc_h	bloavezh_mat_deoc_h	ONO
+bloavezh mat deoc_h holl	bloavezh_mat_deoc_h_holl	ONO
+bloavezh mat dit	bloavezh_mat_dit	ONO
+bloavezh skol	bloavezh_skol	NOM
+bloavezh skol veur	bloavezh_skol_veur	NOM
+bloavezhioù hanter	bloavezhioù_hanter	NOM
+bloavezhioù mat	bloavezhioù_mat	NOM
+bloavezhioù skol	bloavezhioù_skol	NOM
+bloavezhioù skol veur	bloavezhioù_skol_veur	NOM
+blokad bananez	blokad_bananez	NOM
+blokad rezin	blokad_rezin	NOM
+blokadoù bananez	blokadoù_bananez	NOM
+blokadoù rezin	blokadoù_rezin	NOM
+boblañs skol	boblañs_skol	NOM
+boblañsoù skol	boblañsoù_skol	NOM
+bodad diorren	bodad_diorren	NOM
+bodad heuliañ	bodad_heuliañ	NOM
+bodad mel	bodad_mel	NOM
+bodad priziañ	bodad_priziañ	NOM
+bodad trakêr	bodad_trakêr	NOM
+bodadoù diorren	bodadoù_diorren	NOM
+bodadoù heuliañ	bodadoù_heuliañ	NOM
+bodadoù mel	bodadoù_mel	NOM
+bodadoù priziañ	bodadoù_priziañ	NOM
+bodadoù trakêr	bodadoù_trakêr	NOM
+boest an diaoul	boest_an_diaoul	NOM
+boestad kreionoù	boestad_kreionoù	NOM
+boestadoù kreionoù	boestadoù_kreionoù	NOM
+boestoù an diaoul	boestoù_an_diaoul	NOM
+bol studi ha diorren	bol_studi_ha_diorren	NOM
+bol yezh	bol_yezh	NOM
+boled kanol	boled_kanol	NOM
+boledoù kanol	boledoù_kanol	NOM
+bolejoù kanol	bolejoù_kanol	NOM
+bolennad chokolad	bolennad_chokolad	NOM
+bolennad kafe	bolennad_kafe	NOM
+bolennad laezh	bolennad_laezh	NOM
+bolennadoù chokolad	bolennadoù_chokolad	NOM
+bolennadoù kafe	bolennadoù_kafe	NOM
+bolennadoù laezh	bolennadoù_laezh	NOM
+bolidi kanol	bolidi_kanol	NOM
+boliji kanol	boliji_kanol	NOM
+bolitikerezh diorren	bolitikerezh_diorren	NOM
+bolitikerezh yezh	bolitikerezh_yezh	NOM
+bolitikerezhioù diorren	bolitikerezhioù_diorren	NOM
+bolitikerezhioù yezh	bolitikerezhioù_yezh	NOM
+boloù studi ha diorren	boloù_studi_ha_diorren	NOM
+boloù yezh	boloù_yezh	NOM
+boned kouronkañ	boned_kouronkañ	NOM
+bonedoù kouronkañ	bonedoù_kouronkañ	NOM
+borched media	borched_media	NOM
+borchedoù media	borchedoù_media	NOM
+borzh ar skol	borzh_ar_skol	NOM
+borzh pesketa	borzh_pesketa	NOM
+borzhioù ar skol	borzhioù_ar_skol	NOM
+borzhioù pesketa	borzhioù_pesketa	NOM
+bost diorren	bost_diorren	NOM
+bost labour	bost_labour	NOM
+bost leun amzer	bost_leun_amzer	NOM
+bost leunamzer	bost_leunamzer	NOM
+bostoù diorren	bostoù_diorren	NOM
+bostoù labour	bostoù_labour	NOM
+bostoù leun amzer	bostoù_leun_amzer	NOM
+bostoù leunamzer	bostoù_leunamzer	NOM
+botez ruzikat	botez_ruzikat	NOM
+botoù ruzikat	botoù_ruzikat	NOM
+boue saveteiñ	boue_saveteiñ	NOM
+boued laezh	boued_laezh	NOM
+bouedoù laezh	bouedoù_laezh	NOM
+boueioù saveteiñ	boueioù_saveteiñ	NOM
+boutailhad champouenn	boutailhad_champouenn	NOM
+boutailhad dour	boutailhad_dour	NOM
+boutailhad gwin	boutailhad_gwin	NOM
+boutailhad laezh	boutailhad_laezh	NOM
+boutailhad sistr	boutailhad_sistr	NOM
+boutailhadoù champouenn	boutailhadoù_champouenn	NOM
+boutailhadoù dour	boutailhadoù_dour	NOM
+boutailhadoù gwin	boutailhadoù_gwin	NOM
+boutailhadoù laezh	boutailhadoù_laezh	NOM
+boutailhadoù sistr	boutailhadoù_sistr	NOM
+brageier berr	brageier_berr	NOM
+brageier jean	brageier_jean	NOM
+brageier sport	brageier_sport	NOM
+bragou berr	bragou_berr	NOM
+bragou jean	bragou_jean	NOM
+bragou sport	bragou_sport	NOM
+bragoù berr	bragoù_berr	NOM
+bragoù jean	bragoù_jean	NOM
+bragoù sport	bragoù_sport	NOM
+brezel bed	brezel_bed	NOM
+brezel diabarzh	brezel_diabarzh	NOM
+brezelioù bed	brezelioù_bed	NOM
+brezelioù diabarzh	brezelioù_diabarzh	NOM
+briz mat	briz_mat	NOM
+brizioù mat	brizioù_mat	NOM
+brogramm eskemm	brogramm_eskemm	NOM
+brogrammoù eskemm	brogrammoù_eskemm	NOM
+broust blev	broust_blev	NOM
+broust dent	broust_dent	NOM
+broustoù blev	broustoù_blev	NOM
+broustoù dent	broustoù_dent	NOM
+buoc_h laezh	buoc_h_laezh	NOM
+buoc_hed laezh	buoc_hed_laezh	NOM
+buoc_henned laezh	buoc_henned_laezh	NOM
+c_hador burev	c_hador_burev	NOM
+c_hador purev	c_hador_purev	NOM
+c_hador vurev	c_hador_vurev	NOM
+c_hadorioù burev	c_hadorioù_burev	NOM
+c_hadorioù purev	c_hadorioù_purev	NOM
+c_hadorioù vurev	c_hadorioù_vurev	NOM
+c_halz a	c_halz_a	PRE
+c_halzik a	c_halzik_a	PRE
+c_hamp tolpañ	c_hamp_tolpañ	NOM
+c_hampoù tolpañ	c_hampoù_tolpañ	NOM
+c_han ha diskan	c_han_ha_diskan	NOM
+c_hanod saveteiñ	c_hanod_saveteiñ	NOM
+c_hanodoù saveteiñ	c_hanodoù_saveteiñ	NOM
+c_harg merañ	c_harg_merañ	NOM
+c_harg verañ	c_harg_verañ	NOM
+c_hargad a studi	c_hargad_a_studi	NOM
+c_hargad a ziorren	c_hargad_a_ziorren	NOM
+c_hargaded a studi	c_hargaded_a_studi	NOM
+c_hargaded a ziorren	c_hargaded_a_ziorren	NOM
+c_hargadez a studi	c_hargadez_a_studi	NOM
+c_hargadez a ziorren	c_hargadez_a_ziorren	NOM
+c_hargadezed a studi	c_hargadezed_a_studi	NOM
+c_hargadezed a ziorren	c_hargadezed_a_ziorren	NOM
+c_hargidi a studi	c_hargidi_a_studi	NOM
+c_hargidi a ziorren	c_hargidi_a_ziorren	NOM
+c_hargoù merañ	c_hargoù_merañ	NOM
+c_hargoù verañ	c_hargoù_verañ	NOM
+c_harr tos tos	c_harr_tos_tos	NOM
+c_hazetenn liv	c_hazetenn_liv	NOM
+c_hazetennoù liv	c_hazetennoù_liv	NOM
+c_helennadurezh divyezhek	c_helennadurezh_divyezhek	NOM
+c_helennadurezhioù divyezhek	c_helennadurezhioù_divyezhek	NOM
+c_helennadurezhoù divyezhek	c_helennadurezhoù_divyezhek	NOM
+c_hement a	c_hement_a	PRE
+c_hemmadur kensonennoù	c_hemmadur_kensonennoù	NOM
+c_hemmadurioù kensonennoù	c_hemmadurioù_kensonennoù	NOM
+c_hentañ ministr	c_hentañ_ministr	NOM
+c_hentañ ministred	c_hentañ_ministred	NOM
+c_hentañ ministrez	c_hentañ_ministrez	NOM
+c_hentañ ministrezed	c_hentañ_ministrezed	NOM
+c_hentel noz	c_hentel_noz	NOM
+c_hentelioù noz	c_hentelioù_noz	NOM
+c_hevrat didermen	c_hevrat_didermen	NOM
+c_hevrat labour	c_hevrat_labour	NOM
+c_hevrat studiañ	c_hevrat_studiañ	NOM
+c_hevratoù didermen	c_hevratoù_didermen	NOM
+c_hevratoù labour	c_hevratoù_labour	NOM
+c_hevratoù studiañ	c_hevratoù_studiañ	NOM
+c_hevredigezh dihun	c_hevredigezh_dihun	NOM
+c_hevredigezh div yezh	c_hevredigezh_div_yezh	NOM
+c_hevredigezhioù dihun	c_hevredigezhioù_dihun	NOM
+c_hevredigezhioù div yezh	c_hevredigezhioù_div_yezh	NOM
+c_hevrenn geodedel	c_hevrenn_geodedel	NOM
+c_hevrennoù geodedel	c_hevrennoù_geodedel	NOM
+c_hig kanol	c_hig_kanol	NOM
+c_hilhoroù douarañ	c_hilhoroù_douarañ	NOM
+c_hinean ar c_heheder	c_hinean_ar_c_heheder	NOM
+c_hinean bissau	c_hinean_bissau	NOM
+c_hineaned ar c_heheder	c_hineaned_ar_c_heheder	NOM
+c_hineaned bissau	c_hineaned_bissau	NOM
+c_hineanez ar c_heheder	c_hineanez_ar_c_heheder	NOM
+c_hineanez bissau	c_hineanez_bissau	NOM
+c_hineanezed ar c_heheder	c_hineanezed_ar_c_heheder	NOM
+c_hineanezed bissau	c_hineanezed_bissau	NOM
+c_hinnig labour	c_hinnig_labour	NOM
+c_hinnigoù labour	c_hinnigoù_labour	NOM
+c_hirri tos tos	c_hirri_tos_tos	NOM
+c_hitar boud	c_hitar_boud	NOM
+c_hitar tredan	c_hitar_tredan	NOM
+c_hitaroù boud	c_hitaroù_boud	NOM
+c_hitaroù tredan	c_hitaroù_tredan	NOM
+c_hlas divyezhek	c_hlas_divyezhek	NOM
+c_hlas unyezhek	c_hlas_unyezhek	NOM
+c_hlasker labour	c_hlasker_labour	NOM
+c_hlaskerez labour	c_hlaskerez_labour	NOM
+c_hlaskerezed labour	c_hlaskerezed_labour	NOM
+c_hlaskerien labour	c_hlaskerien_labour	NOM
+c_hlaskerion labour	c_hlaskerion_labour	NOM
+c_hlaskour labour	c_hlaskour_labour	NOM
+c_hlaskourez labour	c_hlaskourez_labour	NOM
+c_hlaskourezed labour	c_hlaskourezed_labour	NOM
+c_hlaskourien labour	c_hlaskourien_labour	NOM
+c_hlasoù divyezhek	c_hlasoù_divyezhek	NOM
+c_hlasoù unyezhek	c_hlasoù_unyezhek	NOM
+c_hleuzeur burev	c_hleuzeur_burev	NOM
+c_hleuzeur purev	c_hleuzeur_purev	NOM
+c_hleuzeur vurev	c_hleuzeur_vurev	NOM
+c_hleuzeurioù burev	c_hleuzeurioù_burev	NOM
+c_hleuzeurioù purev	c_hleuzeurioù_purev	NOM
+c_hleuzeurioù vurev	c_hleuzeurioù_vurev	NOM
+c_hleñved spegus	c_hleñved_spegus	NOM
+c_hleñvedoù spegus	c_hleñvedoù_spegus	NOM
+c_hlogorenn dredan	c_hlogorenn_dredan	NOM
+c_hlogorenn tredan	c_hlogorenn_tredan	NOM
+c_hlogorenn zredan	c_hlogorenn_zredan	NOM
+c_hlogorennoù dredan	c_hlogorennoù_dredan	NOM
+c_hlogorennoù tredan	c_hlogorennoù_tredan	NOM
+c_hlogorennoù zredan	c_hlogorennoù_zredan	NOM
+c_hoant kousket	c_hoant_kousket	NOM
+c_hoantoù kousket	c_hoantoù_kousket	NOM
+c_hoari bouloù	c_hoari_bouloù	NOM
+c_hoari go	c_hoari_go	NOM
+c_hoari video	c_hoari_video	NOM
+c_hoarier klub	c_hoarier_klub	NOM
+c_hoarier mell droad	c_hoarier_mell_droad	NOM
+c_hoarier tennis	c_hoarier_tennis	NOM
+c_hoarierez klub	c_hoarierez_klub	NOM
+c_hoarierez mell droad	c_hoarierez_mell_droad	NOM
+c_hoarierez tennis	c_hoarierez_tennis	NOM
+c_hoarierezed klub	c_hoarierezed_klub	NOM
+c_hoarierezed mell droad	c_hoarierezed_mell_droad	NOM
+c_hoarierezed tennis	c_hoarierezed_tennis	NOM
+c_hoarierien klub	c_hoarierien_klub	NOM
+c_hoarierien mell droad	c_hoarierien_mell_droad	NOM
+c_hoarierien tennis	c_hoarierien_tennis	NOM
+c_hoarierion klub	c_hoarierion_klub	NOM
+c_hoarierion mell droad	c_hoarierion_mell_droad	NOM
+c_hoarierion tennis	c_hoarierion_tennis	NOM
+c_hoariour klub	c_hoariour_klub	NOM
+c_hoariour mell droad	c_hoariour_mell_droad	NOM
+c_hoariour tennis	c_hoariour_tennis	NOM
+c_hoariourez klub	c_hoariourez_klub	NOM
+c_hoariourez mell droad	c_hoariourez_mell_droad	NOM
+c_hoariourez tennis	c_hoariourez_tennis	NOM
+c_hoariourezed klub	c_hoariourezed_klub	NOM
+c_hoariourezed mell droad	c_hoariourezed_mell_droad	NOM
+c_hoariourezed tennis	c_hoariourezed_tennis	NOM
+c_hoariourien klub	c_hoariourien_klub	NOM
+c_hoariourien mell droad	c_hoariourien_mell_droad	NOM
+c_hoariourien tennis	c_hoariourien_tennis	NOM
+c_hoarioù bouloù	c_hoarioù_bouloù	NOM
+c_hoarioù go	c_hoarioù_go	NOM
+c_hoarioù video	c_hoarioù_video	NOM
+c_homiser ar c_hontoù	c_homiser_ar_c_hontoù	NOM
+c_homiserez ar c_hontoù	c_homiserez_ar_c_hontoù	NOM
+c_homiserezed ar c_hontoù	c_homiserezed_ar_c_hontoù	NOM
+c_homiserien ar c_hontoù	c_homiserien_ar_c_hontoù	NOM
+c_homiserion ar c_hontoù	c_homiserion_ar_c_hontoù	NOM
+c_homisour ar c_hontoù	c_homisour_ar_c_hontoù	NOM
+c_homisourez ar c_hontoù	c_homisourez_ar_c_hontoù	NOM
+c_homisourezed ar c_hontoù	c_homisourezed_ar_c_hontoù	NOM
+c_homisourien ar c_hontoù	c_homisourien_ar_c_hontoù	NOM
+c_hordenn lammat	c_hordenn_lammat	NOM
+c_hordennoù lammat	c_hordennoù_lammat	NOM
+c_horn digor	c_horn_digor	NOM
+c_horn lemm	c_horn_lemm	NOM
+c_hornioù digor	c_hornioù_digor	NOM
+c_hornioù lemm	c_hornioù_lemm	NOM
+c_hornôg bras	c_hornôg_bras	NOM
+c_hornôg pellañ	c_hornôg_pellañ	NOM
+c_horzenn dourañ	c_horzenn_dourañ	NOM
+c_horzennoù dourañ	c_horzennoù_dourañ	NOM
+c_houblad yezhoù	c_houblad_yezhoù	NOM
+c_houbladoù yezhoù	c_houbladoù_yezhoù	NOM
+c_houlaouiñ foran	c_houlaouiñ_foran	NOM
+c_houlaouiñ publik	c_houlaouiñ_publik	NOM
+c_houlenn skoaziad	c_houlenn_skoaziad	NOM
+c_houlenn sokial	c_houlenn_sokial	NOM
+c_houlenn stummañ	c_houlenn_stummañ	NOM
+c_houlennoù skoaziad	c_houlennoù_skoaziad	NOM
+c_houlennoù sokial	c_houlennoù_sokial	NOM
+c_houlennoù stummañ	c_houlennoù_stummañ	NOM
+c_houlzad brudañ	c_houlzad_brudañ	NOM
+c_houlzad kelaouiñ	c_houlzad_kelaouiñ	NOM
+c_houlzadoù brudañ	c_houlzadoù_brudañ	NOM
+c_houlzadoù kelaouiñ	c_houlzadoù_kelaouiñ	NOM
+c_houriz surentez	c_houriz_surentez	NOM
+c_hourizoù surentez	c_hourizoù_surentez	NOM
+c_hraf gouren	c_hraf_gouren	NOM
+c_hraf judo	c_hraf_judo	NOM
+c_hrafoù gouren	c_hrafoù_gouren	NOM
+c_hrafoù judo	c_hrafoù_judo	NOM
+c_hraou kezeg	c_hraou_kezeg	NOM
+c_hraou moc_h	c_hraou_moc_h	NOM
+c_hrazerez bara	c_hrazerez_bara	NOM
+c_hrazerez para	c_hrazerez_para	NOM
+c_hrazerez vara	c_hrazerez_vara	NOM
+c_hrazerezioù bara	c_hrazerezioù_bara	NOM
+c_hrazerezioù para	c_hrazerezioù_para	NOM
+c_hrazerezioù vara	c_hrazerezioù_vara	NOM
+c_hrefen gouren	c_hrefen_gouren	NOM
+c_hrefen judo	c_hrefen_judo	NOM
+c_hreion liv	c_hreion_liv	NOM
+c_hreionoù liv	c_hreionoù_liv	NOM
+c_hreizenn deuliaouiñ	c_hreizenn_deuliaouiñ	NOM
+c_hreizenn diguzhat	c_hreizenn_diguzhat	NOM
+c_hreizenn enklask	c_hreizenn_enklask	NOM
+c_hreizenn merañ	c_hreizenn_merañ	NOM
+c_hreizenn stummañ	c_hreizenn_stummañ	NOM
+c_hreizenn teuliaouiñ	c_hreizenn_teuliaouiñ	NOM
+c_hreizenn verañ	c_hreizenn_verañ	NOM
+c_hreizenn zeuliaouiñ	c_hreizenn_zeuliaouiñ	NOM
+c_hreizennoù deuliaouiñ	c_hreizennoù_deuliaouiñ	NOM
+c_hreizennoù diguzhat	c_hreizennoù_diguzhat	NOM
+c_hreizennoù enklask	c_hreizennoù_enklask	NOM
+c_hreizennoù merañ	c_hreizennoù_merañ	NOM
+c_hreizennoù stummañ	c_hreizennoù_stummañ	NOM
+c_hreizennoù teuliaouiñ	c_hreizennoù_teuliaouiñ	NOM
+c_hreizennoù verañ	c_hreizennoù_verañ	NOM
+c_hreizennoù zeuliaouiñ	c_hreizennoù_zeuliaouiñ	NOM
+c_hrek tredan	c_hrek_tredan	NOM
+c_hrekad kafe	c_hrekad_kafe	NOM
+c_hrekadoù kafe	c_hrekadoù_kafe	NOM
+c_hrekoù tredan	c_hrekoù_tredan	NOM
+c_hrevier kezeg	c_hrevier_kezeg	NOM
+c_hrevier moc_h	c_hrevier_moc_h	NOM
+c_hrip mareadek	c_hrip_mareadek	NOM
+c_hripoù mareadek	c_hripoù_mareadek	NOM
+c_hrugell merien	c_hrugell_merien	NOM
+c_hrugell verien	c_hrugell_verien	NOM
+c_hrugelloù merien	c_hrugelloù_merien	NOM
+c_hrugelloù verien	c_hrugelloù_verien	NOM
+c_hudenn merañ	c_hudenn_merañ	NOM
+c_hudenn stummañ	c_hudenn_stummañ	NOM
+c_hudenn verañ	c_hudenn_verañ	NOM
+c_hudennoù merañ	c_hudennoù_merañ	NOM
+c_hudennoù stummañ	c_hudennoù_stummañ	NOM
+c_hudennoù verañ	c_hudennoù_verañ	NOM
+c_humun c_hreiz	c_humun_c_hreiz	NOM
+c_humun greiz	c_humun_greiz	NOM
+c_humun kreiz	c_humun_kreiz	NOM
+c_humuniezh kumunioù	c_humuniezh_kumunioù	NOM
+c_humuniezhioù kumunioù	c_humuniezhioù_kumunioù	NOM
+c_humuniezhoù kumunioù	c_humuniezhoù_kumunioù	NOM
+c_humunioù c_hreiz	c_humunioù_c_hreiz	NOM
+c_humunioù greiz	c_humunioù_greiz	NOM
+c_humunioù kreiz	c_humunioù_kreiz	NOM
+c_huzul diorren	c_huzul_diorren	NOM
+c_huzuliadenn mezegel	c_huzuliadenn_mezegel	NOM
+c_huzuliadenn vezegel	c_huzuliadenn_vezegel	NOM
+c_huzuliadennoù mezegel	c_huzuliadennoù_mezegel	NOM
+c_huzuliadennoù vezegel	c_huzuliadennoù_vezegel	NOM
+c_huzulier diriadel	c_huzulier_diriadel	NOM
+c_huzulier tiriadel	c_huzulier_tiriadel	NOM
+c_huzulier ziriadel	c_huzulier_ziriadel	NOM
+c_huzulierez diriadel	c_huzulierez_diriadel	NOM
+c_huzulierez tiriadel	c_huzulierez_tiriadel	NOM
+c_huzulierez ziriadel	c_huzulierez_ziriadel	NOM
+c_huzulierezed diriadel	c_huzulierezed_diriadel	NOM
+c_huzulierezed tiriadel	c_huzulierezed_tiriadel	NOM
+c_huzulierezed ziriadel	c_huzulierezed_ziriadel	NOM
+c_huzulierien diriadel	c_huzulierien_diriadel	NOM
+c_huzulierien tiriadel	c_huzulierien_tiriadel	NOM
+c_huzulierien ziriadel	c_huzulierien_ziriadel	NOM
+c_huzulierion diriadel	c_huzulierion_diriadel	NOM
+c_huzulierion tiriadel	c_huzulierion_tiriadel	NOM
+c_huzulierion ziriadel	c_huzulierion_ziriadel	NOM
+c_huzuliour diriadel	c_huzuliour_diriadel	NOM
+c_huzuliour tiriadel	c_huzuliour_tiriadel	NOM
+c_huzuliour ziriadel	c_huzuliour_ziriadel	NOM
+c_huzuliourez diriadel	c_huzuliourez_diriadel	NOM
+c_huzuliourez tiriadel	c_huzuliourez_tiriadel	NOM
+c_huzuliourez ziriadel	c_huzuliourez_ziriadel	NOM
+c_huzuliourezed diriadel	c_huzuliourezed_diriadel	NOM
+c_huzuliourezed tiriadel	c_huzuliourezed_tiriadel	NOM
+c_huzuliourezed ziriadel	c_huzuliourezed_ziriadel	NOM
+c_huzuliourien diriadel	c_huzuliourien_diriadel	NOM
+c_huzuliourien tiriadel	c_huzuliourien_tiriadel	NOM
+c_huzuliourien ziriadel	c_huzuliourien_ziriadel	NOM
+c_huzulioù diorren	c_huzulioù_diorren	NOM
+c_hwec_h kant	c_hwec_h_kant	ADJ:num
+c_hêr c_hreiz	c_hêr_c_hreiz	NOM
+c_hêr greiz	c_hêr_greiz	NOM
+c_hêr kreiz	c_hêr_kreiz	NOM
+c_hêrioù c_hreiz	c_hêrioù_c_hreiz	NOM
+c_hêrioù greiz	c_hêrioù_greiz	NOM
+c_hêrioù kreiz	c_hêrioù_kreiz	NOM
+chañs vat	chañs_vat	ONO
+chug avaloù	chug_avaloù	NOM
+chug orañjez	chug_orañjez	NOM
+chug rezin	chug_rezin	NOM
+chugoù avaloù	chugoù_avaloù	NOM
+chugoù orañjez	chugoù_orañjez	NOM
+chugoù rezin	chugoù_rezin	NOM
+da badout	da_badout	ADJ
+da c_hortoz	da_c_hortoz	ADV
+da c_houde	da_c_houde	ADV
+da eil	da_eil	ADV
+da gentañ	da_gentañ	ADV
+da gentañ holl	da_gentañ_holl	ADV
+da gentañ penn	da_gentañ_penn	ADV
+da hanternoz hanter	da_hanternoz_hanter	ADV
+da hini	da_hini	PRO:pos
+da lavaret eo	da_lavaret_eo	CON
+da lavarout eo	da_lavarout_eo	CON
+da lâret eo	da_lâret_eo	CON
+da lârout eo	da_lârout_eo	CON
+da neuze	da_neuze	ADV
+da re	da_re	PRO:pos
+da viken	da_viken	ADV
+da welet	da_welet	ADV
+da zigentañ	da_zigentañ	ADV
+dachenn labour	dachenn_labour	NOM
+dachenn mell droad	dachenn_mell_droad	NOM
+dachenn sport	dachenn_sport	NOM
+dachenn studi	dachenn_studi	NOM
+dachenn vell droad	dachenn_vell_droad	NOM
+dachennoù labour	dachennoù_labour	NOM
+dachennoù mell droad	dachennoù_mell_droad	NOM
+dachennoù sport	dachennoù_sport	NOM
+dachennoù studi	dachennoù_studi	NOM
+dachennoù vell droad	dachennoù_vell_droad	NOM
+dafar brudañ	dafar_brudañ	NOM
+dafar kehentiñ	dafar_kehentiñ	NOM
+dafaroù brudañ	dafaroù_brudañ	NOM
+dafaroù kehentiñ	dafaroù_kehentiñ	NOM
+dakad moullañ	dakad_moullañ	NOM
+dakad tresañ	dakad_tresañ	NOM
+dakadoù moullañ	dakadoù_moullañ	NOM
+dakadoù tresañ	dakadoù_tresañ	NOM
+dambrest goude	dambrest_goude	ADV
+danevell arc_hant	danevell_arc_hant	NOM
+danevell argant	danevell_argant	NOM
+danevell beaj	danevell_beaj	NOM
+danevell buhezel	danevell_buhezel	NOM
+danevell obererezh	danevell_obererezh	NOM
+danevell peaj	danevell_peaj	NOM
+danevell puhezel	danevell_puhezel	NOM
+danevell veaj	danevell_veaj	NOM
+danevell vuhezel	danevell_vuhezel	NOM
+danevelloù arc_hant	danevelloù_arc_hant	NOM
+danevelloù argant	danevelloù_argant	NOM
+danevelloù beaj	danevelloù_beaj	NOM
+danevelloù buhezel	danevelloù_buhezel	NOM
+danevelloù obererezh	danevelloù_obererezh	NOM
+danevelloù peaj	danevelloù_peaj	NOM
+danevelloù puhezel	danevelloù_puhezel	NOM
+danevelloù veaj	danevelloù_veaj	NOM
+danevelloù vuhezel	danevelloù_vuhezel	NOM
+dant genver	dant_genver	NOM
+daol c_hrenn	daol_c_hrenn	NOM
+daol feriñ	daol_feriñ	NOM
+daol grenn	daol_grenn	NOM
+daol ijin	daol_ijin	NOM
+daol kehentiñ	daol_kehentiñ	NOM
+daol krenn	daol_krenn	NOM
+daol oberata	daol_oberata	NOM
+daolioù c_hrenn	daolioù_c_hrenn	NOM
+daolioù feriñ	daolioù_feriñ	NOM
+daolioù grenn	daolioù_grenn	NOM
+daolioù ijin	daolioù_ijin	NOM
+daolioù kehentiñ	daolioù_kehentiñ	NOM
+daolioù krenn	daolioù_krenn	NOM
+daolioù oberata	daolioù_oberata	NOM
+daou c_hant	daou_c_hant	ADJ:num
+daoust da	daoust_da	PRE
+daoust ha	daoust_ha	PRO:ind
+daoust hag eñ	daoust_hag_eñ	PRO:ind
+daoust ma	daoust_ma	CON
+darempred diavaez	darempred_diavaez	NOM
+darempred rev	darempred_rev	NOM
+darempredoù diavaez	darempredoù_diavaez	NOM
+darempredoù rev	darempredoù_rev	NOM
+darn brasañ	darn_brasañ	NOM
+darn prasañ	darn_prasañ	NOM
+darn vrasañ	darn_vrasañ	NOM
+darnoù brasañ	darnoù_brasañ	NOM
+darnoù prasañ	darnoù_prasañ	NOM
+darnoù vrasañ	darnoù_vrasañ	NOM
+dartezenn c_herez	dartezenn_c_herez	NOM
+dartezenn gerez	dartezenn_gerez	NOM
+dartezenn kerez	dartezenn_kerez	NOM
+dartezennoù c_herez	dartezennoù_c_herez	NOM
+dartezennoù gerez	dartezennoù_gerez	NOM
+dartezennoù kerez	dartezennoù_kerez	NOM
+dec_h da noz	dec_h_da_noz	ADV
+degemer mat	degemer_mat	NOM
+degemeroù mat	degemeroù_mat	NOM
+deiz gouel	deiz_gouel	NOM
+deiz ha bloaz laouen	deiz_ha_bloaz_laouen	ONO
+deiz ha bloaz laouen deoc_h	deiz_ha_bloaz_laouen_deoc_h	ONO
+deiz ha bloaz laouen deoc_h holl	deiz_ha_bloaz_laouen_deoc_h_holl	ONO
+deiz ha bloaz laouen dit	deiz_ha_bloaz_laouen_dit	ONO
+deizioù gouel	deizioù_gouel	NOM
+dek ha pevar ugent	dek_ha_pevar_ugent	ADJ:num
+dek ha tri ugent	dek_ha_tri_ugent	ADJ:num
+deknologiezh ar c_helaouiñ hag ar c_hehentiñ	deknologiezh_ar_c_helaouiñ_hag_ar_c_hehentiñ	NOM
+deknologiezh nevez	deknologiezh_nevez	NOM
+deknologiezhioù ar c_helaouiñ hag ar c_hehentiñ	deknologiezhioù_ar_c_helaouiñ_hag_ar_c_hehentiñ	NOM
+deknologiezhioù nevez	deknologiezhioù_nevez	NOM
+deknologiezhoù ar c_helaouiñ hag ar c_hehentiñ	deknologiezhoù_ar_c_helaouiñ_hag_ar_c_hehentiñ	NOM
+deknologiezhoù nevez	deknologiezhoù_nevez	NOM
+delienn bik	delienn_bik	NOM
+delienn fik	delienn_fik	NOM
+delienn pik	delienn_pik	NOM
+delienn sec_h	delienn_sec_h	NOM
+delioù bik	delioù_bik	NOM
+delioù fik	delioù_fik	NOM
+delioù pik	delioù_pik	NOM
+delioù sec_h	delioù_sec_h	NOM
+demat deoc_h	demat_deoc_h	ONO
+demat deoc_h holl	demat_deoc_h_holl	ONO
+demat dit	demat_dit	ONO
+den a iliz	den_a_iliz	NOM
+den a lez	den_a_lez	NOM
+den a vicher	den_a_vicher	NOM
+den a youl vat	den_a_youl_vat	NOM
+den deuet	den_deuet	NOM
+den deut	den_deut	NOM
+den diabarzh	den_diabarzh	NOM
+den diavaez	den_diavaez	NOM
+den ebet	den_ebet	ADV
+den gopret	den_gopret	NOM
+den istorel	den_istorel	NOM
+den kentañ	den_kentañ	NOM
+den kozh	den_kozh	NOM
+den livek	den_livek	NOM
+den pedet	den_pedet	NOM
+den war an oad	den_war_an_oad	NOM
+den yaouank	den_yaouank	NOM
+denn fuzuilh	denn_fuzuilh	NOM
+denn kanol	denn_kanol	NOM
+dennoù fuzuilh	dennoù_fuzuilh	NOM
+dennoù kanol	dennoù_kanol	NOM
+dent genver	dent_genver	NOM
+deskadurezh stad	deskadurezh_stad	NOM
+deskadurezh uhel	deskadurezh_uhel	NOM
+deskadurezhioù stad	deskadurezhioù_stad	NOM
+deskadurezhioù uhel	deskadurezhioù_uhel	NOM
+deskadurezhoù stad	deskadurezhoù_stad	NOM
+deskadurezhoù uhel	deskadurezhoù_uhel	NOM
+deul kinnigoù	deul_kinnigoù	NOM
+deulioù kinnigoù	deulioù_kinnigoù	NOM
+devezh dal	devezh_dal	NOM
+devezh eskemm	devezh_eskemm	NOM
+devezh gouel	devezh_gouel	NOM
+devezh hanter	devezh_hanter	NOM
+devezh stummañ	devezh_stummañ	NOM
+devezhioù dal	devezhioù_dal	NOM
+devezhioù eskemm	devezhioù_eskemm	NOM
+devezhioù gouel	devezhioù_gouel	NOM
+devezhioù hanter	devezhioù_hanter	NOM
+devezhioù stummañ	devezhioù_stummañ	NOM
+di degemer	di_degemer	NOM
+di lojañ miret	di_lojañ_miret	NOM
+diaester analañ	diaester_analañ	NOM
+diaesterioù analañ	diaesterioù_analañ	NOM
+diazezadur foran a genlabour sevenadurel	diazezadur_foran_a_genlabour_sevenadurel	NOM
+diazezadurioù foran a genlabour sevenadurel	diazezadurioù_foran_a_genlabour_sevenadurel	NOM
+dibab pennadoù	dibab_pennadoù	NOM
+dibaboù pennadoù	dibaboù_pennadoù	NOM
+dier degemer	dier_degemer	NOM
+dier lojañ miret	dier_lojañ_miret	NOM
+diez degemer	diez_degemer	NOM
+diez lojañ miret	diez_lojañ_miret	NOM
+diforc_h dasparzhañ	diforc_h_dasparzhañ	NOM
+diforc_hioù dasparzhañ	diforc_hioù_dasparzhañ	NOM
+digwener da noz	digwener_da_noz	ADV
+digwener kentañ	digwener_kentañ	ADV
+digwener paseet	digwener_paseet	ADV
+digwener tremenet	digwener_tremenet	ADV
+dilhad kouronkañ	dilhad_kouronkañ	NOM
+dilhad labour	dilhad_labour	NOM
+dilhadoù kouronkañ	dilhadoù_kouronkañ	NOM
+dilhadoù labour	dilhadoù_labour	NOM
+dilun da noz	dilun_da_noz	ADV
+dilun kentañ	dilun_kentañ	ADV
+dilun paseet	dilun_paseet	ADV
+dilun tremenet	dilun_tremenet	ADV
+dimerc_her da noz	dimerc_her_da_noz	ADV
+dimerc_her kentañ	dimerc_her_kentañ	ADV
+dimerc_her paseet	dimerc_her_paseet	ADV
+dimerc_her tremenet	dimerc_her_tremenet	ADV
+dimeurzh da noz	dimeurzh_da_noz	ADV
+dimeurzh kentañ	dimeurzh_kentañ	ADV
+dimeurzh paseet	dimeurzh_paseet	ADV
+dimeurzh tremenet	dimeurzh_tremenet	ADV
+dimezell ger	dimezell_ger	ONO
+dimezelled ker	dimezelled_ker	ONO
+dimeziñ rakdivizet	dimeziñ_rakdivizet	NOM
+dindan an oabl	dindan_an_oabl	ADV
+dindan daou viz	dindan_daou_viz	ADV
+dindan gwarez	dindan_gwarez	PRE
+dindan ren	dindan_ren	PRE
+diouzh a	diouzh_a	CON
+diouzh an dro	diouzh_an_dro	ADV
+diouzh an noz	diouzh_an_noz	ADV
+diouzh an tu all	diouzh_an_tu_all	ADV
+diouzh ar c_hiz	diouzh_ar_c_hiz	ADV
+diouzh ar gwellañ	diouzh_ar_gwellañ	ADV
+diouzh penaos	diouzh_penaos	CON
+diouzhtu pa	diouzhtu_pa	CON
+diplom skol veur	diplom_skol_veur	NOM
+diplomoù skol veur	diplomoù_skol_veur	NOM
+dirak an holl	dirak_an_holl	ADV
+diri doubl	diri_doubl	NOM
+diriaou da noz	diriaou_da_noz	ADV
+diriaou kentañ	diriaou_kentañ	ADV
+diriaou paseet	diriaou_paseet	ADV
+diriaou tremenet	diriaou_tremenet	ADV
+dirioù doubl	dirioù_doubl	NOM
+disadorn da noz	disadorn_da_noz	ADV
+disadorn kentañ	disadorn_kentañ	ADV
+disadorn paseet	disadorn_paseet	ADV
+disadorn tremenet	disadorn_tremenet	ADV
+disul da noz	disul_da_noz	ADV
+disul kentañ	disul_kentañ	ADV
+disul paseet	disul_paseet	ADV
+disul tremenet	disul_tremenet	ADV
+diwar ar maez	diwar_ar_maez	ADV
+diwar c_houlenn	diwar_c_houlenn	PRE
+diwar dremen	diwar_dremen	ADV
+diwar goulenn	diwar_goulenn	PRE
+diwar netra	diwar_netra	ADV
+diwar neuze	diwar_neuze	ADV
+diwar varc_h houarn	diwar_varc_h_houarn	ADV
+diwar vremañ	diwar_vremañ	ADV
+dizh al luc_h	dizh_al_luc_h	NOM
+dizhoù al luc_h	dizhoù_al_luc_h	NOM
+doare bevañ	doare_bevañ	NOM
+doare ober	doare_ober	NOM
+doare skignañ	doare_skignañ	NOM
+doareoù bevañ	doareoù_bevañ	NOM
+doareoù ober	doareoù_ober	NOM
+doareoù skignañ	doareoù_skignañ	NOM
+doaz merat	doaz_merat	NOM
+doaz tartez	doaz_tartez	NOM
+dorzh bara	dorzh_bara	NOM
+dorzh para	dorzh_para	NOM
+dorzh vara	dorzh_vara	NOM
+dorzhioù bara	dorzhioù_bara	NOM
+dorzhioù para	dorzhioù_para	NOM
+dorzhioù vara	dorzhioù_vara	NOM
+doull an nor	doull_an_nor	NOM
+doullad brav	doullad_brav	NOM
+doullad mat	doullad_mat	NOM
+doulladoù brav	doulladoù_brav	NOM
+doulladoù mat	doulladoù_mat	NOM
+doulloù an nor	doulloù_an_nor	NOM
+dour andon	dour_andon	NOM
+dour c_hwez	dour_c_hwez	NOM
+dour eien	dour_eien	NOM
+doureier andon	doureier_andon	NOM
+doureier c_hwez	doureier_c_hwez	NOM
+doureier eien	doureier_eien	NOM
+dourioù andon	dourioù_andon	NOM
+dourioù c_hwez	dourioù_c_hwez	NOM
+dourioù eien	dourioù_eien	NOM
+draig bihan	draig_bihan	NOM
+draig pihan	draig_pihan	NOM
+draig vihan	draig_vihan	NOM
+draoùigoù bihan	draoùigoù_bihan	NOM
+draoùigoù pihan	draoùigoù_pihan	NOM
+draoùigoù vihan	draoùigoù_vihan	NOM
+dre ar munud	dre_ar_munud	ADV
+dre c_hras doue	dre_c_hras_doue	ADV
+dre gant	dre_gant	ADV
+dre gomz	dre_gomz	ADV
+dre heg	dre_heg	ADV
+dre heg pe dre gaer	dre_heg_pe_dre_gaer	ADV
+dre ma	dre_ma	CON
+dre nerzh an aloubiñ	dre_nerzh_an_aloubiñ	ADV
+dren tizh bras	dren_tizh_bras	NOM
+drenioù tizh bras	drenioù_tizh_bras	NOM
+dreujenn c_haol	dreujenn_c_haol	NOM
+dreujenn gaol	dreujenn_gaol	NOM
+dreujenn kaol	dreujenn_kaol	NOM
+dreujennoù c_haol	dreujennoù_c_haol	NOM
+dreujennoù gaol	dreujennoù_gaol	NOM
+dreujennoù kaol	dreujennoù_kaol	NOM
+dreujoù c_haol	dreujoù_c_haol	NOM
+dreujoù gaol	dreujoù_gaol	NOM
+dreujoù kaol	dreujoù_kaol	NOM
+dri c_hant	dri_c_hant	ADJ:num
+dric_horn serzh	dric_horn_serzh	NOM
+dric_hornioù serzh	dric_hornioù_serzh	NOM
+dro spered	dro_spered	NOM
+droioù spered	droioù_spered	NOM
+du gwan	du_gwan	NOM
+du kreñv	du_kreñv	NOM
+dud a iliz	dud_a_iliz	NOM
+dud a lez	dud_a_lez	NOM
+dud a vicher	dud_a_vicher	NOM
+dud a youl vat	dud_a_youl_vat	NOM
+dud deuet	dud_deuet	NOM
+dud deut	dud_deut	NOM
+dud diabarzh	dud_diabarzh	NOM
+dud diavaez	dud_diavaez	NOM
+dud gopret	dud_gopret	NOM
+dud istorel	dud_istorel	NOM
+dud kentañ	dud_kentañ	NOM
+dud kozh	dud_kozh	NOM
+dud livek	dud_livek	NOM
+dud pedet	dud_pedet	NOM
+dud war an oad	dud_war_an_oad	NOM
+dud yaouank	dud_yaouank	NOM
+duioù gwan	duioù_gwan	NOM
+duioù kreñv	duioù_kreñv	NOM
+duriadenn c_hoz	duriadenn_c_hoz	NOM
+duriadenn goz	duriadenn_goz	NOM
+duriadenn koz	duriadenn_koz	NOM
+duriadennoù c_hoz	duriadennoù_c_hoz	NOM
+duriadennoù goz	duriadennoù_goz	NOM
+duriadennoù koz	duriadennoù_koz	NOM
+e barzh genoù al louarn	e_barzh_genoù_al_louarn	ADV
+e bed ar c_hornôg	e_bed_ar_c_hornôg	ADV
+e bed ar sav heol	e_bed_ar_sav_heol	ADV
+e berr gomzoù	e_berr_gomzoù	ADV
+e darempred gant	e_darempred_gant	PRE
+e deroù ar bloaz	e_deroù_ar_bloaz	ADV
+e diabarzh	e_diabarzh	PRE
+e dibenn c_hwevrer	e_dibenn_c_hwevrer	ADV
+e dibenn du	e_dibenn_du	ADV
+e dibenn ebrel	e_dibenn_ebrel	ADV
+e dibenn eost	e_dibenn_eost	ADV
+e dibenn even	e_dibenn_even	ADV
+e dibenn genver	e_dibenn_genver	ADV
+e dibenn gouere	e_dibenn_gouere	ADV
+e dibenn gwengolo	e_dibenn_gwengolo	ADV
+e dibenn here	e_dibenn_here	ADV
+e dibenn kerdu	e_dibenn_kerdu	ADV
+e dibenn kerzu	e_dibenn_kerzu	ADV
+e dibenn mae	e_dibenn_mae	ADV
+e dibenn meurzh	e_dibenn_meurzh	ADV
+e dibenn mezheven	e_dibenn_mezheven	ADV
+e dibenn miz c_hwevrer	e_dibenn_miz_c_hwevrer	ADV
+e dibenn miz du	e_dibenn_miz_du	ADV
+e dibenn miz ebrel	e_dibenn_miz_ebrel	ADV
+e dibenn miz eost	e_dibenn_miz_eost	ADV
+e dibenn miz even	e_dibenn_miz_even	ADV
+e dibenn miz genver	e_dibenn_miz_genver	ADV
+e dibenn miz gouere	e_dibenn_miz_gouere	ADV
+e dibenn miz gwengolo	e_dibenn_miz_gwengolo	ADV
+e dibenn miz here	e_dibenn_miz_here	ADV
+e dibenn miz kerdu	e_dibenn_miz_kerdu	ADV
+e dibenn miz kerzu	e_dibenn_miz_kerzu	ADV
+e dibenn miz mae	e_dibenn_miz_mae	ADV
+e dibenn miz meurzh	e_dibenn_miz_meurzh	ADV
+e dibenn miz mezheven	e_dibenn_miz_mezheven	ADV
+e doare ma	e_doare_ma	CON
+e du	e_du	ADV
+e fin an deiz	e_fin_an_deiz	ADV
+e fin ar bloaz	e_fin_ar_bloaz	ADV
+e fin ar miz	e_fin_ar_miz	ADV
+e fin ar sizhun	e_fin_ar_sizhun	ADV
+e fin c_hwevrer	e_fin_c_hwevrer	ADV
+e fin du	e_fin_du	ADV
+e fin ebrel	e_fin_ebrel	ADV
+e fin eost	e_fin_eost	ADV
+e fin even	e_fin_even	ADV
+e fin genver	e_fin_genver	ADV
+e fin gouere	e_fin_gouere	ADV
+e fin gwengolo	e_fin_gwengolo	ADV
+e fin here	e_fin_here	ADV
+e fin kerdu	e_fin_kerdu	ADV
+e fin kerzu	e_fin_kerzu	ADV
+e fin mae	e_fin_mae	ADV
+e fin meurzh	e_fin_meurzh	ADV
+e fin mezheven	e_fin_mezheven	ADV
+e fin miz c_hwevrer	e_fin_miz_c_hwevrer	ADV
+e fin miz du	e_fin_miz_du	ADV
+e fin miz ebrel	e_fin_miz_ebrel	ADV
+e fin miz eost	e_fin_miz_eost	ADV
+e fin miz even	e_fin_miz_even	ADV
+e fin miz genver	e_fin_miz_genver	ADV
+e fin miz gouere	e_fin_miz_gouere	ADV
+e fin miz gwengolo	e_fin_miz_gwengolo	ADV
+e fin miz here	e_fin_miz_here	ADV
+e fin miz kerdu	e_fin_miz_kerdu	ADV
+e fin miz kerzu	e_fin_miz_kerzu	ADV
+e fin miz mae	e_fin_miz_mae	ADV
+e fin miz meurzh	e_fin_miz_meurzh	ADV
+e fin miz mezheven	e_fin_miz_mezheven	ADV
+e gell	e_gell	ADV
+e giz bep bloaz	e_giz_bep_bloaz	ADV
+e gourc_hemenn	e_gourc_hemenn	PRE
+e hini	e_hini	PRO:pos
+e karg eus	e_karg_eus	PRE
+e keit ma	e_keit_ma	CON
+e keit se	e_keit_se	CON
+e kement degouezh a zo	e_kement_degouezh_a_zo	ADV
+e kement degouezh zo	e_kement_degouezh_zo	ADV
+e ken kas	e_ken_kas	ADV
+e ken kas ma	e_ken_kas_ma	CON
+e ken kaz	e_ken_kaz	ADV
+e ken kaz ma	e_ken_kaz_ma	CON
+e korf un nebeud bloavezhioù	e_korf_un_nebeud_bloavezhioù	ADV
+e korf un nebeud deizioù	e_korf_un_nebeud_deizioù	ADV
+e korf un nebeud devezhioù	e_korf_un_nebeud_devezhioù	ADV
+e korf un nebeud mizioù	e_korf_un_nebeud_mizioù	ADV
+e korf un nebeud sizhunioù	e_korf_un_nebeud_sizhunioù	ADV
+e korf un nebeud sizhunvezhioù	e_korf_un_nebeud_sizhunvezhioù	ADV
+e kreiz ar miz mañ	e_kreiz_ar_miz_mañ	ADV
+e lec_h ma	e_lec_h_ma	CON
+e lec_h pe lec_h	e_lec_h_pe_lec_h	ADV
+e liv du	e_liv_du	ADV
+e liv gell	e_liv_gell	ADV
+e liv glas	e_liv_glas	ADV
+e liv gris	e_liv_gris	ADV
+e liv gwenn	e_liv_gwenn	ADV
+e liv gwer	e_liv_gwer	ADV
+e liv limestra	e_liv_limestra	ADV
+e liv melen	e_liv_melen	ADV
+e liv mouk	e_liv_mouk	ADV
+e liv orañjez	e_liv_orañjez	ADV
+e liv rous	e_liv_rous	ADV
+e liv roz	e_liv_roz	ADV
+e liv ruz	e_liv_ruz	ADV
+e maez a garg	e_maez_a_garg	ADV
+e maez danvez	e_maez_danvez	ADV
+e miz c_hwevrer	e_miz_c_hwevrer	ADV
+e miz du	e_miz_du	ADV
+e miz ebrel	e_miz_ebrel	ADV
+e miz eost	e_miz_eost	ADV
+e miz even	e_miz_even	ADV
+e miz genver	e_miz_genver	ADV
+e miz gouere	e_miz_gouere	ADV
+e miz gouhere	e_miz_gouhere	ADV
+e miz gwengolo	e_miz_gwengolo	ADV
+e miz here	e_miz_here	ADV
+e miz kerzu	e_miz_kerzu	ADV
+e miz mae	e_miz_mae	ADV
+e miz meurzh	e_miz_meurzh	ADV
+e miz mezheven	e_miz_mezheven	ADV
+e mod ebet	e_mod_ebet	ADV
+e mod pe vod	e_mod_pe_vod	ADV
+e pad an amzer se	e_pad_an_amzer_se	ADV
+e pad an deiz	e_pad_an_deiz	ADV
+e pad an devezh	e_pad_an_devezh	ADV
+e pad ar frapad se	e_pad_ar_frapad_se	ADV
+e pad bloavezhioù	e_pad_bloavezhioù	ADV
+e pad bloaz	e_pad_bloaz	ADV
+e pad devezhioù	e_pad_devezhioù	ADV
+e pad eurvezhioù	e_pad_eurvezhioù	ADV
+e pad ma	e_pad_ma	CON
+e pad miz	e_pad_miz	ADV
+e pad mizioù	e_pad_mizioù	ADV
+e pad pell	e_pad_pell	ADV
+e pad re bell	e_pad_re_bell	ADV
+e pad sizhunvezhioù	e_pad_sizhunvezhioù	ADV
+e penn a raok	e_penn_a_raok	ADV
+e penn kentañ	e_penn_kentañ	PRE
+e pep lec_h	e_pep_lec_h	ADV
+e pep lec_h er bed	e_pep_lec_h_er_bed	ADV
+e re	e_re	PRO:pos
+e ruz	e_ruz	ADV
+e skoaz da	e_skoaz_da	PRE
+ec_h eus	ec_h_eus	AUX
+ehan mammelezh	ehan_mammelezh	NOM
+ehanoù mammelezh	ehanoù_mammelezh	NOM
+eizh kant	eizh_kant	ADJ:num
+el lez varn	el_lez_varn	ADV
+elfenn c_helaouiñ	elfenn_c_helaouiñ	NOM
+elfenn dielfennañ	elfenn_dielfennañ	NOM
+elfenn gelaouiñ	elfenn_gelaouiñ	NOM
+elfenn kelaouiñ	elfenn_kelaouiñ	NOM
+elfennoù c_helaouiñ	elfennoù_c_helaouiñ	NOM
+elfennoù dielfennañ	elfennoù_dielfennañ	NOM
+elfennoù gelaouiñ	elfennoù_gelaouiñ	NOM
+elfennoù kelaouiñ	elfennoù_kelaouiñ	NOM
+em befe	em_befe	AUX
+em bez	em_bez	AUX
+em bije	em_bije	AUX
+em bo	em_bo	AUX
+em boe	em_boe	AUX
+em eus	em_eus	AUX
+embregerezh familh	embregerezh_familh	NOM
+embregerezhioù familh	embregerezhioù_familh	NOM
+emvod kelaouiñ	emvod_kelaouiñ	NOM
+emvod labour	emvod_labour	NOM
+emvod meur	emvod_meur	NOM
+emvod prientiñ	emvod_prientiñ	NOM
+emvodoù kelaouiñ	emvodoù_kelaouiñ	NOM
+emvodoù labour	emvodoù_labour	NOM
+emvodoù meur	emvodoù_meur	NOM
+emvodoù prientiñ	emvodoù_prientiñ	NOM
+en a raok	en_a_raok	ADV
+en abeg da	en_abeg_da	PRE
+en amzer da zont	en_amzer_da_zont	ADV
+en amzer dazont	en_amzer_dazont	ADV
+en amzer dremenet	en_amzer_dremenet	ADV
+en amzer se	en_amzer_se	ADV
+en amzer wechall	en_amzer_wechall	ADV
+en defe	en_defe	AUX
+en defeve	en_defeve	AUX
+en degemer	en_degemer	ADV
+en dehe	en_dehe	AUX
+en deiz a hiziv	en_deiz_a_hiziv	ADV
+en deiz hiziv	en_deiz_hiziv	ADV
+en deizioù mañ	en_deizioù_mañ	ADV
+en desped da	en_desped_da	PRE
+en deus	en_deus	AUX
+en devefet	en_devefet	AUX
+en devez	en_devez	AUX
+en deveze	en_deveze	AUX
+en devo	en_devo	AUX
+en devoa	en_devoa	AUX
+en devoe	en_devoe	AUX
+en dez	en_dez	AUX
+en dezet	en_dezet	AUX
+en diabarzh	en_diabarzh	ADV
+en dije	en_dije	AUX
+en disglav	en_disglav	ADV
+en do	en_do	AUX
+en doa	en_doa	AUX
+en doe	en_doe	AUX
+en dro da	en_dro_da	PRE
+en e bezh	en_e_bezh	ADV
+en eil derez	en_eil_derez	ADV
+en em	en_em	ADV:sup
+en engortoz da	en_engortoz_da	PRE
+en entremar	en_entremar	ADV
+en eskemm	en_eskemm	ADV
+en hevelep mod	en_hevelep_mod	ADV
+en holl	en_holl	ADV
+en tu all	en_tu_all	ADV
+en tu all da	en_tu_all_da	PRE
+en tu mañ	en_tu_mañ	ADV
+en un doare naturel	en_un_doare_naturel	ADV
+en ur	en_ur	ADV:sup
+end eeun da	end_eeun_da	PRE
+enezad ar c_hab	enezad_ar_c_hab	NOM
+enezadez ar c_hab	enezadez_ar_c_hab	NOM
+enezadezed ar c_hab	enezadezed_ar_c_hab	NOM
+eneziz ar c_hab	eneziz_ar_c_hab	NOM
+ent bev	ent_bev	ADV
+ent emgefre	ent_emgefre	ADV
+ent emgefreek	ent_emgefreek	ADV
+ent reoliek	ent_reoliek	ADV
+ent resis	ent_resis	ADV
+er bed a bezh	er_bed_a_bezh	ADV
+er bed holl	er_bed_holl	ADV
+er beure mañ	er_beure_mañ	ADV
+er bloavezhioù diwezhañ	er_bloavezhioù_diwezhañ	ADV
+er bloaz a zeu	er_bloaz_a_zeu	ADV
+er bloaz mañ	er_bloaz_mañ	ADV
+er bloaz paseet	er_bloaz_paseet	ADV
+er bloaz tremenet	er_bloaz_tremenet	ADV
+er c_hentañ derez	er_c_hentañ_derez	ADV
+er feur se	er_feur_se	ADV
+er goudor	er_goudor	ADV
+er gêr hont	er_gêr_hont	ADV
+er gêr mañ	er_gêr_mañ	ADV
+er gêr se	er_gêr_se	ADV
+er mare mañ	er_mare_mañ	ADV
+er memes mod	er_memes_mod	ADV
+er mintin mañ	er_mintin_mañ	ADV
+er miz mañ	er_miz_mañ	ADV
+er miz paseet	er_miz_paseet	ADV
+er mod se	er_mod_se	ADV
+er pelloù	er_pelloù	ADV
+er penn a dreñv	er_penn_a_dreñv	ADV
+er penn a raok	er_penn_a_raok	ADV
+er penn kentañ	er_penn_kentañ	ADV
+er sav heol	er_sav_heol	ADV
+er sizhun mañ	er_sizhun_mañ	ADV
+er sizhun paseet	er_sizhun_paseet	ADV
+er skol vamm	er_skol_vamm	ADV
+er skol veur	er_skol_veur	ADV
+eur noz	eur_noz	NOM
+eur vintin	eur_vintin	NOM
+eurioù noz	eurioù_noz	NOM
+eurioù vintin	eurioù_vintin	NOM
+eurvezh hanter	eurvezh_hanter	NOM
+eurvezh labour	eurvezh_labour	NOM
+eurvezhioù hanter	eurvezhioù_hanter	NOM
+eurvezhioù labour	eurvezhioù_labour	NOM
+eus ar bed a bezh	eus_ar_bed_a_bezh	ADV
+eus ar bed holl	eus_ar_bed_holl	ADV
+eus ar c_hentañ	eus_ar_c_hentañ	ADJ
+eus ar c_hentañ troc_h	eus_ar_c_hentañ_troc_h	ADJ
+eus ar gwellañ	eus_ar_gwellañ	ADJ
+evel bep bloaz	evel_bep_bloaz	ADV
+evel ma	evel_ma	CON
+evel ma vez lavaret	evel_ma_vez_lavaret	ADV
+evel ma vez lâret	evel_ma_vez_lâret	ADV
+evel pa	evel_pa	CON
+evel rakwelet	evel_rakwelet	CON
+evel se bezet graet	evel_se_bezet_graet	ONO
+evel zo dleet	evel_zo_dleet	ADV
+evit a sell ouzh	evit_a_sell_ouzh	PRE
+evit al lod brasañ	evit_al_lod_brasañ	ADV
+evit al lodenn vrasañ	evit_al_lodenn_vrasañ	ADV
+evit an deizioù	evit_an_deizioù	ADV
+evit an eil gwech	evit_an_eil_gwech	ADV
+evit an eil gwezh	evit_an_eil_gwezh	ADV
+evit an holl	evit_an_holl	ADV
+evit an holl dud	evit_an_holl_dud	ADV
+evit ar bloaz	evit_ar_bloaz	ADV
+evit ar gwellañ	evit_ar_gwellañ	ADV
+evit ar mare	evit_ar_mare	ADV
+evit ar pep brasañ	evit_ar_pep_brasañ	ADV
+evit ar pezh a sell ouzh	evit_ar_pezh_a_sell_ouzh	PRE
+evit ar poent	evit_ar_poent	ADV
+evit ar wech	evit_ar_wech	ADV
+evit ar wech diwezhañ	evit_ar_wech_diwezhañ	ADV
+evit ar wech kentañ	evit_ar_wech_kentañ	ADV
+evit ar wech ziwezhañ	evit_ar_wech_ziwezhañ	ADV
+evit ar wezh	evit_ar_wezh	ADV
+evit ar wezh diwezhañ	evit_ar_wezh_diwezhañ	ADV
+evit ar wezh kentañ	evit_ar_wezh_kentañ	ADV
+evit ar wezh ziwezhañ	evit_ar_wezh_ziwezhañ	ADV
+evit bremañ	evit_bremañ	ADV
+evit c_hoazh	evit_c_hoazh	ADV
+evit daou viz	evit_daou_viz	ADV
+evit gouzout hiroc_h	evit_gouzout_hiroc_h	ADV
+evit kelo se	evit_kelo_se	ADV
+evit ma	evit_ma	CON
+evit se	evit_se	CON
+ez eus	ez_eus	AUX
+ez ofisiel	ez_ofisiel	ADV
+ez peus	ez_peus	AUX
+ezhomm stummañ	ezhomm_stummañ	NOM
+ezhommoù stummañ	ezhommoù_stummañ	NOM
+fad rakwelet	fad_rakwelet	NOM
+fadoù rakwelet	fadoù_rakwelet	NOM
+fanell hent	fanell_hent	NOM
+fanell heñchañ	fanell_heñchañ	NOM
+fanellerezh hent	fanellerezh_hent	NOM
+fanellerezh heñchañ	fanellerezh_heñchañ	NOM
+fanellerezhioù hent	fanellerezhioù_hent	NOM
+fanellerezhioù heñchañ	fanellerezhioù_heñchañ	NOM
+fanelloù hent	fanelloù_hent	NOM
+fanelloù heñchañ	fanelloù_heñchañ	NOM
+faper adaozet	faper_adaozet	NOM
+faperioù adaozet	faperioù_adaozet	NOM
+farz forn	farz_forn	NOM
+farzoù forn	farzoù_forn	NOM
+fazi skrivañ	fazi_skrivañ	NOM
+fazioù skrivañ	fazioù_skrivañ	NOM
+feiz fall	feiz_fall	NOM
+feiz vat	feiz_vat	NOM
+fellder bihanañ	fellder_bihanañ	NOM
+fellder brasañ	fellder_brasañ	NOM
+fellderioù bihanañ	fellderioù_bihanañ	NOM
+fellderioù brasañ	fellderioù_brasañ	NOM
+fellderoù bihanañ	fellderoù_bihanañ	NOM
+fellderoù brasañ	fellderoù_brasañ	NOM
+fellgomz hezoug	fellgomz_hezoug	NOM
+fellgomzer hezoug	fellgomzer_hezoug	NOM
+fellgomzerioù hezoug	fellgomzerioù_hezoug	NOM
+femp kant	femp_kant	ADJ:num
+fenn ahel an norzh	fenn_ahel_an_norzh	NOM
+fenn ahel ar su	fenn_ahel_ar_su	NOM
+fenn an embregerezh	fenn_an_embregerezh	NOM
+fenn devezh	fenn_devezh	NOM
+fenn embregerezh	fenn_embregerezh	NOM
+fennoù ahel an norzh	fennoù_ahel_an_norzh	NOM
+fennoù ahel ar su	fennoù_ahel_ar_su	NOM
+fennoù an embregerezh	fennoù_an_embregerezh	NOM
+fennoù devezh	fennoù_devezh	NOM
+fennoù embregerezh	fennoù_embregerezh	NOM
+feseurt mod	feseurt_mod	ADV
+feur adneveziñ	feur_adneveziñ	NOM
+feurioù adneveziñ	feurioù_adneveziñ	NOM
+fevar c_hant	fevar_c_hant	ADJ:num
+fezh arrebeuri	fezh_arrebeuri	NOM
+fezh moneiz	fezh_moneiz	NOM
+fezhioù arrebeuri	fezhioù_arrebeuri	NOM
+fezhioù moneiz	fezhioù_moneiz	NOM
+fichenn enskrivañ	fichenn_enskrivañ	NOM
+fichenn ragenskrivañ	fichenn_ragenskrivañ	NOM
+fichennoù enskrivañ	fichennoù_enskrivañ	NOM
+fichennoù ragenskrivañ	fichennoù_ragenskrivañ	NOM
+film faltazi	film_faltazi	NOM
+filmoù faltazi	filmoù_faltazi	NOM
+fin ar bloaz	fin_ar_bloaz	NOM
+fin ar miz	fin_ar_miz	NOM
+finoù ar bloaz	finoù_ar_bloaz	NOM
+finoù ar miz	finoù_ar_miz	NOM
+fintet uhel	fintet_uhel	ADJ
+flac_h yaouank	flac_h_yaouank	NOM
+flac_hed yaouank	flac_hed_yaouank	NOM
+fleüt pigos	fleüt_pigos	NOM
+fleüt treuz	fleüt_treuz	NOM
+fleütoù pigos	fleütoù_pigos	NOM
+fleütoù treuz	fleütoù_treuz	NOM
+foblañs skol	foblañs_skol	NOM
+foblañsoù skol	foblañsoù_skol	NOM
+fodad mel	fodad_mel	NOM
+fodadoù mel	fodadoù_mel	NOM
+fol studi ha diorren	fol_studi_ha_diorren	NOM
+fol yezh	fol_yezh	NOM
+folitikerezh diorren	folitikerezh_diorren	NOM
+folitikerezh yezh	folitikerezh_yezh	NOM
+folitikerezhioù diorren	folitikerezhioù_diorren	NOM
+folitikerezhioù yezh	folitikerezhioù_yezh	NOM
+follenn baper	follenn_baper	NOM
+follenn briziañ	follenn_briziañ	NOM
+follenn faper	follenn_faper	NOM
+follenn friziañ	follenn_friziañ	NOM
+follenn paper	follenn_paper	NOM
+follenn priziañ	follenn_priziañ	NOM
+follennoù baper	follennoù_baper	NOM
+follennoù briziañ	follennoù_briziañ	NOM
+follennoù faper	follennoù_faper	NOM
+follennoù friziañ	follennoù_friziañ	NOM
+follennoù paper	follennoù_paper	NOM
+follennoù priziañ	follennoù_priziañ	NOM
+foloù studi ha diorren	foloù_studi_ha_diorren	NOM
+foloù yezh	foloù_yezh	NOM
+forched media	forched_media	NOM
+forchedoù media	forchedoù_media	NOM
+forzh ar skol	forzh_ar_skol	NOM
+forzh penaos	forzh_penaos	ADV
+forzh pesketa	forzh_pesketa	NOM
+forzhioù ar skol	forzhioù_ar_skol	NOM
+forzhioù pesketa	forzhioù_pesketa	NOM
+fost diorren	fost_diorren	NOM
+fost labour	fost_labour	NOM
+fost leun amzer	fost_leun_amzer	NOM
+fost leunamzer	fost_leunamzer	NOM
+fostoù diorren	fostoù_diorren	NOM
+fostoù labour	fostoù_labour	NOM
+fostoù leun amzer	fostoù_leun_amzer	NOM
+fostoù leunamzer	fostoù_leunamzer	NOM
+framm etrekumunel	framm_etrekumunel	NOM
+framm micherel	framm_micherel	NOM
+framm prevez	framm_prevez	NOM
+framm publik	framm_publik	NOM
+frammoù etrekumunel	frammoù_etrekumunel	NOM
+frammoù micherel	frammoù_micherel	NOM
+frammoù prevez	frammoù_prevez	NOM
+frammoù publik	frammoù_publik	NOM
+frank a wirioù	frank_a_wirioù	ADJ
+frankat a wirioù	frankat_a_wirioù	ADJ
+frankañ a wirioù	frankañ_a_wirioù	ADJ
+frankoc_h a wirioù	frankoc_h_a_wirioù	ADJ
+frapad amzer	frapad_amzer	NOM
+frapad mat	frapad_mat	NOM
+frapadoù amzer	frapadoù_amzer	NOM
+frapadoù mat	frapadoù_mat	NOM
+frejoù feurmiñ	frejoù_feurmiñ	NOM
+frilien paper	frilien_paper	NOM
+frilienoù paper	frilienoù_paper	NOM
+friz mat	friz_mat	NOM
+frizioù mat	frizioù_mat	NOM
+frogramm eskemm	frogramm_eskemm	NOM
+frogrammoù eskemm	frogrammoù_eskemm	NOM
+gador burev	gador_burev	NOM
+gador purev	gador_purev	NOM
+gador vurev	gador_vurev	NOM
+gadorioù burev	gadorioù_burev	NOM
+gadorioù purev	gadorioù_purev	NOM
+gadorioù vurev	gadorioù_vurev	NOM
+galz a	galz_a	PRE
+galzik a	galzik_a	PRE
+gamp tolpañ	gamp_tolpañ	NOM
+gampoù tolpañ	gampoù_tolpañ	NOM
+gan ha diskan	gan_ha_diskan	NOM
+ganod saveteiñ	ganod_saveteiñ	NOM
+ganodoù saveteiñ	ganodoù_saveteiñ	NOM
+gant an aon na	gant_an_aon_na	CON
+gant aon na	gant_aon_na	CON
+gant gwir abeg	gant_gwir_abeg	ADV
+gant kalz a boan	gant_kalz_a_boan	ADV
+gant ma	gant_ma	CON
+garg merañ	garg_merañ	NOM
+garg verañ	garg_verañ	NOM
+gargad a studi	gargad_a_studi	NOM
+gargad a ziorren	gargad_a_ziorren	NOM
+gargaded a studi	gargaded_a_studi	NOM
+gargaded a ziorren	gargaded_a_ziorren	NOM
+gargadez a studi	gargadez_a_studi	NOM
+gargadez a ziorren	gargadez_a_ziorren	NOM
+gargadezed a studi	gargadezed_a_studi	NOM
+gargadezed a ziorren	gargadezed_a_ziorren	NOM
+gargidi a studi	gargidi_a_studi	NOM
+gargidi a ziorren	gargidi_a_ziorren	NOM
+gargoù merañ	gargoù_merañ	NOM
+gargoù verañ	gargoù_verañ	NOM
+garr tos tos	garr_tos_tos	NOM
+gazetenn liv	gazetenn_liv	NOM
+gazetennoù liv	gazetennoù_liv	NOM
+gelennadurezh divyezhek	gelennadurezh_divyezhek	NOM
+gelennadurezhioù divyezhek	gelennadurezhioù_divyezhek	NOM
+gelennadurezhoù divyezhek	gelennadurezhoù_divyezhek	NOM
+gement a	gement_a	PRE
+gemmadur kensonennoù	gemmadur_kensonennoù	NOM
+gemmadurioù kensonennoù	gemmadurioù_kensonennoù	NOM
+gentañ ministr	gentañ_ministr	NOM
+gentañ ministred	gentañ_ministred	NOM
+gentañ ministrez	gentañ_ministrez	NOM
+gentañ ministrezed	gentañ_ministrezed	NOM
+gentel noz	gentel_noz	NOM
+gentelioù noz	gentelioù_noz	NOM
+ger ebet	ger_ebet	ADV
+ger evit ger	ger_evit_ger	ADV
+gevrat didermen	gevrat_didermen	NOM
+gevrat labour	gevrat_labour	NOM
+gevrat studiañ	gevrat_studiañ	NOM
+gevratoù didermen	gevratoù_didermen	NOM
+gevratoù labour	gevratoù_labour	NOM
+gevratoù studiañ	gevratoù_studiañ	NOM
+gevredigezh dihun	gevredigezh_dihun	NOM
+gevredigezh div yezh	gevredigezh_div_yezh	NOM
+gevredigezhioù dihun	gevredigezhioù_dihun	NOM
+gevredigezhioù div yezh	gevredigezhioù_div_yezh	NOM
+gevrenn geodedel	gevrenn_geodedel	NOM
+gevrennoù geodedel	gevrennoù_geodedel	NOM
+gig kanol	gig_kanol	NOM
+gilhoroù douarañ	gilhoroù_douarañ	NOM
+ginean ar c_heheder	ginean_ar_c_heheder	NOM
+ginean bissau	ginean_bissau	NOM
+gineaned ar c_heheder	gineaned_ar_c_heheder	NOM
+gineaned bissau	gineaned_bissau	NOM
+gineanez ar c_heheder	gineanez_ar_c_heheder	NOM
+gineanez bissau	gineanez_bissau	NOM
+gineanezed ar c_heheder	gineanezed_ar_c_heheder	NOM
+gineanezed bissau	gineanezed_bissau	NOM
+ginnig labour	ginnig_labour	NOM
+ginnigoù labour	ginnigoù_labour	NOM
+girri tos tos	girri_tos_tos	NOM
+gitar boud	gitar_boud	NOM
+gitar tredan	gitar_tredan	NOM
+gitaroù boud	gitaroù_boud	NOM
+gitaroù tredan	gitaroù_tredan	NOM
+glas divyezhek	glas_divyezhek	NOM
+glas unyezhek	glas_unyezhek	NOM
+glasker labour	glasker_labour	NOM
+glaskerez labour	glaskerez_labour	NOM
+glaskerezed labour	glaskerezed_labour	NOM
+glaskerien labour	glaskerien_labour	NOM
+glaskerion labour	glaskerion_labour	NOM
+glaskour labour	glaskour_labour	NOM
+glaskourez labour	glaskourez_labour	NOM
+glaskourezed labour	glaskourezed_labour	NOM
+glaskourien labour	glaskourien_labour	NOM
+glasoù divyezhek	glasoù_divyezhek	NOM
+glasoù unyezhek	glasoù_unyezhek	NOM
+gleuzeur burev	gleuzeur_burev	NOM
+gleuzeur purev	gleuzeur_purev	NOM
+gleuzeur vurev	gleuzeur_vurev	NOM
+gleuzeurioù burev	gleuzeurioù_burev	NOM
+gleuzeurioù purev	gleuzeurioù_purev	NOM
+gleuzeurioù vurev	gleuzeurioù_vurev	NOM
+gleñved spegus	gleñved_spegus	NOM
+gleñvedoù spegus	gleñvedoù_spegus	NOM
+glogorenn dredan	glogorenn_dredan	NOM
+glogorenn tredan	glogorenn_tredan	NOM
+glogorenn zredan	glogorenn_zredan	NOM
+glogorennoù dredan	glogorennoù_dredan	NOM
+glogorennoù tredan	glogorennoù_tredan	NOM
+glogorennoù zredan	glogorennoù_zredan	NOM
+gomiser ar c_hontoù	gomiser_ar_c_hontoù	NOM
+gomiserez ar c_hontoù	gomiserez_ar_c_hontoù	NOM
+gomiserezed ar c_hontoù	gomiserezed_ar_c_hontoù	NOM
+gomiserien ar c_hontoù	gomiserien_ar_c_hontoù	NOM
+gomiserion ar c_hontoù	gomiserion_ar_c_hontoù	NOM
+gomisour ar c_hontoù	gomisour_ar_c_hontoù	NOM
+gomisourez ar c_hontoù	gomisourez_ar_c_hontoù	NOM
+gomisourezed ar c_hontoù	gomisourezed_ar_c_hontoù	NOM
+gomisourien ar c_hontoù	gomisourien_ar_c_hontoù	NOM
+gopr kriz	gopr_kriz	NOM
+gopr rik	gopr_rik	NOM
+goproù kriz	goproù_kriz	NOM
+goproù rik	goproù_rik	NOM
+gordenn lammat	gordenn_lammat	NOM
+gordennoù lammat	gordennoù_lammat	NOM
+gorn digor	gorn_digor	NOM
+gorn lemm	gorn_lemm	NOM
+gornioù digor	gornioù_digor	NOM
+gornioù lemm	gornioù_lemm	NOM
+gornôg bras	gornôg_bras	NOM
+gornôg pellañ	gornôg_pellañ	NOM
+gortoz pell gortoz	gortoz_pell_gortoz	ADJ
+gorzenn dourañ	gorzenn_dourañ	NOM
+gorzennoù dourañ	gorzennoù_dourañ	NOM
+goublad yezhoù	goublad_yezhoù	NOM
+goubladoù yezhoù	goubladoù_yezhoù	NOM
+goude ma	goude_ma	CON
+goude se	goude_se	ADV
+gouel an hañv	gouel_an_hañv	NOM
+gouel broadel	gouel_broadel	NOM
+gouel laouen	gouel_laouen	ONO
+gouel laouen deoc_h	gouel_laouen_deoc_h	ONO
+gouel laouen deoc_h holl	gouel_laouen_deoc_h_holl	ONO
+gouel laouen dit	gouel_laouen_dit	ONO
+gouel mat	gouel_mat	ONO
+gouel mat deoc_h	gouel_mat_deoc_h	ONO
+gouel mat deoc_h holl	gouel_mat_deoc_h_holl	ONO
+gouel mat dit	gouel_mat_dit	ONO
+gouelioù an hañv	gouelioù_an_hañv	NOM
+gouelioù broadel	gouelioù_broadel	NOM
+gouenn besked	gouenn_besked	NOM
+gouenn fesked	gouenn_fesked	NOM
+gouenn pesked	gouenn_pesked	NOM
+gouennoù besked	gouennoù_besked	NOM
+gouennoù fesked	gouennoù_fesked	NOM
+gouennoù pesked	gouennoù_pesked	NOM
+goulaouiñ foran	goulaouiñ_foran	NOM
+goulaouiñ publik	goulaouiñ_publik	NOM
+goulenn skoaziad	goulenn_skoaziad	NOM
+goulenn sokial	goulenn_sokial	NOM
+goulenn stummañ	goulenn_stummañ	NOM
+goulennoù skoaziad	goulennoù_skoaziad	NOM
+goulennoù sokial	goulennoù_sokial	NOM
+goulennoù stummañ	goulennoù_stummañ	NOM
+goulzad brudañ	goulzad_brudañ	NOM
+goulzad kelaouiñ	goulzad_kelaouiñ	NOM
+goulzadoù brudañ	goulzadoù_brudañ	NOM
+goulzadoù kelaouiñ	goulzadoù_kelaouiñ	NOM
+gouriz surentez	gouriz_surentez	NOM
+gourizoù surentez	gourizoù_surentez	NOM
+graf gouren	graf_gouren	NOM
+graf judo	graf_judo	NOM
+grafoù gouren	grafoù_gouren	NOM
+grafoù judo	grafoù_judo	NOM
+graou kezeg	graou_kezeg	NOM
+graou moc_h	graou_moc_h	NOM
+grazerez bara	grazerez_bara	NOM
+grazerez para	grazerez_para	NOM
+grazerez vara	grazerez_vara	NOM
+grazerezioù bara	grazerezioù_bara	NOM
+grazerezioù para	grazerezioù_para	NOM
+grazerezioù vara	grazerezioù_vara	NOM
+grefen gouren	grefen_gouren	NOM
+grefen judo	grefen_judo	NOM
+greion liv	greion_liv	NOM
+greionoù liv	greionoù_liv	NOM
+greizenn deuliaouiñ	greizenn_deuliaouiñ	NOM
+greizenn diguzhat	greizenn_diguzhat	NOM
+greizenn enklask	greizenn_enklask	NOM
+greizenn merañ	greizenn_merañ	NOM
+greizenn stummañ	greizenn_stummañ	NOM
+greizenn teuliaouiñ	greizenn_teuliaouiñ	NOM
+greizenn verañ	greizenn_verañ	NOM
+greizenn zeuliaouiñ	greizenn_zeuliaouiñ	NOM
+greizennoù deuliaouiñ	greizennoù_deuliaouiñ	NOM
+greizennoù diguzhat	greizennoù_diguzhat	NOM
+greizennoù enklask	greizennoù_enklask	NOM
+greizennoù merañ	greizennoù_merañ	NOM
+greizennoù stummañ	greizennoù_stummañ	NOM
+greizennoù teuliaouiñ	greizennoù_teuliaouiñ	NOM
+greizennoù verañ	greizennoù_verañ	NOM
+greizennoù zeuliaouiñ	greizennoù_zeuliaouiñ	NOM
+grek tredan	grek_tredan	NOM
+grekad kafe	grekad_kafe	NOM
+grekadoù kafe	grekadoù_kafe	NOM
+grekoù tredan	grekoù_tredan	NOM
+grevier kezeg	grevier_kezeg	NOM
+grevier moc_h	grevier_moc_h	NOM
+grik ebet	grik_ebet	ADV
+grip mareadek	grip_mareadek	NOM
+gripoù mareadek	gripoù_mareadek	NOM
+grugell merien	grugell_merien	NOM
+grugell verien	grugell_verien	NOM
+grugelloù merien	grugelloù_merien	NOM
+grugelloù verien	grugelloù_verien	NOM
+gudenn merañ	gudenn_merañ	NOM
+gudenn stummañ	gudenn_stummañ	NOM
+gudenn verañ	gudenn_verañ	NOM
+gudennoù merañ	gudennoù_merañ	NOM
+gudennoù stummañ	gudennoù_stummañ	NOM
+gudennoù verañ	gudennoù_verañ	NOM
+gumun c_hreiz	gumun_c_hreiz	NOM
+gumun greiz	gumun_greiz	NOM
+gumun kreiz	gumun_kreiz	NOM
+gumuniezh kumunioù	gumuniezh_kumunioù	NOM
+gumuniezhioù kumunioù	gumuniezhioù_kumunioù	NOM
+gumuniezhoù kumunioù	gumuniezhoù_kumunioù	NOM
+gumunioù c_hreiz	gumunioù_c_hreiz	NOM
+gumunioù greiz	gumunioù_greiz	NOM
+gumunioù kreiz	gumunioù_kreiz	NOM
+guzul diorren	guzul_diorren	NOM
+guzuliadenn mezegel	guzuliadenn_mezegel	NOM
+guzuliadenn vezegel	guzuliadenn_vezegel	NOM
+guzuliadennoù mezegel	guzuliadennoù_mezegel	NOM
+guzuliadennoù vezegel	guzuliadennoù_vezegel	NOM
+guzulier diriadel	guzulier_diriadel	NOM
+guzulier tiriadel	guzulier_tiriadel	NOM
+guzulier ziriadel	guzulier_ziriadel	NOM
+guzulierez diriadel	guzulierez_diriadel	NOM
+guzulierez tiriadel	guzulierez_tiriadel	NOM
+guzulierez ziriadel	guzulierez_ziriadel	NOM
+guzulierezed diriadel	guzulierezed_diriadel	NOM
+guzulierezed tiriadel	guzulierezed_tiriadel	NOM
+guzulierezed ziriadel	guzulierezed_ziriadel	NOM
+guzulierien diriadel	guzulierien_diriadel	NOM
+guzulierien tiriadel	guzulierien_tiriadel	NOM
+guzulierien ziriadel	guzulierien_ziriadel	NOM
+guzulierion diriadel	guzulierion_diriadel	NOM
+guzulierion tiriadel	guzulierion_tiriadel	NOM
+guzulierion ziriadel	guzulierion_ziriadel	NOM
+guzuliour diriadel	guzuliour_diriadel	NOM
+guzuliour tiriadel	guzuliour_tiriadel	NOM
+guzuliour ziriadel	guzuliour_ziriadel	NOM
+guzuliourez diriadel	guzuliourez_diriadel	NOM
+guzuliourez tiriadel	guzuliourez_tiriadel	NOM
+guzuliourez ziriadel	guzuliourez_ziriadel	NOM
+guzuliourezed diriadel	guzuliourezed_diriadel	NOM
+guzuliourezed tiriadel	guzuliourezed_tiriadel	NOM
+guzuliourezed ziriadel	guzuliourezed_ziriadel	NOM
+guzuliourien diriadel	guzuliourien_diriadel	NOM
+guzuliourien tiriadel	guzuliourien_tiriadel	NOM
+guzuliourien ziriadel	guzuliourien_ziriadel	NOM
+guzulioù diorren	guzulioù_diorren	NOM
+gwalenn besketa	gwalenn_besketa	NOM
+gwalenn fesketa	gwalenn_fesketa	NOM
+gwalenn pesketa	gwalenn_pesketa	NOM
+gwalennoù besketa	gwalennoù_besketa	NOM
+gwalennoù fesketa	gwalennoù_fesketa	NOM
+gwalennoù pesketa	gwalennoù_pesketa	NOM
+gwalinier besketa	gwalinier_besketa	NOM
+gwalinier fesketa	gwalinier_fesketa	NOM
+gwalinier pesketa	gwalinier_pesketa	NOM
+gwarez sokial	gwarez_sokial	NOM
+gwarezioù sokial	gwarezioù_sokial	NOM
+gwazh eo ar vevenn eget ar vezherenn	gwazh_eo_ar_vevenn_eget_ar_vezherenn	ADV
+gwech ebet	gwech_ebet	ADV
+gwech ha gwech all	gwech_ha_gwech_all	ADV
+gweladenn heñchet	gweladenn_heñchet	NOM
+gweladennoù heñchet	gweladennoù_heñchet	NOM
+gwell a se	gwell_a_se	ADV
+gwellañ soñjoù	gwellañ_soñjoù	ADV
+gwelloc_h c_hoazh	gwelloc_h_c_hoazh	ADV
+gwener kreisteiz	gwener_kreisteiz	NOM
+gwenn da ved	gwenn_da_ved	ONO
+gwenn ho ped	gwenn_ho_ped	ONO
+gwerennad dour	gwerennad_dour	NOM
+gwerennadoù dour	gwerennadoù_dour	NOM
+gwezh ebet	gwezh_ebet	ADV
+gwezh ha gwezh all	gwezh_ha_gwezh_all	ADV
+gwin palmez	gwin_palmez	NOM
+gwinoù palmez	gwinoù_palmez	NOM
+gwir enskrivañ	gwir_enskrivañ	NOM
+gwir mab den	gwir_mab_den	NOM
+gwir pe gaou	gwir_pe_gaou	ADV
+gwirioù enskrivañ	gwirioù_enskrivañ	NOM
+gwirioù mab den	gwirioù_mab_den	NOM
+gêr c_hreiz	gêr_c_hreiz	NOM
+gêr greiz	gêr_greiz	NOM
+gêr kreiz	gêr_kreiz	NOM
+gêrioù c_hreiz	gêrioù_c_hreiz	NOM
+gêrioù greiz	gêrioù_greiz	NOM
+gêrioù kreiz	gêrioù_kreiz	NOM
+ha koulskoude	ha_koulskoude	ADV
+ha pa	ha_pa	CON
+ha padal	ha_padal	ADV
+hag all	hag_all	ADV
+hani ebet	hani_ebet	PRO:ind
+hanter amzer	hanter_amzer	NOM
+hanter eurvezh	hanter_eurvezh	NOM
+hanterioù amzer	hanterioù_amzer	NOM
+hanterioù eurvezh	hanterioù_eurvezh	NOM
+he defe	he_defe	AUX
+he defeve	he_defeve	AUX
+he dehe	he_dehe	AUX
+he deus	he_deus	AUX
+he devefet	he_devefet	AUX
+he devez	he_devez	AUX
+he deveze	he_deveze	AUX
+he devo	he_devo	AUX
+he devoa	he_devoa	AUX
+he devoe	he_devoe	AUX
+he dez	he_dez	AUX
+he dezet	he_dezet	AUX
+he dije	he_dije	AUX
+he do	he_do	AUX
+he doa	he_doa	AUX
+he doe	he_doe	AUX
+he hini	he_hini	PRO:pos
+he re	he_re	PRO:pos
+hemañ diwezhañ	hemañ_diwezhañ	ADV
+hentad divyezhek	hentad_divyezhek	NOM
+hentad prevez	hentad_prevez	NOM
+hentad publik	hentad_publik	NOM
+hentadoù divyezhek	hentadoù_divyezhek	NOM
+hentadoù prevez	hentadoù_prevez	NOM
+hentadoù publik	hentadoù_publik	NOM
+hep komz	hep_komz	CON
+hep komz eus	hep_komz_eus	PRE
+hep ma	hep_ma	CON
+hep mar	hep_mar	ADV
+hep mar ebet	hep_mar_ebet	ADV
+hep rag na perag	hep_rag_na_perag	ADV
+hini ebet	hini_ebet	PRO:ind
+hiriv an deiz	hiriv_an_deiz	ADV
+hiziv an deiz	hiziv_an_deiz	ADV
+hiziv an deiz mañ	hiziv_an_deiz_mañ	ADV
+ho hini	ho_hini	PRO:pos
+ho pefe	ho_pefe	AUX
+ho pet	ho_pet	AUX
+ho peus	ho_peus	AUX
+ho pez	ho_pez	AUX
+ho peze	ho_peze	AUX
+ho pije	ho_pije	AUX
+ho po	ho_po	AUX
+ho poa	ho_poa	AUX
+ho poe	ho_poe	AUX
+ho re	ho_re	PRO:pos
+hoc_h eus	hoc_h_eus	AUX
+homañ diwezhañ	homañ_diwezhañ	ADV
+hon defe	hon_defe	AUX
+hon dehe	hon_dehe	AUX
+hon dez	hon_dez	AUX
+hon doa	hon_doa	AUX
+hon eus	hon_eus	AUX
+hon hini	hon_hini	PRO:pos
+hon re	hon_re	PRO:pos
+hor befe	hor_befe	AUX
+hor beus	hor_beus	AUX
+hor bez	hor_bez	AUX
+hor beze	hor_beze	AUX
+hor bezet	hor_bezet	AUX
+hor bije	hor_bije	AUX
+hor bo	hor_bo	AUX
+hor boa	hor_boa	AUX
+hor boe	hor_boe	AUX
+ijin krouiñ	ijin_krouiñ	NOM
+ijin krouiñ mab den	ijin_krouiñ_mab_den	NOM
+ijinoù krouiñ	ijinoù_krouiñ	NOM
+ijinoù krouiñ mab den	ijinoù_krouiñ_mab_den	NOM
+impalaeriezh roma	impalaeriezh_roma	NOM
+impalaeriezhioù roma	impalaeriezhioù_roma	NOM
+impalaeriezhoù roma	impalaeriezhoù_roma	NOM
+istor karantez	istor_karantez	NOM
+istorioù karantez	istorioù_karantez	NOM
+istr berlez	istr_berlez	NOM
+istr ferlez	istr_ferlez	NOM
+istr perlez	istr_perlez	NOM
+istrenn berlez	istrenn_berlez	NOM
+istrenn ferlez	istrenn_ferlez	NOM
+istrenn perlez	istrenn_perlez	NOM
+it e peoc_h	it_e_peoc_h	ONO
+itron barnerez	itron_barnerez	NOM
+itron ensellerez	itron_ensellerez	NOM
+itron ger	itron_ger	ONO
+itron komiserez	itron_komiserez	NOM
+itron maerez	itron_maerez	NOM
+itron prezidantez	itron_prezidantez	NOM
+itron rektorez	itron_rektorez	NOM
+itron renerez	itron_renerez	NOM
+itronezed barnerez	itronezed_barnerez	NOM
+itronezed ensellerez	itronezed_ensellerez	NOM
+itronezed ker	itronezed_ker	ONO
+itronezed komiserez	itronezed_komiserez	NOM
+itronezed maerez	itronezed_maerez	NOM
+itronezed prezidantez	itronezed_prezidantez	NOM
+itronezed rektorez	itronezed_rektorez	NOM
+itronezed renerez	itronezed_renerez	NOM
+just a walc_h	just_a_walc_h	ADV
+kador burev	kador_burev	NOM
+kador purev	kador_purev	NOM
+kador vurev	kador_vurev	NOM
+kadorioù burev	kadorioù_burev	NOM
+kadorioù purev	kadorioù_purev	NOM
+kadorioù vurev	kadorioù_vurev	NOM
+kalon deoc_h	kalon_deoc_h	ONO
+kalon dit	kalon_dit	ONO
+kalz a	kalz_a	PRE
+kalz re	kalz_re	ADV
+kalzik a	kalzik_a	PRE
+kamp tolpañ	kamp_tolpañ	NOM
+kampoù tolpañ	kampoù_tolpañ	NOM
+kan ha diskan	kan_ha_diskan	NOM
+kanod saveteiñ	kanod_saveteiñ	NOM
+kanodoù saveteiñ	kanodoù_saveteiñ	NOM
+karg merañ	karg_merañ	NOM
+karg verañ	karg_verañ	NOM
+kargad a studi	kargad_a_studi	NOM
+kargad a ziorren	kargad_a_ziorren	NOM
+kargaded a studi	kargaded_a_studi	NOM
+kargaded a ziorren	kargaded_a_ziorren	NOM
+kargadez a studi	kargadez_a_studi	NOM
+kargadez a ziorren	kargadez_a_ziorren	NOM
+kargadezed a studi	kargadezed_a_studi	NOM
+kargadezed a ziorren	kargadezed_a_ziorren	NOM
+kargidi a studi	kargidi_a_studi	NOM
+kargidi a ziorren	kargidi_a_ziorren	NOM
+kargoù merañ	kargoù_merañ	NOM
+kargoù verañ	kargoù_verañ	NOM
+karr tos tos	karr_tos_tos	NOM
+kazetenn liv	kazetenn_liv	NOM
+kazetennoù liv	kazetennoù_liv	NOM
+keit evel	keit_evel	CON
+keit ha	keit_ha	CON
+keit ha ma	keit_ha_ma	CON
+kelennadurezh divyezhek	kelennadurezh_divyezhek	NOM
+kelennadurezhioù divyezhek	kelennadurezhioù_divyezhek	NOM
+kelennadurezhoù divyezhek	kelennadurezhoù_divyezhek	NOM
+kement a	kement_a	PRE
+kement all	kement_all	ADV
+kement ha	kement_ha	CON
+kement ha ken bihan ma	kement_ha_ken_bihan_ma	CON
+kement ha ma c_haller	kement_ha_ma_c_haller	ADV
+kement ha ma vez tu	kement_ha_ma_vez_tu	ADV
+kement ha mar bez tu	kement_ha_mar_bez_tu	ADV
+kement hag	kement_hag	CON
+kement hini	kement_hini	PRO:ind
+kement se lavaret	kement_se_lavaret	CON
+kement se lâret	kement_se_lâret	CON
+kemmadur kensonennoù	kemmadur_kensonennoù	NOM
+kemmadurioù kensonennoù	kemmadurioù_kensonennoù	NOM
+ken ar c_hentañ	ken_ar_c_hentañ	ONO
+ken ar c_hentañ gweled	ken_ar_c_hentañ_gweled	ONO
+ken ar c_hentañ tro	ken_ar_c_hentañ_tro	ONO
+ken ar wech all	ken_ar_wech_all	ONO
+ken ar wezh all	ken_ar_wezh_all	ONO
+ken arc_hoazh	ken_arc_hoazh	ONO
+ken bremaik	ken_bremaik	ONO
+ken bremazont	ken_bremazont	ONO
+ken buan all	ken_buan_all	ADV
+ken digwener	ken_digwener	ONO
+ken dilun	ken_dilun	ONO
+ken dimerc_her	ken_dimerc_her	ONO
+ken dimeurzh	ken_dimeurzh	ONO
+ken diouzhtu	ken_diouzhtu	ONO
+ken diriaou	ken_diriaou	ONO
+ken disadorn	ken_disadorn	ONO
+ken disul	ken_disul	ONO
+ken diwezhatoc_hik	ken_diwezhatoc_hik	ONO
+ken e vi gwelet	ken_e_vi_gwelet	ONO
+ken e vi lennet	ken_e_vi_lennet	ONO
+ken ma vi gwelet	ken_ma_vi_gwelet	ONO
+ken ma vi lennet	ken_ma_vi_lennet	ONO
+ken nemet gant	ken_nemet_gant	PRE
+ken tuch	ken_tuch	ONO
+ken tuchant	ken_tuchant	ONO
+ken tuchantik	ken_tuchantik	ONO
+ken vi gwelet	ken_vi_gwelet	ONO
+ken vi lennet	ken_vi_lennet	ONO
+ken warc_hoazh	ken_warc_hoazh	ONO
+kenavo ar c_hentañ	kenavo_ar_c_hentañ	ONO
+kenavo ar c_hentañ gweled	kenavo_ar_c_hentañ_gweled	ONO
+kenavo ar wech all	kenavo_ar_wech_all	ONO
+kenavo ar wezh all	kenavo_ar_wezh_all	ONO
+kenavo deoc_h	kenavo_deoc_h	ONO
+kenavo deoc_h holl	kenavo_deoc_h_holl	ONO
+kenavo dit	kenavo_dit	ONO
+keneil ker	keneil_ker	ONO
+keneiled ker	keneiled_ker	ONO
+keneilez ker	keneilez_ker	ONO
+keneilezed ker	keneilezed_ker	ONO
+kenkoulz ha	kenkoulz_ha	CON
+kenkoulz hag	kenkoulz_hag	CON
+kent da	kent_da	PRE
+kent ma	kent_ma	CON
+kentañ ministr	kentañ_ministr	NOM
+kentañ ministred	kentañ_ministred	NOM
+kentañ ministrez	kentañ_ministrez	NOM
+kentañ ministrezed	kentañ_ministrezed	NOM
+kentañ tro	kentañ_tro	CON
+kentañ tro ma	kentañ_tro_ma	CON
+kentel noz	kentel_noz	NOM
+kentelioù noz	kentelioù_noz	NOM
+kenvroad ker	kenvroad_ker	ONO
+kenvroadez ker	kenvroadez_ker	ONO
+kenvroadezed ker	kenvroadezed_ker	ONO
+kenvroiz ker	kenvroiz_ker	ONO
+ker buan all	ker_buan_all	ADV
+kerkent ha ma	kerkent_ha_ma	CON
+kerkoulz ha	kerkoulz_ha	CON
+kerkoulz hag	kerkoulz_hag	CON
+kerse eo	kerse_eo	CON
+ket kement se	ket_kement_se	ADV
+ket ken	ket_ken	ADV
+ket mui	ket_mui	ADV
+ket tre	ket_tre	ADV
+kevrat didermen	kevrat_didermen	NOM
+kevrat labour	kevrat_labour	NOM
+kevrat studiañ	kevrat_studiañ	NOM
+kevratoù didermen	kevratoù_didermen	NOM
+kevratoù labour	kevratoù_labour	NOM
+kevratoù studiañ	kevratoù_studiañ	NOM
+kevredigezh dihun	kevredigezh_dihun	NOM
+kevredigezh div yezh	kevredigezh_div_yezh	NOM
+kevredigezhioù dihun	kevredigezhioù_dihun	NOM
+kevredigezhioù div yezh	kevredigezhioù_div_yezh	NOM
+kevrenn geodedel	kevrenn_geodedel	NOM
+kevrennoù geodedel	kevrennoù_geodedel	NOM
+kig kanol	kig_kanol	NOM
+kilhoroù douarañ	kilhoroù_douarañ	NOM
+kinean ar c_heheder	kinean_ar_c_heheder	NOM
+kinean bissau	kinean_bissau	NOM
+kineaned ar c_heheder	kineaned_ar_c_heheder	NOM
+kineaned bissau	kineaned_bissau	NOM
+kineanez ar c_heheder	kineanez_ar_c_heheder	NOM
+kineanez bissau	kineanez_bissau	NOM
+kineanezed ar c_heheder	kineanezed_ar_c_heheder	NOM
+kineanezed bissau	kineanezed_bissau	NOM
+kinnig labour	kinnig_labour	NOM
+kinnigoù labour	kinnigoù_labour	NOM
+kirri tos tos	kirri_tos_tos	NOM
+kit e peoc_h	kit_e_peoc_h	ONO
+kitar boud	kitar_boud	NOM
+kitar tredan	kitar_tredan	NOM
+kitaroù boud	kitaroù_boud	NOM
+kitaroù tredan	kitaroù_tredan	NOM
+klas divyezhek	klas_divyezhek	NOM
+klas unyezhek	klas_unyezhek	NOM
+klasker labour	klasker_labour	NOM
+klaskerez labour	klaskerez_labour	NOM
+klaskerezed labour	klaskerezed_labour	NOM
+klaskerien labour	klaskerien_labour	NOM
+klaskerion labour	klaskerion_labour	NOM
+klaskour labour	klaskour_labour	NOM
+klaskourez labour	klaskourez_labour	NOM
+klaskourezed labour	klaskourezed_labour	NOM
+klaskourien labour	klaskourien_labour	NOM
+klasoù divyezhek	klasoù_divyezhek	NOM
+klasoù unyezhek	klasoù_unyezhek	NOM
+kleuzeur burev	kleuzeur_burev	NOM
+kleuzeur purev	kleuzeur_purev	NOM
+kleuzeur vurev	kleuzeur_vurev	NOM
+kleuzeurioù burev	kleuzeurioù_burev	NOM
+kleuzeurioù purev	kleuzeurioù_purev	NOM
+kleuzeurioù vurev	kleuzeurioù_vurev	NOM
+kleñved spegus	kleñved_spegus	NOM
+kleñvedoù spegus	kleñvedoù_spegus	NOM
+klogorenn dredan	klogorenn_dredan	NOM
+klogorenn tredan	klogorenn_tredan	NOM
+klogorenn zredan	klogorenn_zredan	NOM
+klogorennoù dredan	klogorennoù_dredan	NOM
+klogorennoù tredan	klogorennoù_tredan	NOM
+klogorennoù zredan	klogorennoù_zredan	NOM
+komiser ar c_hontoù	komiser_ar_c_hontoù	NOM
+komiserez ar c_hontoù	komiserez_ar_c_hontoù	NOM
+komiserezed ar c_hontoù	komiserezed_ar_c_hontoù	NOM
+komiserien ar c_hontoù	komiserien_ar_c_hontoù	NOM
+komiserion ar c_hontoù	komiserion_ar_c_hontoù	NOM
+komisour ar c_hontoù	komisour_ar_c_hontoù	NOM
+komisourez ar c_hontoù	komisourez_ar_c_hontoù	NOM
+komisourezed ar c_hontoù	komisourezed_ar_c_hontoù	NOM
+komisourien ar c_hontoù	komisourien_ar_c_hontoù	NOM
+kordenn lammat	kordenn_lammat	NOM
+kordennoù lammat	kordennoù_lammat	NOM
+korn digor	korn_digor	NOM
+korn lemm	korn_lemm	NOM
+kornioù digor	kornioù_digor	NOM
+kornioù lemm	kornioù_lemm	NOM
+kornôg bras	kornôg_bras	NOM
+kornôg pellañ	kornôg_pellañ	NOM
+korzenn dourañ	korzenn_dourañ	NOM
+korzennoù dourañ	korzennoù_dourañ	NOM
+koublad yezhoù	koublad_yezhoù	NOM
+koubladoù yezhoù	koubladoù_yezhoù	NOM
+kouel an hañv	kouel_an_hañv	NOM
+kouel broadel	kouel_broadel	NOM
+kouelioù an hañv	kouelioù_an_hañv	NOM
+kouelioù broadel	kouelioù_broadel	NOM
+kouenn besked	kouenn_besked	NOM
+kouenn fesked	kouenn_fesked	NOM
+kouenn pesked	kouenn_pesked	NOM
+kouennoù besked	kouennoù_besked	NOM
+kouennoù fesked	kouennoù_fesked	NOM
+kouennoù pesked	kouennoù_pesked	NOM
+koulaouiñ foran	koulaouiñ_foran	NOM
+koulaouiñ publik	koulaouiñ_publik	NOM
+koulenn skoaziad	koulenn_skoaziad	NOM
+koulenn sokial	koulenn_sokial	NOM
+koulenn stummañ	koulenn_stummañ	NOM
+koulennoù skoaziad	koulennoù_skoaziad	NOM
+koulennoù sokial	koulennoù_sokial	NOM
+koulennoù stummañ	koulennoù_stummañ	NOM
+koulz dre skrid ha dre gomz	koulz_dre_skrid_ha_dre_gomz	ADV
+koulz ha	koulz_ha	CON
+koulz hag	koulz_hag	CON
+koulz lavaret	koulz_lavaret	ADV
+koulzad brudañ	koulzad_brudañ	NOM
+koulzad kelaouiñ	koulzad_kelaouiñ	NOM
+koulzadoù brudañ	koulzadoù_brudañ	NOM
+koulzadoù kelaouiñ	koulzadoù_kelaouiñ	NOM
+kouriz surentez	kouriz_surentez	NOM
+kourizoù surentez	kourizoù_surentez	NOM
+koustet a gousto	koustet_a_gousto	ADV
+koustet pe goustet	koustet_pe_goustet	ADV
+kousto pe gousto	kousto_pe_gousto	ADV
+kraf gouren	kraf_gouren	NOM
+kraf judo	kraf_judo	NOM
+krafoù gouren	krafoù_gouren	NOM
+krafoù judo	krafoù_judo	NOM
+kraou kezeg	kraou_kezeg	NOM
+kraou moc_h	kraou_moc_h	NOM
+krazerez bara	krazerez_bara	NOM
+krazerez para	krazerez_para	NOM
+krazerez vara	krazerez_vara	NOM
+krazerezioù bara	krazerezioù_bara	NOM
+krazerezioù para	krazerezioù_para	NOM
+krazerezioù vara	krazerezioù_vara	NOM
+krefen gouren	krefen_gouren	NOM
+krefen judo	krefen_judo	NOM
+kreion liv	kreion_liv	NOM
+kreionoù liv	kreionoù_liv	NOM
+kreizenn deuliaouiñ	kreizenn_deuliaouiñ	NOM
+kreizenn diguzhat	kreizenn_diguzhat	NOM
+kreizenn enklask	kreizenn_enklask	NOM
+kreizenn merañ	kreizenn_merañ	NOM
+kreizenn stummañ	kreizenn_stummañ	NOM
+kreizenn teuliaouiñ	kreizenn_teuliaouiñ	NOM
+kreizenn verañ	kreizenn_verañ	NOM
+kreizenn zeuliaouiñ	kreizenn_zeuliaouiñ	NOM
+kreizennoù deuliaouiñ	kreizennoù_deuliaouiñ	NOM
+kreizennoù diguzhat	kreizennoù_diguzhat	NOM
+kreizennoù enklask	kreizennoù_enklask	NOM
+kreizennoù merañ	kreizennoù_merañ	NOM
+kreizennoù stummañ	kreizennoù_stummañ	NOM
+kreizennoù teuliaouiñ	kreizennoù_teuliaouiñ	NOM
+kreizennoù verañ	kreizennoù_verañ	NOM
+kreizennoù zeuliaouiñ	kreizennoù_zeuliaouiñ	NOM
+krek tredan	krek_tredan	NOM
+krekad kafe	krekad_kafe	NOM
+krekadoù kafe	krekadoù_kafe	NOM
+krekoù tredan	krekoù_tredan	NOM
+kresk gopr	kresk_gopr	NOM
+kreskoù gopr	kreskoù_gopr	NOM
+krevier kezeg	krevier_kezeg	NOM
+krevier moc_h	krevier_moc_h	NOM
+krip mareadek	krip_mareadek	NOM
+kripoù mareadek	kripoù_mareadek	NOM
+krugell merien	krugell_merien	NOM
+krugell verien	krugell_verien	NOM
+krugelloù merien	krugelloù_merien	NOM
+krugelloù verien	krugelloù_verien	NOM
+kudenn merañ	kudenn_merañ	NOM
+kudenn stummañ	kudenn_stummañ	NOM
+kudenn verañ	kudenn_verañ	NOM
+kudennoù merañ	kudennoù_merañ	NOM
+kudennoù stummañ	kudennoù_stummañ	NOM
+kudennoù verañ	kudennoù_verañ	NOM
+kuit a	kuit_a	PRE
+kuit da	kuit_da	PRE
+kumun c_hreiz	kumun_c_hreiz	NOM
+kumun greiz	kumun_greiz	NOM
+kumun kreiz	kumun_kreiz	NOM
+kumuniezh kumunioù	kumuniezh_kumunioù	NOM
+kumuniezhioù kumunioù	kumuniezhioù_kumunioù	NOM
+kumuniezhoù kumunioù	kumuniezhoù_kumunioù	NOM
+kumunioù c_hreiz	kumunioù_c_hreiz	NOM
+kumunioù greiz	kumunioù_greiz	NOM
+kumunioù kreiz	kumunioù_kreiz	NOM
+kuzul diorren	kuzul_diorren	NOM
+kuzuliadenn mezegel	kuzuliadenn_mezegel	NOM
+kuzuliadenn vezegel	kuzuliadenn_vezegel	NOM
+kuzuliadennoù mezegel	kuzuliadennoù_mezegel	NOM
+kuzuliadennoù vezegel	kuzuliadennoù_vezegel	NOM
+kuzulier diriadel	kuzulier_diriadel	NOM
+kuzulier tiriadel	kuzulier_tiriadel	NOM
+kuzulier ziriadel	kuzulier_ziriadel	NOM
+kuzulierez diriadel	kuzulierez_diriadel	NOM
+kuzulierez tiriadel	kuzulierez_tiriadel	NOM
+kuzulierez ziriadel	kuzulierez_ziriadel	NOM
+kuzulierezed diriadel	kuzulierezed_diriadel	NOM
+kuzulierezed tiriadel	kuzulierezed_tiriadel	NOM
+kuzulierezed ziriadel	kuzulierezed_ziriadel	NOM
+kuzulierien diriadel	kuzulierien_diriadel	NOM
+kuzulierien tiriadel	kuzulierien_tiriadel	NOM
+kuzulierien ziriadel	kuzulierien_ziriadel	NOM
+kuzulierion diriadel	kuzulierion_diriadel	NOM
+kuzulierion tiriadel	kuzulierion_tiriadel	NOM
+kuzulierion ziriadel	kuzulierion_ziriadel	NOM
+kuzuliour diriadel	kuzuliour_diriadel	NOM
+kuzuliour tiriadel	kuzuliour_tiriadel	NOM
+kuzuliour ziriadel	kuzuliour_ziriadel	NOM
+kuzuliourez diriadel	kuzuliourez_diriadel	NOM
+kuzuliourez tiriadel	kuzuliourez_tiriadel	NOM
+kuzuliourez ziriadel	kuzuliourez_ziriadel	NOM
+kuzuliourezed diriadel	kuzuliourezed_diriadel	NOM
+kuzuliourezed tiriadel	kuzuliourezed_tiriadel	NOM
+kuzuliourezed ziriadel	kuzuliourezed_ziriadel	NOM
+kuzuliourien diriadel	kuzuliourien_diriadel	NOM
+kuzuliourien tiriadel	kuzuliourien_tiriadel	NOM
+kuzuliourien ziriadel	kuzuliourien_ziriadel	NOM
+kuzulioù diorren	kuzulioù_diorren	NOM
+kwalenn besketa	kwalenn_besketa	NOM
+kwalenn fesketa	kwalenn_fesketa	NOM
+kwalenn pesketa	kwalenn_pesketa	NOM
+kwalennoù besketa	kwalennoù_besketa	NOM
+kwalennoù fesketa	kwalennoù_fesketa	NOM
+kwalennoù pesketa	kwalennoù_pesketa	NOM
+kwalinier besketa	kwalinier_besketa	NOM
+kwalinier fesketa	kwalinier_fesketa	NOM
+kwalinier pesketa	kwalinier_pesketa	NOM
+kwarez sokial	kwarez_sokial	NOM
+kwarezioù sokial	kwarezioù_sokial	NOM
+kweladenn heñchet	kweladenn_heñchet	NOM
+kweladennoù heñchet	kweladennoù_heñchet	NOM
+kwener kreisteiz	kwener_kreisteiz	NOM
+kwerennad dour	kwerennad_dour	NOM
+kwerennadoù dour	kwerennadoù_dour	NOM
+kwin palmez	kwin_palmez	NOM
+kwinoù palmez	kwinoù_palmez	NOM
+kwir enskrivañ	kwir_enskrivañ	NOM
+kwir mab den	kwir_mab_den	NOM
+kwirioù enskrivañ	kwirioù_enskrivañ	NOM
+kwirioù mab den	kwirioù_mab_den	NOM
+kêr c_hreiz	kêr_c_hreiz	NOM
+kêr greiz	kêr_greiz	NOM
+kêr kreiz	kêr_kreiz	NOM
+kêrioù c_hreiz	kêrioù_c_hreiz	NOM
+kêrioù greiz	kêrioù_greiz	NOM
+kêrioù kreiz	kêrioù_kreiz	NOM
+la di ga dra	la_di_ga_dra	ONO
+labour advouezhiañ	labour_advouezhiañ	NOM
+labour berrbad	labour_berrbad	NOM
+labour brasaat	labour_brasaat	NOM
+labour don	labour_don	NOM
+labour frammañ	labour_frammañ	NOM
+labour gwiriañ	labour_gwiriañ	NOM
+labour kelaouiñ	labour_kelaouiñ	NOM
+labour kizidikaat	labour_kizidikaat	NOM
+labour spered	labour_spered	NOM
+labourioù advouezhiañ	labourioù_advouezhiañ	NOM
+labourioù berrbad	labourioù_berrbad	NOM
+labourioù brasaat	labourioù_brasaat	NOM
+labourioù don	labourioù_don	NOM
+labourioù frammañ	labourioù_frammañ	NOM
+labourioù gwiriañ	labourioù_gwiriañ	NOM
+labourioù kelaouiñ	labourioù_kelaouiñ	NOM
+labourioù kizidikaat	labourioù_kizidikaat	NOM
+labourioù spered	labourioù_spered	NOM
+lamm faraon	lamm_faraon	NOM
+lammat a hed	lammat_a_hed	NOM
+lammat a serzh	lammat_a_serzh	NOM
+lammoù faraon	lammoù_faraon	NOM
+laoskadeg c_hwezigelloù	laoskadeg_c_hwezigelloù	NOM
+laoskadegoù c_hwezigelloù	laoskadegoù_c_hwezigelloù	NOM
+lec_h annez	lec_h_annez	NOM
+lec_h degemer	lec_h_degemer	NOM
+lec_h labour	lec_h_labour	NOM
+lec_h selaou	lec_h_selaou	NOM
+lec_h skignañ	lec_h_skignañ	NOM
+lec_hioù annez	lec_hioù_annez	NOM
+lec_hioù degemer	lec_hioù_degemer	NOM
+lec_hioù labour	lec_hioù_labour	NOM
+lec_hioù selaou	lec_hioù_selaou	NOM
+lec_hioù skignañ	lec_hioù_skignañ	NOM
+lemmen faraon	lemmen_faraon	NOM
+lestr brezel	lestr_brezel	NOM
+lestroù brezel	lestroù_brezel	NOM
+letrin c_hoari	letrin_c_hoari	NOM
+letrinoù c_hoari	letrinoù_c_hoari	NOM
+leun a	leun_a	PRE
+levr chakod	levr_chakod	NOM
+levr godell	levr_godell	NOM
+levrig kelaouiñ	levrig_kelaouiñ	NOM
+levrig titouriñ	levrig_titouriñ	NOM
+levrigoù kelaouiñ	levrigoù_kelaouiñ	NOM
+levrigoù titouriñ	levrigoù_titouriñ	NOM
+levrioù chakod	levrioù_chakod	NOM
+levrioù godell	levrioù_godell	NOM
+lise diwan	lise_diwan	NOM
+liseoù diwan	liseoù_diwan	NOM
+listri brezel	listri_brezel	NOM
+live bevañ	live_bevañ	NOM
+live brezhoneg	live_brezhoneg	NOM
+live studi	live_studi	NOM
+live yezh	live_yezh	NOM
+liveoù bevañ	liveoù_bevañ	NOM
+liveoù brezhoneg	liveoù_brezhoneg	NOM
+liveoù studi	liveoù_studi	NOM
+liveoù yezh	liveoù_yezh	NOM
+lodenn mat	lodenn_mat	NOM
+lodenn vat	lodenn_vat	NOM
+lodennoù mat	lodennoù_mat	NOM
+lodennoù vat	lodennoù_vat	NOM
+logell bellgomz	logell_bellgomz	NOM
+logell bleinañ	logell_bleinañ	NOM
+logell fellgomz	logell_fellgomz	NOM
+logell pellgomz	logell_pellgomz	NOM
+logell pleinañ	logell_pleinañ	NOM
+logell vleinañ	logell_vleinañ	NOM
+logelloù bellgomz	logelloù_bellgomz	NOM
+logelloù bleinañ	logelloù_bleinañ	NOM
+logelloù fellgomz	logelloù_fellgomz	NOM
+logelloù pellgomz	logelloù_pellgomz	NOM
+logelloù pleinañ	logelloù_pleinañ	NOM
+logelloù vleinañ	logelloù_vleinañ	NOM
+louzeier enepviruz	louzeier_enepviruz	NOM
+louzou enepviruz	louzou_enepviruz	NOM
+louzoù enepviruz	louzoù_enepviruz	NOM
+lun kreisteiz	lun_kreisteiz	NOM
+lusk diorren	lusk_diorren	NOM
+luskoù diorren	luskoù_diorren	NOM
+ma gwellañ gourc_hemennoù	ma_gwellañ_gourc_hemennoù	ADV
+ma hini	ma_hini	PRO:pos
+ma kerez	ma_kerez	ADV
+ma re	ma_re	PRO:pos
+ma vez tu	ma_vez_tu	ADV
+mab al lagad	mab_al_lagad	NOM
+maboù al lagad	maboù_al_lagad	NOM
+madik a walc_h	madik_a_walc_h	ADV
+malzenn aour	malzenn_aour	NOM
+malzenn erc_h	malzenn_erc_h	NOM
+malzennoù aour	malzennoù_aour	NOM
+malzennoù erc_h	malzennoù_erc_h	NOM
+maneg emwalc_hiñ	maneg_emwalc_hiñ	NOM
+manegoù emwalc_hiñ	manegoù_emwalc_hiñ	NOM
+mann ebet	mann_ebet	ADV
+mantell c_hlav	mantell_c_hlav	NOM
+mantell glav	mantell_glav	NOM
+mantell klav	mantell_klav	NOM
+mantelloù c_hlav	mantelloù_c_hlav	NOM
+mantelloù glav	mantelloù_glav	NOM
+mantelloù klav	mantelloù_klav	NOM
+mantilli c_hlav	mantilli_c_hlav	NOM
+mantilli glav	mantilli_glav	NOM
+mantilli klav	mantilli_klav	NOM
+maouez kozh	maouez_kozh	NOM
+maouezed kozh	maouezed_kozh	NOM
+mar bez tu	mar_bez_tu	ADV
+mar kerez	mar_kerez	ADV
+mar plij	mar_plij	ADV
+marteze a walc_h	marteze_a_walc_h	ADV
+maskl splujañ	maskl_splujañ	NOM
+maskloù splujañ	maskloù_splujañ	NOM
+medalenn aour	medalenn_aour	NOM
+medalenn arc_hant	medalenn_arc_hant	NOM
+medalenn arem	medalenn_arem	NOM
+medalennoù aour	medalennoù_aour	NOM
+medalennoù arc_hant	medalennoù_arc_hant	NOM
+medalennoù arem	medalennoù_arem	NOM
+mell droad ouezelek	mell_droad_ouezelek	NOM
+memes tra	memes_tra	ADV
+mennozh mat	mennozh_mat	NOM
+mennozhioù mat	mennozhioù_mat	NOM
+merc_her kreisteiz	merc_her_kreisteiz	NOM
+merk frank	merk_frank	NOM
+merk marilhet	merk_marilhet	NOM
+merkoù frank	merkoù_frank	NOM
+merkoù marilhet	merkoù_marilhet	NOM
+meteier kevredigezhel	meteier_kevredigezhel	NOM
+metou kevredigezhel	metou_kevredigezhel	NOM
+metoù kevredigezhel	metoù_kevredigezhel	NOM
+meur a	meur_a	ART:ind
+meur a vloaz	meur_a_vloaz	ADV
+meurzh kreisteiz	meurzh_kreisteiz	NOM
+mezeg boas	mezeg_boas	NOM
+mezeg poas	mezeg_poas	NOM
+mezeg voas	mezeg_voas	NOM
+mezegez boas	mezegez_boas	NOM
+mezegez poas	mezegez_poas	NOM
+mezegez voas	mezegez_voas	NOM
+mezegezed boas	mezegezed_boas	NOM
+mezegezed poas	mezegezed_poas	NOM
+mezegezed voas	mezegezed_voas	NOM
+mezegiezh al labour	mezegiezh_al_labour	NOM
+mezegiezhioù al labour	mezegiezhioù_al_labour	NOM
+mezegiezhoù al labour	mezegiezhoù_al_labour	NOM
+mezeien boas	mezeien_boas	NOM
+mezeien poas	mezeien_poas	NOM
+mezeien voas	mezeien_voas	NOM
+mezeion boas	mezeion_boas	NOM
+mezeion poas	mezeion_poas	NOM
+mezeion voas	mezeion_voas	NOM
+mignon ker	mignon_ker	ONO
+mignoned ker	mignoned_ker	ONO
+mignonez ker	mignonez_ker	ONO
+mignonezed ker	mignonezed_ker	ONO
+milion a	milion_a	NOM
+milionoù a	milionoù_a	NOM
+mintin abred	mintin_abred	ADV
+miz c_hwevrer	miz_c_hwevrer	NOM
+miz du	miz_du	NOM
+miz ebrel	miz_ebrel	NOM
+miz eost	miz_eost	NOM
+miz even	miz_even	NOM
+miz genver	miz_genver	NOM
+miz gouere	miz_gouere	NOM
+miz gouhere	miz_gouhere	NOM
+miz gwengolo	miz_gwengolo	NOM
+miz gwenholon	miz_gwenholon	NOM
+miz here	miz_here	NOM
+miz kerzu	miz_kerzu	NOM
+miz mae	miz_mae	NOM
+miz meurzh	miz_meurzh	NOM
+miz mezheven	miz_mezheven	NOM
+mizoù koskor	mizoù_koskor	NOM
+mizoù lojañ	mizoù_lojañ	NOM
+mod kozh	mod_kozh	ADV
+mod pe vod	mod_pe_vod	ADV
+mont en dro	mont_en_dro	NOM
+mui pe vui	mui_pe_vui	ADV
+muioc_h a	muioc_h_a	PRE
+muioc_h eget	muioc_h_eget	PRE
+muioc_h eget biskoazh	muioc_h_eget_biskoazh	ADV
+muioc_h mui a	muioc_h_mui_a	PRE
+na mui na maez	na_mui_na_maez	ADV
+naer biton	naer_biton	NOM
+naer fiton	naer_fiton	NOM
+naer mouger	naer_mouger	NOM
+naer piton	naer_piton	NOM
+naer vouger	naer_vouger	NOM
+naered biton	naered_biton	NOM
+naered fiton	naered_fiton	NOM
+naered mouger	naered_mouger	NOM
+naered piton	naered_piton	NOM
+naered vouger	naered_vouger	NOM
+naeron biton	naeron_biton	NOM
+naeron fiton	naeron_fiton	NOM
+naeron mouger	naeron_mouger	NOM
+naeron piton	naeron_piton	NOM
+naeron vouger	naeron_vouger	NOM
+naon du	naon_du	NOM
+nav c_hant	nav_c_hant	ADJ:num
+nebeudik a	nebeudik_a	PRE
+nebeut a	nebeut_a	PRE
+nebeutoc_h a	nebeutoc_h_a	PRE
+nebeutoc_h eget	nebeutoc_h_eget	PRE
+nebeutoc_h nebeutañ a	nebeutoc_h_nebeutañ_a	PRE
+neblec_h all	neblec_h_all	ADV
+nedeleg laouen	nedeleg_laouen	ONO
+nedeleg laouen deoc_h	nedeleg_laouen_deoc_h	ONO
+nedeleg laouen deoc_h holl	nedeleg_laouen_deoc_h_holl	ONO
+nedeleg laouen dit	nedeleg_laouen_dit	ONO
+neizh pig	neizh_pig	NOM
+neizhioù pig	neizhioù_pig	NOM
+nemet ma	nemet_ma	CON
+nemeur a	nemeur_a	PRE
+nepell diouzh	nepell_diouzh	PRE
+netra ebet	netra_ebet	ADV
+nevez zo	nevez_zo	ADV
+niver a dud	niver_a_dud	NOM
+niveroù a dud	niveroù_a_dud	NOM
+notenn labour	notenn_labour	NOM
+notennoù labour	notennoù_labour	NOM
+noz vat	noz_vat	ONO
+noz vat deoc_h	noz_vat_deoc_h	ONO
+noz vat deoc_h holl	noz_vat_deoc_h_holl	ONO
+noz vat dit	noz_vat_dit	ONO
+nozvezh eskemm	nozvezh_eskemm	NOM
+nozvezh vat	nozvezh_vat	ONO
+nozvezh vat deoc_h	nozvezh_vat_deoc_h	ONO
+nozvezh vat deoc_h holl	nozvezh_vat_deoc_h_holl	ONO
+nozvezh vat dit	nozvezh_vat_dit	ONO
+nozvezhioù eskemm	nozvezhioù_eskemm	NOM
+o defe	o_defe	AUX
+o defent	o_defent	AUX
+o defeve	o_defeve	AUX
+o dehe	o_dehe	AUX
+o deus	o_deus	AUX
+o devez	o_devez	AUX
+o deveze	o_deveze	AUX
+o devo	o_devo	AUX
+o devoa	o_devoa	AUX
+o devoe	o_devoe	AUX
+o dez	o_dez	AUX
+o dije	o_dije	AUX
+o do	o_do	AUX
+o doa	o_doa	AUX
+o doe	o_doe	AUX
+o hini	o_hini	PRO:pos
+o re	o_re	PRO:pos
+o vezañ ma	o_vezañ_ma	CON
+o welet kement se	o_welet_kement_se	CON
+oad gour	oad_gour	NOM
+oadoù gour	oadoù_gour	NOM
+oferenn ar pellgent	oferenn_ar_pellgent	NOM
+oferennoù ar pellgent	oferennoù_ar_pellgent	NOM
+ouel an hañv	ouel_an_hañv	NOM
+ouel broadel	ouel_broadel	NOM
+ouelioù an hañv	ouelioù_an_hañv	NOM
+ouelioù broadel	ouelioù_broadel	NOM
+ouenn besked	ouenn_besked	NOM
+ouenn fesked	ouenn_fesked	NOM
+ouenn pesked	ouenn_pesked	NOM
+ouennoù besked	ouennoù_besked	NOM
+ouennoù fesked	ouennoù_fesked	NOM
+ouennoù pesked	ouennoù_pesked	NOM
+ouzhpenn an dra se	ouzhpenn_an_dra_se	ADV
+ouzhpenn da se	ouzhpenn_da_se	ADV
+pad rakwelet	pad_rakwelet	NOM
+padoù rakwelet	padoù_rakwelet	NOM
+pag bezhina	pag_bezhina	NOM
+pag pesketa	pag_pesketa	NOM
+pag pezhina	pag_pezhina	NOM
+pag toneta	pag_toneta	NOM
+pag touneta	pag_touneta	NOM
+pag vezhina	pag_vezhina	NOM
+pagoù bezhina	pagoù_bezhina	NOM
+pagoù pesketa	pagoù_pesketa	NOM
+pagoù pezhina	pagoù_pezhina	NOM
+pagoù toneta	pagoù_toneta	NOM
+pagoù touneta	pagoù_touneta	NOM
+pagoù vezhina	pagoù_vezhina	NOM
+palafenn deiz	palafenn_deiz	NOM
+palafenn noz	palafenn_noz	NOM
+palafenned deiz	palafenned_deiz	NOM
+palafenned noz	palafenned_noz	NOM
+panell displegañ	panell_displegañ	NOM
+panell hent	panell_hent	NOM
+panell heñchañ	panell_heñchañ	NOM
+panellerezh hent	panellerezh_hent	NOM
+panellerezh heñchañ	panellerezh_heñchañ	NOM
+panellerezhioù hent	panellerezhioù_hent	NOM
+panellerezhioù heñchañ	panellerezhioù_heñchañ	NOM
+panelloù displegañ	panelloù_displegañ	NOM
+panelloù hent	panelloù_hent	NOM
+panelloù heñchañ	panelloù_heñchañ	NOM
+paot douar	paot_douar	NOM
+paot mor	paot_mor	NOM
+paot vor	paot_vor	NOM
+paoted douar	paoted_douar	NOM
+paotoù mor	paotoù_mor	NOM
+paotoù vor	paotoù_vor	NOM
+paper adaozet	paper_adaozet	NOM
+paperioù adaozet	paperioù_adaozet	NOM
+para krazet	para_krazet	NOM
+paraoù krazet	paraoù_krazet	NOM
+parrenn houarn	parrenn_houarn	NOM
+parrennoù houarn	parrennoù_houarn	NOM
+parrinier houarn	parrinier_houarn	NOM
+pask laouen	pask_laouen	ONO
+pask laouen deoc_h	pask_laouen_deoc_h	ONO
+pask laouen deoc_h holl	pask_laouen_deoc_h_holl	ONO
+pask laouen dit	pask_laouen_dit	ONO
+pazh skiañ	pazh_skiañ	NOM
+pazh taboulin	pazh_taboulin	NOM
+pe dost	pe_dost	ADV
+pe get	pe_get	ADV
+ped al labour	ped_al_labour	NOM
+ped ar c_hornôg	ped_ar_c_hornôg	NOM
+pedoù al labour	pedoù_al_labour	NOM
+pedoù ar c_hornôg	pedoù_ar_c_hornôg	NOM
+pell amzer	pell_amzer	ADV
+pellder bihanañ	pellder_bihanañ	NOM
+pellder brasañ	pellder_brasañ	NOM
+pellderioù bihanañ	pellderioù_bihanañ	NOM
+pellderioù brasañ	pellderioù_brasañ	NOM
+pellderoù bihanañ	pellderoù_bihanañ	NOM
+pellderoù brasañ	pellderoù_brasañ	NOM
+pellgomz hezoug	pellgomz_hezoug	NOM
+pellgomzer hezoug	pellgomzer_hezoug	NOM
+pellgomzerioù hezoug	pellgomzerioù_hezoug	NOM
+pemp kant	pemp_kant	ADJ:num
+penn ahel an norzh	penn_ahel_an_norzh	NOM
+penn ahel ar su	penn_ahel_ar_su	NOM
+penn an embregerezh	penn_an_embregerezh	NOM
+penn da benn	penn_da_benn	ADV
+penn devezh	penn_devezh	NOM
+penn embregerezh	penn_embregerezh	NOM
+penn kentañ	penn_kentañ	NOM
+pennoù ahel an norzh	pennoù_ahel_an_norzh	NOM
+pennoù ahel ar su	pennoù_ahel_ar_su	NOM
+pennoù an embregerezh	pennoù_an_embregerezh	NOM
+pennoù devezh	pennoù_devezh	NOM
+pennoù embregerezh	pennoù_embregerezh	NOM
+penveg gwintañ	penveg_gwintañ	NOM
+penveg labour	penveg_labour	NOM
+penveg luc_hskeudenniñ	penveg_luc_hskeudenniñ	NOM
+penveg seniñ	penveg_seniñ	NOM
+penvegoù gwintañ	penvegoù_gwintañ	NOM
+penvegoù labour	penvegoù_labour	NOM
+penvegoù luc_hskeudenniñ	penvegoù_luc_hskeudenniñ	NOM
+penvegoù seniñ	penvegoù_seniñ	NOM
+pep gwir miret strizh	pep_gwir_miret_strizh	ADV
+pep hini	pep_hini	PRO:ind
+pep tra	pep_tra	PRO:ind
+peseurt mod	peseurt_mod	ADV
+petra bennak	petra_bennak	CON
+pevar c_hant	pevar_c_hant	ADJ:num
+pezh a	pezh_a	PRO:rel
+pezh arrebeuri	pezh_arrebeuri	NOM
+pezh moneiz	pezh_moneiz	NOM
+pezh zo	pezh_zo	PRO:rel
+pezhioù arrebeuri	pezhioù_arrebeuri	NOM
+pezhioù moneiz	pezhioù_moneiz	NOM
+pigi bezhina	pigi_bezhina	NOM
+pigi pesketa	pigi_pesketa	NOM
+pigi pezhina	pigi_pezhina	NOM
+pigi toneta	pigi_toneta	NOM
+pigi touneta	pigi_touneta	NOM
+pigi vezhina	pigi_vezhina	NOM
+pignez avaloù	pignez_avaloù	NOM
+pignezenn avaloù	pignezenn_avaloù	NOM
+piniaouioù bras	piniaouioù_bras	NOM
+piniaouioù kozh	piniaouioù_kozh	NOM
+piniawoù bras	piniawoù_bras	NOM
+piniawoù kozh	piniawoù_kozh	NOM
+piniou bras	piniou_bras	NOM
+piniou kozh	piniou_kozh	NOM
+pinioù bras	pinioù_bras	NOM
+pinioù kozh	pinioù_kozh	NOM
+pintet uhel	pintet_uhel	ADJ
+pinviji gwintañ	pinviji_gwintañ	NOM
+pinviji labour	pinviji_labour	NOM
+pinviji luc_hskeudenniñ	pinviji_luc_hskeudenniñ	NOM
+pinviji seniñ	pinviji_seniñ	NOM
+pinvioù gwintañ	pinvioù_gwintañ	NOM
+pinvioù labour	pinvioù_labour	NOM
+pinvioù luc_hskeudenniñ	pinvioù_luc_hskeudenniñ	NOM
+pinvioù seniñ	pinvioù_seniñ	NOM
+piv bennak	piv_bennak	PRO:ind
+pizhier skiañ	pizhier_skiañ	NOM
+pizhier taboulin	pizhier_taboulin	NOM
+plac_h yaouank	plac_h_yaouank	NOM
+plac_hed yaouank	plac_hed_yaouank	NOM
+plev melen	plev_melen	NOM
+plev velen	plev_velen	NOM
+plevenn melen	plevenn_melen	NOM
+plevenn velen	plevenn_velen	NOM
+plijet pe get	plijet_pe_get	ADV
+ploavezh hanter	ploavezh_hanter	NOM
+ploavezh mat	ploavezh_mat	NOM
+ploavezh skol	ploavezh_skol	NOM
+ploavezh skol veur	ploavezh_skol_veur	NOM
+ploavezhioù hanter	ploavezhioù_hanter	NOM
+ploavezhioù mat	ploavezhioù_mat	NOM
+ploavezhioù skol	ploavezhioù_skol	NOM
+ploavezhioù skol veur	ploavezhioù_skol_veur	NOM
+plokad bananez	plokad_bananez	NOM
+plokad rezin	plokad_rezin	NOM
+plokadoù bananez	plokadoù_bananez	NOM
+plokadoù rezin	plokadoù_rezin	NOM
+poblañs skol	poblañs_skol	NOM
+poblañsoù skol	poblañsoù_skol	NOM
+podad heuliañ	podad_heuliañ	NOM
+podad mel	podad_mel	NOM
+podadoù heuliañ	podadoù_heuliañ	NOM
+podadoù mel	podadoù_mel	NOM
+poent kej	poent_kej	NOM
+poentoù kej	poentoù_kej	NOM
+poest an diaoul	poest_an_diaoul	NOM
+poestad kreionoù	poestad_kreionoù	NOM
+poestadoù kreionoù	poestadoù_kreionoù	NOM
+poestoù an diaoul	poestoù_an_diaoul	NOM
+pol studi ha diorren	pol_studi_ha_diorren	NOM
+pol yezh	pol_yezh	NOM
+poled kanol	poled_kanol	NOM
+poledoù kanol	poledoù_kanol	NOM
+polejoù kanol	polejoù_kanol	NOM
+polennad chokolad	polennad_chokolad	NOM
+polennad kafe	polennad_kafe	NOM
+polennad laezh	polennad_laezh	NOM
+polennadoù chokolad	polennadoù_chokolad	NOM
+polennadoù kafe	polennadoù_kafe	NOM
+polennadoù laezh	polennadoù_laezh	NOM
+polidi kanol	polidi_kanol	NOM
+poliji kanol	poliji_kanol	NOM
+politikerezh diorren	politikerezh_diorren	NOM
+politikerezh yezh	politikerezh_yezh	NOM
+politikerezhioù diorren	politikerezhioù_diorren	NOM
+politikerezhioù yezh	politikerezhioù_yezh	NOM
+poloù studi ha diorren	poloù_studi_ha_diorren	NOM
+poloù yezh	poloù_yezh	NOM
+pomp gwrez	pomp_gwrez	NOM
+pompoù gwrez	pompoù_gwrez	NOM
+porched media	porched_media	NOM
+porchedoù media	porchedoù_media	NOM
+porzh ar skol	porzh_ar_skol	NOM
+porzh pesketa	porzh_pesketa	NOM
+porzhioù ar skol	porzhioù_ar_skol	NOM
+porzhioù pesketa	porzhioù_pesketa	NOM
+post diorren	post_diorren	NOM
+post labour	post_labour	NOM
+post leun amzer	post_leun_amzer	NOM
+post leunamzer	post_leunamzer	NOM
+postoù diorren	postoù_diorren	NOM
+postoù labour	postoù_labour	NOM
+postoù leun amzer	postoù_leun_amzer	NOM
+postoù leunamzer	postoù_leunamzer	NOM
+potez ruzikat	potez_ruzikat	NOM
+potoù ruzikat	potoù_ruzikat	NOM
+poue saveteiñ	poue_saveteiñ	NOM
+poueioù saveteiñ	poueioù_saveteiñ	NOM
+poutailhad champouenn	poutailhad_champouenn	NOM
+poutailhad dour	poutailhad_dour	NOM
+poutailhad gwin	poutailhad_gwin	NOM
+poutailhad laezh	poutailhad_laezh	NOM
+poutailhad sistr	poutailhad_sistr	NOM
+poutailhadoù champouenn	poutailhadoù_champouenn	NOM
+poutailhadoù dour	poutailhadoù_dour	NOM
+poutailhadoù gwin	poutailhadoù_gwin	NOM
+poutailhadoù laezh	poutailhadoù_laezh	NOM
+poutailhadoù sistr	poutailhadoù_sistr	NOM
+prageier berr	prageier_berr	NOM
+prageier jean	prageier_jean	NOM
+prageier sport	prageier_sport	NOM
+pragou berr	pragou_berr	NOM
+pragou jean	pragou_jean	NOM
+pragou sport	pragou_sport	NOM
+pragoù berr	pragoù_berr	NOM
+pragoù jean	pragoù_jean	NOM
+pragoù sport	pragoù_sport	NOM
+prezel bed	prezel_bed	NOM
+prezel diabarzh	prezel_diabarzh	NOM
+prezelioù bed	prezelioù_bed	NOM
+prezelioù diabarzh	prezelioù_diabarzh	NOM
+priz mat	priz_mat	NOM
+prizioù mat	prizioù_mat	NOM
+programm eskemm	programm_eskemm	NOM
+programmoù eskemm	programmoù_eskemm	NOM
+puoc_h laezh	puoc_h_laezh	NOM
+puoc_hed laezh	puoc_hed_laezh	NOM
+puoc_henned laezh	puoc_henned_laezh	NOM
+raktres embann	raktres_embann	NOM
+raktresoù embann	raktresoù_embann	NOM
+rannig verb	rannig_verb	NOM
+rannigoù verb	rannigoù_verb	NOM
+re a	re_a	PRE
+re nebeut a	re_nebeut_a	PRE
+redadeg kirri	redadeg_kirri	NOM
+redadeg marc_h houarn	redadeg_marc_h_houarn	NOM
+redadegoù kirri	redadegoù_kirri	NOM
+redadegoù marc_h houarn	redadegoù_marc_h_houarn	NOM
+renkad ren	renkad_ren	NOM
+renkadoù ren	renkadoù_ren	NOM
+reolad bevezerezh izel	reolad_bevezerezh_izel	NOM
+reoladoù bevezerezh izel	reoladoù_bevezerezh_izel	NOM
+reolenn ar c_hoari	reolenn_ar_c_hoari	NOM
+reolenn c_hoari	reolenn_c_hoari	NOM
+reolenn reizhskrivañ	reolenn_reizhskrivañ	NOM
+reolennoù ar c_hoari	reolennoù_ar_c_hoari	NOM
+reolennoù c_hoari	reolennoù_c_hoari	NOM
+reolennoù reizhskrivañ	reolennoù_reizhskrivañ	NOM
+rinkin penn mailh	rinkin_penn_mailh	NOM
+rinkined penn mailh	rinkined_penn_mailh	NOM
+rod dantek	rod_dantek	NOM
+rodoù dantek	rodoù_dantek	NOM
+roll labour	roll_labour	NOM
+roll paper	roll_paper	NOM
+roll paper privezioù	roll_paper_privezioù	NOM
+rolloù labour	rolloù_labour	NOM
+rolloù paper	rolloù_paper	NOM
+rolloù paper privezioù	rolloù_paper_privezioù	NOM
+rouedad dezougen	rouedad_dezougen	NOM
+rouedad kehentiñ	rouedad_kehentiñ	NOM
+rouedad kehentiñ ha dezougen	rouedad_kehentiñ_ha_dezougen	NOM
+rouedad kehentiñ ha treuzdougen	rouedad_kehentiñ_ha_treuzdougen	NOM
+rouedadoù dezougen	rouedadoù_dezougen	NOM
+rouedadoù kehentiñ	rouedadoù_kehentiñ	NOM
+rouedadoù kehentiñ ha dezougen	rouedadoù_kehentiñ_ha_dezougen	NOM
+rouedadoù kehentiñ ha treuzdougen	rouedadoù_kehentiñ_ha_treuzdougen	NOM
+sac_had glaou	sac_had_glaou	NOM
+sac_hadoù glaou	sac_hadoù_glaou	NOM
+sadorn kreisteiz	sadorn_kreisteiz	NOM
+sae c_hibellañ	sae_c_hibellañ	NOM
+sae gibellañ	sae_gibellañ	NOM
+sae kibellañ	sae_kibellañ	NOM
+sae splujañ	sae_splujañ	NOM
+saeoù c_hibellañ	saeoù_c_hibellañ	NOM
+saeoù gibellañ	saeoù_gibellañ	NOM
+saeoù kibellañ	saeoù_kibellañ	NOM
+saeoù splujañ	saeoù_splujañ	NOM
+sal ar gouelioù	sal_ar_gouelioù	NOM
+salioù ar gouelioù	salioù_ar_gouelioù	NOM
+salud deoc_h	salud_deoc_h	ONO
+salud dit	salud_dit	ONO
+salud tout an dud	salud_tout_an_dud	ONO
+saout laezh	saout_laezh	NOM
+se zo kaoz	se_zo_kaoz	CON
+sed amañ	sed_amañ	ADV
+sed aze	sed_aze	ADV
+seizh kant	seizh_kant	ADJ:num
+sell keodedour	sell_keodedour	NOM
+selloù keodedour	selloù_keodedour	NOM
+serviedenn baper	serviedenn_baper	NOM
+serviedenn faper	serviedenn_faper	NOM
+serviedenn paper	serviedenn_paper	NOM
+serviedennoù baper	serviedennoù_baper	NOM
+serviedennoù faper	serviedennoù_faper	NOM
+serviedennoù paper	serviedennoù_paper	NOM
+setu amañ	setu_amañ	ADV
+setu aze	setu_aze	ADV
+setu perak	setu_perak	CON
+seul vui	seul_vui	ADV
+sevenadur breizh	sevenadur_breizh	NOM
+sevenadurioù breizh	sevenadurioù_breizh	NOM
+sizhun hanter	sizhun_hanter	NOM
+sizhunioù hanter	sizhunioù_hanter	NOM
+skeul briziañ	skeul_briziañ	NOM
+skeul friziañ	skeul_friziañ	NOM
+skeul priziañ	skeul_priziañ	NOM
+skeulioù briziañ	skeulioù_briziañ	NOM
+skeulioù friziañ	skeulioù_friziañ	NOM
+skeulioù priziañ	skeulioù_priziañ	NOM
+skiant mat	skiant_mat	NOM
+skiant rik	skiant_rik	NOM
+skiant vat	skiant_vat	NOM
+skiantoù mat	skiantoù_mat	NOM
+skiantoù rik	skiantoù_rik	NOM
+skiantoù vat	skiantoù_vat	NOM
+skol c_hevredigezhel	skol_c_hevredigezhel	NOM
+skol diwan	skol_diwan	NOM
+skol gevredigezhel	skol_gevredigezhel	NOM
+skol kevredigezhel	skol_kevredigezhel	NOM
+skol meur an amzer vak	skol_meur_an_amzer_vak	NOM
+skol veur an amzer vak	skol_veur_an_amzer_vak	NOM
+skolaj diwan	skolaj_diwan	NOM
+skolaj kevredigezhel	skolaj_kevredigezhel	NOM
+skolajoù diwan	skolajoù_diwan	NOM
+skolajoù kevredigezhel	skolajoù_kevredigezhel	NOM
+skolioù c_hevredigezhel	skolioù_c_hevredigezhel	NOM
+skolioù diwan	skolioù_diwan	NOM
+skolioù gevredigezhel	skolioù_gevredigezhel	NOM
+skolioù kevredigezhel	skolioù_kevredigezhel	NOM
+skolioù meur an amzer vak	skolioù_meur_an_amzer_vak	NOM
+skolioù veur an amzer vak	skolioù_veur_an_amzer_vak	NOM
+skouerenn orin	skouerenn_orin	NOM
+skouerennoù orin	skouerennoù_orin	NOM
+skritur unvan	skritur_unvan	NOM
+skriturioù unvan	skriturioù_unvan	NOM
+sonerezh a vremañ	sonerezh_a_vremañ	NOM
+sonerezhioù a vremañ	sonerezhioù_a_vremañ	NOM
+soubenn ar pesked	soubenn_ar_pesked	NOM
+soubenn ar pour	soubenn_ar_pour	NOM
+soubennoù ar pesked	soubennoù_ar_pesked	NOM
+soubennoù ar pour	soubennoù_ar_pour	NOM
+soñj hollek	soñj_hollek	NOM
+soñj mab den	soñj_mab_den	NOM
+soñjoù hollek	soñjoù_hollek	NOM
+soñjoù mab den	soñjoù_mab_den	NOM
+splujadenn c_hof	splujadenn_c_hof	NOM
+splujadenn gof	splujadenn_gof	NOM
+splujadenn kof	splujadenn_kof	NOM
+splujadennoù c_hof	splujadennoù_c_hof	NOM
+splujadennoù gof	splujadennoù_gof	NOM
+splujadennoù kof	splujadennoù_kof	NOM
+stad an traoù	stad_an_traoù	NOM
+stadoù an traoù	stadoù_an_traoù	NOM
+stagell isurzhiañ	stagell_isurzhiañ	NOM
+stagelloù isurzhiañ	stagelloù_isurzhiañ	NOM
+stal boteier	stal_boteier	NOM
+stal labour	stal_labour	NOM
+stal levrioù	stal_levrioù	NOM
+stal poteier	stal_poteier	NOM
+stal voteier	stal_voteier	NOM
+staliadur sport	staliadur_sport	NOM
+staliadurioù sport	staliadurioù_sport	NOM
+stalioù boteier	stalioù_boteier	NOM
+stalioù labour	stalioù_labour	NOM
+stalioù levrioù	stalioù_levrioù	NOM
+stalioù poteier	stalioù_poteier	NOM
+stalioù voteier	stalioù_voteier	NOM
+steuñv diorren	steuñv_diorren	NOM
+steuñv stummañ	steuñv_stummañ	NOM
+steuñvoù diorren	steuñvoù_diorren	NOM
+steuñvoù stummañ	steuñvoù_stummañ	NOM
+strobad mein	strobad_mein	NOM
+strobadoù mein	strobadoù_mein	NOM
+strollad tud	strollad_tud	NOM
+strolladoù tud	strolladoù_tud	NOM
+stumm kozh	stumm_kozh	NOM
+stummadur dibaouez	stummadur_dibaouez	NOM
+stummadur uhel	stummadur_uhel	NOM
+stummadurioù dibaouez	stummadurioù_dibaouez	NOM
+stummadurioù uhel	stummadurioù_uhel	NOM
+stummerezh dibaouez	stummerezh_dibaouez	NOM
+stummerezhioù dibaouez	stummerezhioù_dibaouez	NOM
+stummoù kozh	stummoù_kozh	NOM
+sul kreisteiz	sul_kreisteiz	NOM
+sur a walc_h	sur_a_walc_h	ADV
+tachenn labour	tachenn_labour	NOM
+tachenn mell droad	tachenn_mell_droad	NOM
+tachenn sport	tachenn_sport	NOM
+tachenn studi	tachenn_studi	NOM
+tachenn vell droad	tachenn_vell_droad	NOM
+tachennoù labour	tachennoù_labour	NOM
+tachennoù mell droad	tachennoù_mell_droad	NOM
+tachennoù sport	tachennoù_sport	NOM
+tachennoù studi	tachennoù_studi	NOM
+tachennoù vell droad	tachennoù_vell_droad	NOM
+takad moullañ	takad_moullañ	NOM
+takad tresañ	takad_tresañ	NOM
+takadoù moullañ	takadoù_moullañ	NOM
+takadoù tresañ	takadoù_tresañ	NOM
+tamm ebet	tamm_ebet	ADV
+tamm ha tamm	tamm_ha_tamm	ADV
+tamm ha tamm e vez graet e vragoù da yann	tamm_ha_tamm_e_vez_graet_e_vragoù_da_yann	ADV
+tamm pe damm	tamm_pe_damm	ADV
+tanevell beaj	tanevell_beaj	NOM
+tanevell buhezel	tanevell_buhezel	NOM
+tanevell peaj	tanevell_peaj	NOM
+tanevell puhezel	tanevell_puhezel	NOM
+tanevell veaj	tanevell_veaj	NOM
+tanevell vuhezel	tanevell_vuhezel	NOM
+tanevelloù beaj	tanevelloù_beaj	NOM
+tanevelloù buhezel	tanevelloù_buhezel	NOM
+tanevelloù peaj	tanevelloù_peaj	NOM
+tanevelloù puhezel	tanevelloù_puhezel	NOM
+tanevelloù veaj	tanevelloù_veaj	NOM
+tanevelloù vuhezel	tanevelloù_vuhezel	NOM
+tant genver	tant_genver	NOM
+taol c_hrenn	taol_c_hrenn	NOM
+taol feriñ	taol_feriñ	NOM
+taol grenn	taol_grenn	NOM
+taol ijin	taol_ijin	NOM
+taol kehentiñ	taol_kehentiñ	NOM
+taol krenn	taol_krenn	NOM
+taol oberata	taol_oberata	NOM
+taolioù c_hrenn	taolioù_c_hrenn	NOM
+taolioù feriñ	taolioù_feriñ	NOM
+taolioù grenn	taolioù_grenn	NOM
+taolioù ijin	taolioù_ijin	NOM
+taolioù kehentiñ	taolioù_kehentiñ	NOM
+taolioù krenn	taolioù_krenn	NOM
+taolioù oberata	taolioù_oberata	NOM
+taou c_hant	taou_c_hant	ADJ:num
+tarempred diavaez	tarempred_diavaez	NOM
+tarempred rev	tarempred_rev	NOM
+tarempredoù diavaez	tarempredoù_diavaez	NOM
+tarempredoù rev	tarempredoù_rev	NOM
+tarn brasañ	tarn_brasañ	NOM
+tarn prasañ	tarn_prasañ	NOM
+tarn vrasañ	tarn_vrasañ	NOM
+tarnoù brasañ	tarnoù_brasañ	NOM
+tarnoù prasañ	tarnoù_prasañ	NOM
+tarnoù vrasañ	tarnoù_vrasañ	NOM
+tartezenn c_herez	tartezenn_c_herez	NOM
+tartezenn gerez	tartezenn_gerez	NOM
+tartezenn kerez	tartezenn_kerez	NOM
+tartezennoù c_herez	tartezennoù_c_herez	NOM
+tartezennoù gerez	tartezennoù_gerez	NOM
+tartezennoù kerez	tartezennoù_kerez	NOM
+teiz gouel	teiz_gouel	NOM
+teizioù gouel	teizioù_gouel	NOM
+tek ha pevar ugent	tek_ha_pevar_ugent	ADJ:num
+tek ha tri ugent	tek_ha_tri_ugent	ADJ:num
+teknologiezh ar c_helaouiñ hag ar c_hehentiñ	teknologiezh_ar_c_helaouiñ_hag_ar_c_hehentiñ	NOM
+teknologiezh nevez	teknologiezh_nevez	NOM
+teknologiezhioù ar c_helaouiñ hag ar c_hehentiñ	teknologiezhioù_ar_c_helaouiñ_hag_ar_c_hehentiñ	NOM
+teknologiezhioù nevez	teknologiezhioù_nevez	NOM
+teknologiezhoù ar c_helaouiñ hag ar c_hehentiñ	teknologiezhoù_ar_c_helaouiñ_hag_ar_c_hehentiñ	NOM
+teknologiezhoù nevez	teknologiezhoù_nevez	NOM
+telienn bik	telienn_bik	NOM
+telienn fik	telienn_fik	NOM
+telienn pik	telienn_pik	NOM
+telienn sec_h	telienn_sec_h	NOM
+telioù bik	telioù_bik	NOM
+telioù fik	telioù_fik	NOM
+telioù pik	telioù_pik	NOM
+telioù sec_h	telioù_sec_h	NOM
+ten a iliz	ten_a_iliz	NOM
+ten a lez	ten_a_lez	NOM
+ten a vicher	ten_a_vicher	NOM
+ten a youl vat	ten_a_youl_vat	NOM
+ten deuet	ten_deuet	NOM
+ten deut	ten_deut	NOM
+ten diabarzh	ten_diabarzh	NOM
+ten diavaez	ten_diavaez	NOM
+ten gopret	ten_gopret	NOM
+ten istorel	ten_istorel	NOM
+ten kentañ	ten_kentañ	NOM
+ten kozh	ten_kozh	NOM
+ten livek	ten_livek	NOM
+ten pedet	ten_pedet	NOM
+ten war an oad	ten_war_an_oad	NOM
+ten yaouank	ten_yaouank	NOM
+tenn fuzuilh	tenn_fuzuilh	NOM
+tenn kanol	tenn_kanol	NOM
+tennoù fuzuilh	tennoù_fuzuilh	NOM
+tennoù kanol	tennoù_kanol	NOM
+tent genver	tent_genver	NOM
+teskadurezh stad	teskadurezh_stad	NOM
+teskadurezh uhel	teskadurezh_uhel	NOM
+teskadurezhioù stad	teskadurezhioù_stad	NOM
+teskadurezhioù uhel	teskadurezhioù_uhel	NOM
+teskadurezhoù stad	teskadurezhoù_stad	NOM
+teskadurezhoù uhel	teskadurezhoù_uhel	NOM
+teul kinnigoù	teul_kinnigoù	NOM
+teulioù kinnigoù	teulioù_kinnigoù	NOM
+tevezh dal	tevezh_dal	NOM
+tevezh eskemm	tevezh_eskemm	NOM
+tevezh gouel	tevezh_gouel	NOM
+tevezh hanter	tevezh_hanter	NOM
+tevezh stummañ	tevezh_stummañ	NOM
+tevezhioù dal	tevezhioù_dal	NOM
+tevezhioù eskemm	tevezhioù_eskemm	NOM
+tevezhioù gouel	tevezhioù_gouel	NOM
+tevezhioù hanter	tevezhioù_hanter	NOM
+tevezhioù stummañ	tevezhioù_stummañ	NOM
+ti degemer	ti_degemer	NOM
+ti lojañ miret	ti_lojañ_miret	NOM
+tiaester analañ	tiaester_analañ	NOM
+tiaesterioù analañ	tiaesterioù_analañ	NOM
+tiazezadur foran a genlabour sevenadurel	tiazezadur_foran_a_genlabour_sevenadurel	NOM
+tiazezadurioù foran a genlabour sevenadurel	tiazezadurioù_foran_a_genlabour_sevenadurel	NOM
+tier degemer	tier_degemer	NOM
+tier lojañ miret	tier_lojañ_miret	NOM
+tiez degemer	tiez_degemer	NOM
+tiez lojañ miret	tiez_lojañ_miret	NOM
+tiforc_h dasparzhañ	tiforc_h_dasparzhañ	NOM
+tiforc_hioù dasparzhañ	tiforc_hioù_dasparzhañ	NOM
+tigwener da noz	tigwener_da_noz	ADV
+tigwener kentañ	tigwener_kentañ	ADV
+tigwener paseet	tigwener_paseet	ADV
+tigwener tremenet	tigwener_tremenet	ADV
+tilhad kouronkañ	tilhad_kouronkañ	NOM
+tilhad labour	tilhad_labour	NOM
+tilhadoù kouronkañ	tilhadoù_kouronkañ	NOM
+tilhadoù labour	tilhadoù_labour	NOM
+tilun da noz	tilun_da_noz	ADV
+tilun kentañ	tilun_kentañ	ADV
+tilun paseet	tilun_paseet	ADV
+tilun tremenet	tilun_tremenet	ADV
+timerc_her da noz	timerc_her_da_noz	ADV
+timerc_her kentañ	timerc_her_kentañ	ADV
+timerc_her paseet	timerc_her_paseet	ADV
+timerc_her tremenet	timerc_her_tremenet	ADV
+timeurzh da noz	timeurzh_da_noz	ADV
+timeurzh kentañ	timeurzh_kentañ	ADV
+timeurzh paseet	timeurzh_paseet	ADV
+timeurzh tremenet	timeurzh_tremenet	ADV
+timeziñ rakdivizet	timeziñ_rakdivizet	NOM
+tiriaou da noz	tiriaou_da_noz	ADV
+tiriaou kentañ	tiriaou_kentañ	ADV
+tiriaou paseet	tiriaou_paseet	ADV
+tiriaou tremenet	tiriaou_tremenet	ADV
+tisadorn da noz	tisadorn_da_noz	ADV
+tisadorn kentañ	tisadorn_kentañ	ADV
+tisadorn paseet	tisadorn_paseet	ADV
+tisadorn tremenet	tisadorn_tremenet	ADV
+tisul da noz	tisul_da_noz	ADV
+tisul kentañ	tisul_kentañ	ADV
+tisul paseet	tisul_paseet	ADV
+tisul tremenet	tisul_tremenet	ADV
+tizh al luc_h	tizh_al_luc_h	NOM
+tizhoù al luc_h	tizhoù_al_luc_h	NOM
+toare bevañ	toare_bevañ	NOM
+toare ober	toare_ober	NOM
+toare skignañ	toare_skignañ	NOM
+toareoù bevañ	toareoù_bevañ	NOM
+toareoù ober	toareoù_ober	NOM
+toareoù skignañ	toareoù_skignañ	NOM
+toaz merat	toaz_merat	NOM
+toaz tartez	toaz_tartez	NOM
+torzh bara	torzh_bara	NOM
+torzh para	torzh_para	NOM
+torzh vara	torzh_vara	NOM
+torzhioù bara	torzhioù_bara	NOM
+torzhioù para	torzhioù_para	NOM
+torzhioù vara	torzhioù_vara	NOM
+tost da	tost_da	PRE
+tost da vat	tost_da_vat	ADV
+tost e pep lec_h	tost_e_pep_lec_h	ADV
+tost pep tra	tost_pep_tra	ADV
+tostik da	tostik_da	PRE
+toull an nor	toull_an_nor	NOM
+toullad brav	toullad_brav	NOM
+toullad mat	toullad_mat	NOM
+toulladoù brav	toulladoù_brav	NOM
+toulladoù mat	toulladoù_mat	NOM
+toulloù an nor	toulloù_an_nor	NOM
+tour andon	tour_andon	NOM
+tour c_hwez	tour_c_hwez	NOM
+tour eien	tour_eien	NOM
+toureier andon	toureier_andon	NOM
+toureier c_hwez	toureier_c_hwez	NOM
+toureier eien	toureier_eien	NOM
+tourioù andon	tourioù_andon	NOM
+tourioù c_hwez	tourioù_c_hwez	NOM
+tourioù eien	tourioù_eien	NOM
+tout se	tout_se	ADV
+tra ken	tra_ken	ADV
+tra la la	tra_la_la	ONO
+tra ma	tra_ma	CON
+traig bihan	traig_bihan	NOM
+traig pihan	traig_pihan	NOM
+traig vihan	traig_vihan	NOM
+traoùigoù bihan	traoùigoù_bihan	NOM
+traoùigoù pihan	traoùigoù_pihan	NOM
+traoùigoù vihan	traoùigoù_vihan	NOM
+tren tizh bras	tren_tizh_bras	NOM
+trenioù tizh bras	trenioù_tizh_bras	NOM
+treujenn c_haol	treujenn_c_haol	NOM
+treujenn gaol	treujenn_gaol	NOM
+treujenn kaol	treujenn_kaol	NOM
+treujennoù c_haol	treujennoù_c_haol	NOM
+treujennoù gaol	treujennoù_gaol	NOM
+treujennoù kaol	treujennoù_kaol	NOM
+treujoù c_haol	treujoù_c_haol	NOM
+treujoù gaol	treujoù_gaol	NOM
+treujoù kaol	treujoù_kaol	NOM
+tri c_hant	tri_c_hant	ADJ:num
+tric_horn serzh	tric_horn_serzh	NOM
+tric_hornioù serzh	tric_hornioù_serzh	NOM
+tro dro da	tro_dro_da	PRE
+tro spered	tro_spered	NOM
+troioù spered	troioù_spered	NOM
+trugarez da	trugarez_da	PRE
+trugarez deoc_h	trugarez_deoc_h	ONO
+trugarez deoc_h holl	trugarez_deoc_h_holl	ONO
+trugarez dit	trugarez_dit	ONO
+trugarez vras	trugarez_vras	ADV
+trugarez vras deoc_h	trugarez_vras_deoc_h	ONO
+trugarez vras deoc_h holl	trugarez_vras_deoc_h_holl	ONO
+trugarez vras dit	trugarez_vras_dit	ONO
+tu gwan	tu_gwan	NOM
+tu kreñv	tu_kreñv	NOM
+tud a iliz	tud_a_iliz	NOM
+tud a lez	tud_a_lez	NOM
+tud a vicher	tud_a_vicher	NOM
+tud a youl vat	tud_a_youl_vat	NOM
+tud deuet	tud_deuet	NOM
+tud deut	tud_deut	NOM
+tud diabarzh	tud_diabarzh	NOM
+tud diavaez	tud_diavaez	NOM
+tud gopret	tud_gopret	NOM
+tud istorel	tud_istorel	NOM
+tud kentañ	tud_kentañ	NOM
+tud kozh	tud_kozh	NOM
+tud livek	tud_livek	NOM
+tud pedet	tud_pedet	NOM
+tud war an oad	tud_war_an_oad	NOM
+tud yaouank	tud_yaouank	NOM
+tuioù gwan	tuioù_gwan	NOM
+tuioù kreñv	tuioù_kreñv	NOM
+turiadenn c_hoz	turiadenn_c_hoz	NOM
+turiadenn goz	turiadenn_goz	NOM
+turiadenn koz	turiadenn_koz	NOM
+turiadennoù c_hoz	turiadennoù_c_hoz	NOM
+turiadennoù goz	turiadennoù_goz	NOM
+turiadennoù koz	turiadennoù_koz	NOM
+uhel e live	uhel_e_live	ADJ
+uhel o live	uhel_o_live	ADJ
+uhelat e live	uhelat_e_live	ADJ
+uhelat o live	uhelat_o_live	ADJ
+uhelañ e live	uhelañ_e_live	ADJ
+uhelañ o live	uhelañ_o_live	ADJ
+uheloc_h e live	uheloc_h_e_live	ADJ
+uheloc_h o live	uheloc_h_o_live	ADJ
+un deiz ma	un_deiz_ma	CON
+un dra bennak	un_dra_bennak	PRO:ind
+un nebeud bloavezhioù	un_nebeud_bloavezhioù	ADV
+un nebeud deizioù	un_nebeud_deizioù	ADV
+un nebeud mizioù	un_nebeud_mizioù	ADV
+un nebeud tud	un_nebeud_tud	ADV
+un tamm dre holl	un_tamm_dre_holl	ADV
+un tamm e pep lec_h	un_tamm_e_pep_lec_h	ADV
+un tamm mat a hent	un_tamm_mat_a_hent	ADV
+un tamm pep lec_h	un_tamm_pep_lec_h	ADV
+un tammig	un_tammig	ADV
+un tammig dre holl	un_tammig_dre_holl	ADV
+un tammig e pep lec_h	un_tammig_e_pep_lec_h	ADV
+un tammig pep lec_h	un_tammig_pep_lec_h	ADV
+un tu bennak	un_tu_bennak	ADV
+unan bennak	unan_bennak	PRO:ind
+unan bennak all	unan_bennak_all	ADV
+unan hag unan	unan_hag_unan	ADV
+unanig bennak	unanig_bennak	PRO:ind
+unanik bennak	unanik_bennak	PRO:ind
+ur mor a	ur_mor_a	PRE
+ur re bennak	ur_re_bennak	PRO:ind
+ur wech an amzer	ur_wech_an_amzer	ADV
+ur wech bennak	ur_wech_bennak	ADV
+ur wech bnk	ur_wech_bnk	ADV
+ur wech da vat	ur_wech_da_vat	ADV
+ur wech ma	ur_wech_ma	CON
+ur wezh an amzer	ur_wezh_an_amzer	ADV
+ur wezh bennak	ur_wezh_bennak	ADV
+ur wezh bnk	ur_wezh_bnk	ADV
+ur wezh da vat	ur_wezh_da_vat	ADV
+v merc_her kreisteiz	v_merc_her_kreisteiz	NOM
+v meurzh kreisteiz	v_meurzh_kreisteiz	NOM
+vab al lagad	vab_al_lagad	NOM
+vaboù al lagad	vaboù_al_lagad	NOM
+vag bezhina	vag_bezhina	NOM
+vag pesketa	vag_pesketa	NOM
+vag pezhina	vag_pezhina	NOM
+vag toneta	vag_toneta	NOM
+vag touneta	vag_touneta	NOM
+vag vezhina	vag_vezhina	NOM
+vagoù bezhina	vagoù_bezhina	NOM
+vagoù pesketa	vagoù_pesketa	NOM
+vagoù pezhina	vagoù_pezhina	NOM
+vagoù toneta	vagoù_toneta	NOM
+vagoù touneta	vagoù_touneta	NOM
+vagoù vezhina	vagoù_vezhina	NOM
+valafenn deiz	valafenn_deiz	NOM
+valafenn noz	valafenn_noz	NOM
+valafenned deiz	valafenned_deiz	NOM
+valafenned noz	valafenned_noz	NOM
+valzenn aour	valzenn_aour	NOM
+valzenn erc_h	valzenn_erc_h	NOM
+valzennoù aour	valzennoù_aour	NOM
+valzennoù erc_h	valzennoù_erc_h	NOM
+vaneg emwalc_hiñ	vaneg_emwalc_hiñ	NOM
+vanegoù emwalc_hiñ	vanegoù_emwalc_hiñ	NOM
+vantell c_hlav	vantell_c_hlav	NOM
+vantell glav	vantell_glav	NOM
+vantell klav	vantell_klav	NOM
+vantelloù c_hlav	vantelloù_c_hlav	NOM
+vantelloù glav	vantelloù_glav	NOM
+vantelloù klav	vantelloù_klav	NOM
+vantilli c_hlav	vantilli_c_hlav	NOM
+vantilli glav	vantilli_glav	NOM
+vantilli klav	vantilli_klav	NOM
+vaot douar	vaot_douar	NOM
+vaot mor	vaot_mor	NOM
+vaot vor	vaot_vor	NOM
+vaoted douar	vaoted_douar	NOM
+vaotoù mor	vaotoù_mor	NOM
+vaotoù vor	vaotoù_vor	NOM
+vaouez kozh	vaouez_kozh	NOM
+vaouezed kozh	vaouezed_kozh	NOM
+vara krazet	vara_krazet	NOM
+varaoù krazet	varaoù_krazet	NOM
+varrenn houarn	varrenn_houarn	NOM
+varrennoù houarn	varrennoù_houarn	NOM
+varrinier houarn	varrinier_houarn	NOM
+vaskl splujañ	vaskl_splujañ	NOM
+vaskloù splujañ	vaskloù_splujañ	NOM
+vazh skiañ	vazh_skiañ	NOM
+vazh taboulin	vazh_taboulin	NOM
+ved al labour	ved_al_labour	NOM
+ved ar c_hornôg	ved_ar_c_hornôg	NOM
+vedalenn aour	vedalenn_aour	NOM
+vedalenn arc_hant	vedalenn_arc_hant	NOM
+vedalennoù aour	vedalennoù_aour	NOM
+vedalennoù arc_hant	vedalennoù_arc_hant	NOM
+vedoù al labour	vedoù_al_labour	NOM
+vedoù ar c_hornôg	vedoù_ar_c_hornôg	NOM
+vell droad ouezelek	vell_droad_ouezelek	NOM
+venveg gwintañ	venveg_gwintañ	NOM
+venveg labour	venveg_labour	NOM
+venveg luc_hskeudenniñ	venveg_luc_hskeudenniñ	NOM
+venveg seniñ	venveg_seniñ	NOM
+venvegoù gwintañ	venvegoù_gwintañ	NOM
+venvegoù labour	venvegoù_labour	NOM
+venvegoù luc_hskeudenniñ	venvegoù_luc_hskeudenniñ	NOM
+venvegoù seniñ	venvegoù_seniñ	NOM
+verc_her kreisteiz	verc_her_kreisteiz	NOM
+verk frank	verk_frank	NOM
+verk marilhet	verk_marilhet	NOM
+verkoù frank	verkoù_frank	NOM
+verkoù marilhet	verkoù_marilhet	NOM
+veteier kevredigezhel	veteier_kevredigezhel	NOM
+vetou kevredigezhel	vetou_kevredigezhel	NOM
+vetoù kevredigezhel	vetoù_kevredigezhel	NOM
+veurzh kreisteiz	veurzh_kreisteiz	NOM
+vezeg boas	vezeg_boas	NOM
+vezeg poas	vezeg_poas	NOM
+vezeg voas	vezeg_voas	NOM
+vezegez boas	vezegez_boas	NOM
+vezegez poas	vezegez_poas	NOM
+vezegez voas	vezegez_voas	NOM
+vezegezed boas	vezegezed_boas	NOM
+vezegezed poas	vezegezed_poas	NOM
+vezegezed voas	vezegezed_voas	NOM
+vezegiezh al labour	vezegiezh_al_labour	NOM
+vezegiezhioù al labour	vezegiezhioù_al_labour	NOM
+vezegiezhoù al labour	vezegiezhoù_al_labour	NOM
+vezeien boas	vezeien_boas	NOM
+vezeien poas	vezeien_poas	NOM
+vezeien voas	vezeien_voas	NOM
+vezeion boas	vezeion_boas	NOM
+vezeion poas	vezeion_poas	NOM
+vezeion voas	vezeion_voas	NOM
+vigi bezhina	vigi_bezhina	NOM
+vigi pesketa	vigi_pesketa	NOM
+vigi pezhina	vigi_pezhina	NOM
+vigi toneta	vigi_toneta	NOM
+vigi touneta	vigi_touneta	NOM
+vigi vezhina	vigi_vezhina	NOM
+vignez avaloù	vignez_avaloù	NOM
+vignezenn avaloù	vignezenn_avaloù	NOM
+vilion a	vilion_a	NOM
+vilionoù a	vilionoù_a	NOM
+viniaouioù bras	viniaouioù_bras	NOM
+viniaouioù kozh	viniaouioù_kozh	NOM
+viniawoù bras	viniawoù_bras	NOM
+viniawoù kozh	viniawoù_kozh	NOM
+viniou bras	viniou_bras	NOM
+viniou kozh	viniou_kozh	NOM
+vinioù bras	vinioù_bras	NOM
+vinioù kozh	vinioù_kozh	NOM
+vinviji gwintañ	vinviji_gwintañ	NOM
+vinviji labour	vinviji_labour	NOM
+vinviji luc_hskeudenniñ	vinviji_luc_hskeudenniñ	NOM
+vinviji seniñ	vinviji_seniñ	NOM
+vinvioù gwintañ	vinvioù_gwintañ	NOM
+vinvioù labour	vinvioù_labour	NOM
+vinvioù luc_hskeudenniñ	vinvioù_luc_hskeudenniñ	NOM
+vinvioù seniñ	vinvioù_seniñ	NOM
+viz c_hwevrer	viz_c_hwevrer	NOM
+viz du	viz_du	NOM
+viz ebrel	viz_ebrel	NOM
+viz eost	viz_eost	NOM
+viz even	viz_even	NOM
+viz genver	viz_genver	NOM
+viz gouere	viz_gouere	NOM
+viz gouhere	viz_gouhere	NOM
+viz gwengolo	viz_gwengolo	NOM
+viz gwenholon	viz_gwenholon	NOM
+viz here	viz_here	NOM
+viz kerzu	viz_kerzu	NOM
+viz mae	viz_mae	NOM
+viz meurzh	viz_meurzh	NOM
+viz mezheven	viz_mezheven	NOM
+vizhier skiañ	vizhier_skiañ	NOM
+vizhier taboulin	vizhier_taboulin	NOM
+vizoù koskor	vizoù_koskor	NOM
+vizoù lojañ	vizoù_lojañ	NOM
+vlev melen	vlev_melen	NOM
+vlev velen	vlev_velen	NOM
+vlevenn melen	vlevenn_melen	NOM
+vlevenn velen	vlevenn_velen	NOM
+vloavezh hanter	vloavezh_hanter	NOM
+vloavezh mat	vloavezh_mat	NOM
+vloavezh skol	vloavezh_skol	NOM
+vloavezh skol veur	vloavezh_skol_veur	NOM
+vloavezhioù hanter	vloavezhioù_hanter	NOM
+vloavezhioù mat	vloavezhioù_mat	NOM
+vloavezhioù skol	vloavezhioù_skol	NOM
+vloavezhioù skol veur	vloavezhioù_skol_veur	NOM
+vlokad bananez	vlokad_bananez	NOM
+vlokad rezin	vlokad_rezin	NOM
+vlokadoù bananez	vlokadoù_bananez	NOM
+vlokadoù rezin	vlokadoù_rezin	NOM
+vmerc_her kreisteiz	vmerc_her_kreisteiz	NOM
+vmeurzh kreisteiz	vmeurzh_kreisteiz	NOM
+vodad heuliañ	vodad_heuliañ	NOM
+vodadoù heuliañ	vodadoù_heuliañ	NOM
+voest an diaoul	voest_an_diaoul	NOM
+voestad kreionoù	voestad_kreionoù	NOM
+voestadoù kreionoù	voestadoù_kreionoù	NOM
+voestoù an diaoul	voestoù_an_diaoul	NOM
+voled kanol	voled_kanol	NOM
+voledoù kanol	voledoù_kanol	NOM
+volejoù kanol	volejoù_kanol	NOM
+volennad chokolad	volennad_chokolad	NOM
+volennad kafe	volennad_kafe	NOM
+volennad laezh	volennad_laezh	NOM
+volennadoù chokolad	volennadoù_chokolad	NOM
+volennadoù kafe	volennadoù_kafe	NOM
+volennadoù laezh	volennadoù_laezh	NOM
+volidi kanol	volidi_kanol	NOM
+voliji kanol	voliji_kanol	NOM
+vont en dro	vont_en_dro	NOM
+votez ruzikat	votez_ruzikat	NOM
+votoù ruzikat	votoù_ruzikat	NOM
+voue saveteiñ	voue_saveteiñ	NOM
+voueioù saveteiñ	voueioù_saveteiñ	NOM
+voutailhad champouenn	voutailhad_champouenn	NOM
+voutailhad dour	voutailhad_dour	NOM
+voutailhad gwin	voutailhad_gwin	NOM
+voutailhad laezh	voutailhad_laezh	NOM
+voutailhad sistr	voutailhad_sistr	NOM
+voutailhadoù champouenn	voutailhadoù_champouenn	NOM
+voutailhadoù dour	voutailhadoù_dour	NOM
+voutailhadoù gwin	voutailhadoù_gwin	NOM
+voutailhadoù laezh	voutailhadoù_laezh	NOM
+voutailhadoù sistr	voutailhadoù_sistr	NOM
+vrageier berr	vrageier_berr	NOM
+vrageier jean	vrageier_jean	NOM
+vrageier sport	vrageier_sport	NOM
+vragou berr	vragou_berr	NOM
+vragou jean	vragou_jean	NOM
+vragou sport	vragou_sport	NOM
+vragoù berr	vragoù_berr	NOM
+vragoù jean	vragoù_jean	NOM
+vragoù sport	vragoù_sport	NOM
+vrezel bed	vrezel_bed	NOM
+vrezel diabarzh	vrezel_diabarzh	NOM
+vrezelioù bed	vrezelioù_bed	NOM
+vrezelioù diabarzh	vrezelioù_diabarzh	NOM
+vuioc_h a	vuioc_h_a	PRE
+vuoc_h laezh	vuoc_h_laezh	NOM
+vuoc_hed laezh	vuoc_hed_laezh	NOM
+vuoc_henned laezh	vuoc_henned_laezh	NOM
+walenn besketa	walenn_besketa	NOM
+walenn fesketa	walenn_fesketa	NOM
+walenn pesketa	walenn_pesketa	NOM
+walennoù besketa	walennoù_besketa	NOM
+walennoù fesketa	walennoù_fesketa	NOM
+walennoù pesketa	walennoù_pesketa	NOM
+walinier besketa	walinier_besketa	NOM
+walinier fesketa	walinier_fesketa	NOM
+walinier pesketa	walinier_pesketa	NOM
+war a lavar	war_a_lavar	ADV
+war a seblant	war_a_seblant	ADV
+war al lec_h	war_al_lec_h	ADV
+war an deiz	war_an_deiz	ADV
+war an hent mat	war_an_hent_mat	ADV
+war an hevelep tro	war_an_hevelep_tro	ADV
+war an ton bras	war_an_ton_bras	ADV
+war an tu fall	war_an_tu_fall	ADV
+war an tu mat	war_an_tu_mat	ADV
+war ar maez	war_ar_maez	ADV
+war ar poent mañ	war_ar_poent_mañ	ADV
+war ar prim	war_ar_prim	ADV
+war ar renk	war_ar_renk	ADV
+war ar sizhun	war_ar_sizhun	ADV
+war ar stern	war_ar_stern	ADV
+war bouez nebeut	war_bouez_nebeut	ADV
+war da leve	war_da_leve	ADV
+war e leve	war_e_leve	ADV
+war enaou	war_enaou	ADJ
+war he leve	war_he_leve	ADV
+war ho leve	war_ho_leve	ADV
+war hol leve	war_hol_leve	ADV
+war ma leve	war_ma_leve	ADV
+war o leve	war_o_leve	ADV
+war un dro	war_un_dro	ADV
+war un ton bras	war_un_ton_bras	ADV
+war var da	war_var_da	PRE
+war varc_h houarn	war_varc_h_houarn	ADV
+warez sokial	warez_sokial	NOM
+warezioù sokial	warezioù_sokial	NOM
+weladenn heñchet	weladenn_heñchet	NOM
+weladennoù heñchet	weladennoù_heñchet	NOM
+wener kreisteiz	wener_kreisteiz	NOM
+werennad dour	werennad_dour	NOM
+werennadoù dour	werennadoù_dour	NOM
+win palmez	win_palmez	NOM
+winoù palmez	winoù_palmez	NOM
+wir enskrivañ	wir_enskrivañ	NOM
+wir mab den	wir_mab_den	NOM
+wirioù enskrivañ	wirioù_enskrivañ	NOM
+wirioù mab den	wirioù_mab_den	NOM
+ya pe get	ya_pe_get	ADV
+yaou kreisteiz	yaou_kreisteiz	NOM
+yezh bev	yezh_bev	NOM
+yezh kelenn	yezh_kelenn	NOM
+yezh pal	yezh_pal	NOM
+yezh pev	yezh_pev	NOM
+yezh rannvro	yezh_rannvro	NOM
+yezh vev	yezh_vev	NOM
+yezhoù bev	yezhoù_bev	NOM
+yezhoù kelenn	yezhoù_kelenn	NOM
+yezhoù pal	yezhoù_pal	NOM
+yezhoù pev	yezhoù_pev	NOM
+yezhoù rannvro	yezhoù_rannvro	NOM
+yezhoù vev	yezhoù_vev	NOM
+zachenn labour	zachenn_labour	NOM
+zachenn mell droad	zachenn_mell_droad	NOM
+zachenn sport	zachenn_sport	NOM
+zachenn studi	zachenn_studi	NOM
+zachenn vell droad	zachenn_vell_droad	NOM
+zachennoù labour	zachennoù_labour	NOM
+zachennoù mell droad	zachennoù_mell_droad	NOM
+zachennoù sport	zachennoù_sport	NOM
+zachennoù studi	zachennoù_studi	NOM
+zachennoù vell droad	zachennoù_vell_droad	NOM
+zakad moullañ	zakad_moullañ	NOM
+zakad tresañ	zakad_tresañ	NOM
+zakadoù moullañ	zakadoù_moullañ	NOM
+zakadoù tresañ	zakadoù_tresañ	NOM
+zanevell beaj	zanevell_beaj	NOM
+zanevell buhezel	zanevell_buhezel	NOM
+zanevell peaj	zanevell_peaj	NOM
+zanevell puhezel	zanevell_puhezel	NOM
+zanevell veaj	zanevell_veaj	NOM
+zanevell vuhezel	zanevell_vuhezel	NOM
+zanevelloù beaj	zanevelloù_beaj	NOM
+zanevelloù buhezel	zanevelloù_buhezel	NOM
+zanevelloù peaj	zanevelloù_peaj	NOM
+zanevelloù puhezel	zanevelloù_puhezel	NOM
+zanevelloù veaj	zanevelloù_veaj	NOM
+zanevelloù vuhezel	zanevelloù_vuhezel	NOM
+zant genver	zant_genver	NOM
+zaol c_hrenn	zaol_c_hrenn	NOM
+zaol feriñ	zaol_feriñ	NOM
+zaol grenn	zaol_grenn	NOM
+zaol ijin	zaol_ijin	NOM
+zaol kehentiñ	zaol_kehentiñ	NOM
+zaol krenn	zaol_krenn	NOM
+zaol oberata	zaol_oberata	NOM
+zaolioù c_hrenn	zaolioù_c_hrenn	NOM
+zaolioù feriñ	zaolioù_feriñ	NOM
+zaolioù grenn	zaolioù_grenn	NOM
+zaolioù ijin	zaolioù_ijin	NOM
+zaolioù kehentiñ	zaolioù_kehentiñ	NOM
+zaolioù krenn	zaolioù_krenn	NOM
+zaolioù oberata	zaolioù_oberata	NOM
+zaou c_hant	zaou_c_hant	ADJ:num
+zarempred diavaez	zarempred_diavaez	NOM
+zarempred rev	zarempred_rev	NOM
+zarempredoù diavaez	zarempredoù_diavaez	NOM
+zarempredoù rev	zarempredoù_rev	NOM
+zarn brasañ	zarn_brasañ	NOM
+zarn prasañ	zarn_prasañ	NOM
+zarn vrasañ	zarn_vrasañ	NOM
+zarnoù brasañ	zarnoù_brasañ	NOM
+zarnoù prasañ	zarnoù_prasañ	NOM
+zarnoù vrasañ	zarnoù_vrasañ	NOM
+zartezenn c_herez	zartezenn_c_herez	NOM
+zartezenn gerez	zartezenn_gerez	NOM
+zartezenn kerez	zartezenn_kerez	NOM
+zartezennoù c_herez	zartezennoù_c_herez	NOM
+zartezennoù gerez	zartezennoù_gerez	NOM
+zartezennoù kerez	zartezennoù_kerez	NOM
+zeiz gouel	zeiz_gouel	NOM
+zeizioù gouel	zeizioù_gouel	NOM
+zek ha pevar ugent	zek_ha_pevar_ugent	ADJ:num
+zek ha tri ugent	zek_ha_tri_ugent	ADJ:num
+zeknologiezh ar c_helaouiñ hag ar c_hehentiñ	zeknologiezh_ar_c_helaouiñ_hag_ar_c_hehentiñ	NOM
+zeknologiezh nevez	zeknologiezh_nevez	NOM
+zeknologiezhioù ar c_helaouiñ hag ar c_hehentiñ	zeknologiezhioù_ar_c_helaouiñ_hag_ar_c_hehentiñ	NOM
+zeknologiezhioù nevez	zeknologiezhioù_nevez	NOM
+zeknologiezhoù ar c_helaouiñ hag ar c_hehentiñ	zeknologiezhoù_ar_c_helaouiñ_hag_ar_c_hehentiñ	NOM
+zeknologiezhoù nevez	zeknologiezhoù_nevez	NOM
+zelienn bik	zelienn_bik	NOM
+zelienn fik	zelienn_fik	NOM
+zelienn pik	zelienn_pik	NOM
+zelienn sec_h	zelienn_sec_h	NOM
+zelioù bik	zelioù_bik	NOM
+zelioù fik	zelioù_fik	NOM
+zelioù pik	zelioù_pik	NOM
+zelioù sec_h	zelioù_sec_h	NOM
+zen a iliz	zen_a_iliz	NOM
+zen a lez	zen_a_lez	NOM
+zen a vicher	zen_a_vicher	NOM
+zen a youl vat	zen_a_youl_vat	NOM
+zen deuet	zen_deuet	NOM
+zen deut	zen_deut	NOM
+zen diabarzh	zen_diabarzh	NOM
+zen diavaez	zen_diavaez	NOM
+zen gopret	zen_gopret	NOM
+zen istorel	zen_istorel	NOM
+zen kentañ	zen_kentañ	NOM
+zen kozh	zen_kozh	NOM
+zen livek	zen_livek	NOM
+zen pedet	zen_pedet	NOM
+zen war an oad	zen_war_an_oad	NOM
+zen yaouank	zen_yaouank	NOM
+zenn fuzuilh	zenn_fuzuilh	NOM
+zenn kanol	zenn_kanol	NOM
+zennoù fuzuilh	zennoù_fuzuilh	NOM
+zennoù kanol	zennoù_kanol	NOM
+zent genver	zent_genver	NOM
+zeskadurezh stad	zeskadurezh_stad	NOM
+zeskadurezh uhel	zeskadurezh_uhel	NOM
+zeskadurezhioù stad	zeskadurezhioù_stad	NOM
+zeskadurezhioù uhel	zeskadurezhioù_uhel	NOM
+zeskadurezhoù stad	zeskadurezhoù_stad	NOM
+zeskadurezhoù uhel	zeskadurezhoù_uhel	NOM
+zeul kinnigoù	zeul_kinnigoù	NOM
+zeulioù kinnigoù	zeulioù_kinnigoù	NOM
+zevezh dal	zevezh_dal	NOM
+zevezh eskemm	zevezh_eskemm	NOM
+zevezh gouel	zevezh_gouel	NOM
+zevezh hanter	zevezh_hanter	NOM
+zevezh stummañ	zevezh_stummañ	NOM
+zevezhioù dal	zevezhioù_dal	NOM
+zevezhioù eskemm	zevezhioù_eskemm	NOM
+zevezhioù gouel	zevezhioù_gouel	NOM
+zevezhioù hanter	zevezhioù_hanter	NOM
+zevezhioù stummañ	zevezhioù_stummañ	NOM
+zi degemer	zi_degemer	NOM
+zi lojañ miret	zi_lojañ_miret	NOM
+ziaester analañ	ziaester_analañ	NOM
+ziaesterioù analañ	ziaesterioù_analañ	NOM
+ziazezadur foran a genlabour sevenadurel	ziazezadur_foran_a_genlabour_sevenadurel	NOM
+ziazezadurioù foran a genlabour sevenadurel	ziazezadurioù_foran_a_genlabour_sevenadurel	NOM
+zier degemer	zier_degemer	NOM
+zier lojañ miret	zier_lojañ_miret	NOM
+ziez degemer	ziez_degemer	NOM
+ziez lojañ miret	ziez_lojañ_miret	NOM
+ziforc_h dasparzhañ	ziforc_h_dasparzhañ	NOM
+ziforc_hioù dasparzhañ	ziforc_hioù_dasparzhañ	NOM
+zigwener da noz	zigwener_da_noz	ADV
+zigwener kentañ	zigwener_kentañ	ADV
+zigwener paseet	zigwener_paseet	ADV
+zigwener tremenet	zigwener_tremenet	ADV
+zilhad kouronkañ	zilhad_kouronkañ	NOM
+zilhad labour	zilhad_labour	NOM
+zilhadoù kouronkañ	zilhadoù_kouronkañ	NOM
+zilhadoù labour	zilhadoù_labour	NOM
+zilun da noz	zilun_da_noz	ADV
+zilun kentañ	zilun_kentañ	ADV
+zilun paseet	zilun_paseet	ADV
+zilun tremenet	zilun_tremenet	ADV
+zimerc_her da noz	zimerc_her_da_noz	ADV
+zimerc_her kentañ	zimerc_her_kentañ	ADV
+zimerc_her paseet	zimerc_her_paseet	ADV
+zimerc_her tremenet	zimerc_her_tremenet	ADV
+zimeurzh da noz	zimeurzh_da_noz	ADV
+zimeurzh kentañ	zimeurzh_kentañ	ADV
+zimeurzh paseet	zimeurzh_paseet	ADV
+zimeurzh tremenet	zimeurzh_tremenet	ADV
+zimeziñ rakdivizet	zimeziñ_rakdivizet	NOM
+ziriaou da noz	ziriaou_da_noz	ADV
+ziriaou kentañ	ziriaou_kentañ	ADV
+ziriaou paseet	ziriaou_paseet	ADV
+ziriaou tremenet	ziriaou_tremenet	ADV
+zisadorn da noz	zisadorn_da_noz	ADV
+zisadorn kentañ	zisadorn_kentañ	ADV
+zisadorn paseet	zisadorn_paseet	ADV
+zisadorn tremenet	zisadorn_tremenet	ADV
+zisul da noz	zisul_da_noz	ADV
+zisul kentañ	zisul_kentañ	ADV
+zisul paseet	zisul_paseet	ADV
+zisul tremenet	zisul_tremenet	ADV
+zizh al luc_h	zizh_al_luc_h	NOM
+zizhoù al luc_h	zizhoù_al_luc_h	NOM
+zoare bevañ	zoare_bevañ	NOM
+zoare ober	zoare_ober	NOM
+zoare skignañ	zoare_skignañ	NOM
+zoareoù bevañ	zoareoù_bevañ	NOM
+zoareoù ober	zoareoù_ober	NOM
+zoareoù skignañ	zoareoù_skignañ	NOM
+zoaz merat	zoaz_merat	NOM
+zoaz tartez	zoaz_tartez	NOM
+zorzh bara	zorzh_bara	NOM
+zorzh para	zorzh_para	NOM
+zorzh vara	zorzh_vara	NOM
+zorzhioù bara	zorzhioù_bara	NOM
+zorzhioù para	zorzhioù_para	NOM
+zorzhioù vara	zorzhioù_vara	NOM
+zoull an nor	zoull_an_nor	NOM
+zoullad brav	zoullad_brav	NOM
+zoullad mat	zoullad_mat	NOM
+zoulladoù brav	zoulladoù_brav	NOM
+zoulladoù mat	zoulladoù_mat	NOM
+zoulloù an nor	zoulloù_an_nor	NOM
+zour andon	zour_andon	NOM
+zour c_hwez	zour_c_hwez	NOM
+zour eien	zour_eien	NOM
+zoureier andon	zoureier_andon	NOM
+zoureier c_hwez	zoureier_c_hwez	NOM
+zoureier eien	zoureier_eien	NOM
+zourioù andon	zourioù_andon	NOM
+zourioù c_hwez	zourioù_c_hwez	NOM
+zourioù eien	zourioù_eien	NOM
+zraig bihan	zraig_bihan	NOM
+zraig pihan	zraig_pihan	NOM
+zraig vihan	zraig_vihan	NOM
+zraoùigoù bihan	zraoùigoù_bihan	NOM
+zraoùigoù pihan	zraoùigoù_pihan	NOM
+zraoùigoù vihan	zraoùigoù_vihan	NOM
+zren tizh bras	zren_tizh_bras	NOM
+zrenioù tizh bras	zrenioù_tizh_bras	NOM
+zreujenn c_haol	zreujenn_c_haol	NOM
+zreujenn gaol	zreujenn_gaol	NOM
+zreujenn kaol	zreujenn_kaol	NOM
+zreujennoù c_haol	zreujennoù_c_haol	NOM
+zreujennoù gaol	zreujennoù_gaol	NOM
+zreujennoù kaol	zreujennoù_kaol	NOM
+zreujoù c_haol	zreujoù_c_haol	NOM
+zreujoù gaol	zreujoù_gaol	NOM
+zreujoù kaol	zreujoù_kaol	NOM
+zri c_hant	zri_c_hant	ADJ:num
+zric_horn serzh	zric_horn_serzh	NOM
+zric_hornioù serzh	zric_hornioù_serzh	NOM
+zro spered	zro_spered	NOM
+zroioù spered	zroioù_spered	NOM
+zu gwan	zu_gwan	NOM
+zu kreñv	zu_kreñv	NOM
+zud a iliz	zud_a_iliz	NOM
+zud a lez	zud_a_lez	NOM
+zud a vicher	zud_a_vicher	NOM
+zud a youl vat	zud_a_youl_vat	NOM
+zud deuet	zud_deuet	NOM
+zud deut	zud_deut	NOM
+zud diabarzh	zud_diabarzh	NOM
+zud diavaez	zud_diavaez	NOM
+zud gopret	zud_gopret	NOM
+zud istorel	zud_istorel	NOM
+zud kentañ	zud_kentañ	NOM
+zud kozh	zud_kozh	NOM
+zud livek	zud_livek	NOM
+zud pedet	zud_pedet	NOM
+zud war an oad	zud_war_an_oad	NOM
+zud yaouank	zud_yaouank	NOM
+zuioù gwan	zuioù_gwan	NOM
+zuioù kreñv	zuioù_kreñv	NOM
+zuriadenn c_hoz	zuriadenn_c_hoz	NOM
+zuriadenn goz	zuriadenn_goz	NOM
+zuriadenn koz	zuriadenn_koz	NOM
+zuriadennoù c_hoz	zuriadennoù_c_hoz	NOM
+zuriadennoù goz	zuriadennoù_goz	NOM
+zuriadennoù koz	zuriadennoù_koz	NOM

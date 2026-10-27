@@ -9,6 +9,10 @@ Usage :
   python3 construire_lexique_br.py apertium-bre/apertium-bre.bre.dix \
           --corpus-annote apertium-br-fr/corpus -o lexique_br.txt
 
+Produit aussi expression_br.txt (même dossier), le fichier des expressions :
+  expression <TAB> forme soudée <TAB> catégorie
+appliqué aux textes par preparer_corpus_breton.py.
+
 Format produit (celui d'IRaMuTeQ) : une ligne par forme,
   forme <TAB> lemme <TAB> catégorie
 avec les catégories d'IRaMuTeQ (nom, ver, aux, adj, adv, pre, con, art_def…).
@@ -128,6 +132,75 @@ def lire_corpus_annote(dossier):
     return vus
 
 
+# ---------------------------------------------------------------------------
+# Expressions (locutions en plusieurs mots)
+# ---------------------------------------------------------------------------
+# IRaMuTeQ soude les expressions avant de lemmatiser : « a benn ma » devient la
+# forme « a_benn_ma », que le lexique doit connaître. Le fichier
+# expression_br.txt suit le format d'IRaMuTeQ :
+#     expression <TAB> forme soudée <TAB> catégorie
+# Les clés sont écrites comme le texte après preparer_corpus_breton.py :
+# minuscules, c'h -> c_h, traits d'union remplacés par des espaces.
+
+def cle_expression(surface):
+    """Locution Apertium -> clé d'expression, ou None si inutilisable."""
+    s = surface.lower().strip()
+    s = re.sub(r"c[" + APOSTROPHES + r"]h", "c_h", s)
+    s = re.sub(r"(?<=\w)-(?=\w)", " ", s)
+    mots = s.split()
+    if len(mots) < 2 or not all(re.fullmatch(r"[a-zà-ÿœæ_]+", m) for m in mots):
+        return None                 # élisions (ma'z), chiffres, sigles : écartés
+    return " ".join(mots)
+
+
+def format_categorie(cat):
+    """nom -> NOM, adj_num -> ADJ:num : notation du fichier français d'IRaMuTeQ."""
+    tete, _, reste = cat.partition("_")
+    return tete.upper() + (":" + reste if reste else "")
+
+
+def choisir_expressions(locutions, choix, cat_du_lemme, verbales=False):
+    """Une analyse par expression.
+
+    Par défaut, les locutions verbales (« gouzout brezhoneg », « mont e kêr »,
+    conjuguées à toutes les personnes) sont écartées : les souder ferait
+    disparaître des comptages des mots pleins comme « brezhoneg » ou « kêr ».
+    On garde les locutions figées : adverbes, prépositions, conjonctions,
+    noms composés, numéraux, pronoms, et les formes de « kaout » (en doa)."""
+    retenues = {}
+    for cle, ens in locutions.items():
+        candidats = []
+        for lemme, cat, verbale in ens:
+            # « mont a rit », « glav a rae » (infinitif + ober) : même traitement
+            verbale = verbale or cat == "ver"
+            if verbale and not verbales:
+                continue
+            if verbale:
+                # « dont da », « mont di » : la suite du verbe n'est faite que
+                # de mots-outils, souder créerait de fausses locutions.
+                suite = re.split(r"[_\- ]", lemme)[1:]
+                if not any(len(m) >= 3 and choix.get(m, (None, None))[1] in PLEINS
+                           for m in suite):
+                    continue
+                cat = "ver"
+            candidats.append((RANG.get(cat, 9), lemme, cat))
+        if not candidats:
+            continue
+        # « e brezhoneg », « e genver », « er skol » : préposition + mot plein.
+        # Ces tournures sont libres ; les souder ôterait des comptages des
+        # noms comme « brezhoneg » ou « skol ». On les laisse en deux mots.
+        mots = cle.split()
+        if (len(mots) == 2 and choix.get(mots[0], (None, None))[1] == "pre"
+                and choix.get(mots[1], (None, None))[1] in ("nom", "adj")):
+            continue
+        _, lemme, cat = min(candidats)
+        soudee = cle.replace(" ", "_")
+        if soudee in choix:
+            continue
+        retenues[cle] = (soudee, lemme, cat_du_lemme.setdefault(lemme, cat))
+    return retenues
+
+
 def main():
     p = argparse.ArgumentParser(description="Apertium -> dictionnaire IRaMuTeQ breton")
     p.add_argument("dix")
@@ -135,9 +208,15 @@ def main():
     p.add_argument("--sans-pro-per", action="store_true",
                    help="classer les pronoms personnels en pro_ind")
     p.add_argument("-o", "--sortie", default="lexique_br.txt")
+    p.add_argument("--expressions", help="fichier d'expressions (défaut : expression_br.txt à côté du lexique)")
+    p.add_argument("--sans-expressions", action="store_true", help="ne pas produire de fichier d'expressions")
+    p.add_argument("--locutions-verbales", action="store_true",
+                   help="inclure les locutions verbales conjuguées (mont e kêr…)")
     a = p.parse_args()
+    os.makedirs(os.path.dirname(a.sortie) or ".", exist_ok=True)
 
     analyses = collections.defaultdict(set)   # forme -> {(lemme, cat, mutée, composée)}
+    locutions = collections.defaultdict(set)  # « a benn ma » -> {(lemme, cat, verbale)}
     # Morceaux de locutions, ajoutés seulement s'ils manquent : IRaMuTeQ coupe
     # « en doa » en deux mots et peut couper « a-raok » au tiret.
     morceaux = collections.defaultdict(collections.Counter)
@@ -153,7 +232,13 @@ def main():
             # « en doa », « hon doa » (kaout) : on garde le dernier mot
             if "#" not in analyse and cat in ("aux", "ver"):
                 morceaux[normaliser(surface.split()[-1])][(normaliser(lemme_brut), cat)] += 1
-            continue                       # autres locutions : ignorées
+            # La locution entière est candidate au fichier d'expressions
+            # (sauf analyses composées « a<pr>+kalon<n> », qui sont libres).
+            cle = cle_expression(surface)
+            if cle and "+" not in analyse:
+                locutions[cle].add((normaliser(lemme_brut), cat,
+                                    "#" in analyse and cat in ("ver", "aux")))
+            continue
         if "-" in surface and cat in ("pre", "adv", "con"):
             # « a-raok », « war-lerc'h », « e-kichen » : dernier élément
             morceaux[normaliser(surface.split("-")[-1])][(normaliser(lemme_brut), cat)] += 1
@@ -225,6 +310,19 @@ def main():
         choix[morceau] = (lemme, cat)
         ajoutes += 1
     print(f"{ajoutes} éléments de locutions ajoutés (raok -> a-raok, doa -> kaout…).")
+
+    if not a.sans_expressions:
+        chemin_exp = a.expressions or os.path.join(os.path.dirname(a.sortie) or ".", "expression_br.txt")
+        expressions = choisir_expressions(locutions, choix, cat_du_lemme, a.locutions_verbales)
+        with open(chemin_exp, "w", encoding="utf-8", newline="\n") as out:
+            for cle in sorted(expressions):
+                soudee, lemme, cat = expressions[cle]
+                out.write(f"{cle}\t{soudee}\t{format_categorie(cat)}\n")
+                # la forme soudée doit être connue du lexique
+                choix[soudee] = (lemme, cat)
+        stats_exp = collections.Counter(c for _, _, c in expressions.values())
+        print(f"{len(expressions)} expressions écrites dans {chemin_exp} : "
+              + ", ".join(f"{c} {n}" for c, n in stats_exp.most_common()))
 
     with open(a.sortie, "w", encoding="utf-8", newline="\n") as out:
         for forme in sorted(choix):
