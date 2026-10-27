@@ -1,0 +1,4 @@
+dictionnaire/lexique_br.txt text eol=lf
+corpus_test/corpus_test_breton.txt text eol=lf
+corpus_test/corpus_test_breton_windows.txt -text
+*.py text eol=lf
