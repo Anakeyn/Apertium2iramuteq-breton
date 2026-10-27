@@ -85,8 +85,6 @@ Les corpus bretons de [wiki2iramuteq](https://github.com/Anakeyn/wiki2iramuteq) 
 
 ## 4. Installer le dictionnaire dans IRaMuTeQ
 
-Je n'ai pas pu tester ces deux méthodes dans IRaMuTeQ lui-même. Elles reposent sur la documentation de la version 0.8 et sur le code source du logiciel. Vos retours sont bienvenus dans les *Issues* du dépôt.
-
 ### Méthode A : choisir le dictionnaire à l'ouverture du corpus
 
 Dans la fenêtre de paramètres qui s'affiche avec *Fichier → Ouvrir un corpus* :
