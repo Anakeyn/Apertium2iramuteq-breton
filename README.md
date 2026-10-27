@@ -106,10 +106,12 @@ Remettez le fichier d'origine en place pour revenir en arrière.
 
 ## 5. Limites à connaître
 
-- **Une seule analyse par forme**, c'est une contrainte d'IRaMuTeQ. Pour les formes ambiguës, comme *gant* (avec / cent muté), le script préfère :
+- **Une seule analyse par forme**, c'est une contrainte d'IRaMuTeQ. Pour les formes ambiguës, le script préfère :
   1. la lecture **sans mutation** ;
   2. puis le mot-outil ;
   3. puis la catégorie dominante du lemme.
+
+  Par exemple, *gant* peut être la préposition *gant* (« avec ») ou le nombre *kant* (« cent ») après mutation douce (k → g) : le dictionnaire retient la préposition.
 
   Environ 12 000 formes sont concernées, et certains choix seront faux en contexte. C'est la limite de toute lemmatisation sans désambiguïsation.
 - **Un lemme = une catégorie**, c'est aussi une contrainte d'IRaMuTeQ. Quand un mot-outil et un mot plein partagent un lemme, le moins fréquent reçoit un suffixe. Exemple : *e_adv_sup* pour la particule verbale *e(z)*, à distinguer de la préposition *e*.
