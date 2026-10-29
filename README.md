@@ -173,3 +173,7 @@ Pour enrichir le dictionnaire, le plus utile est de contribuer à `apertium-bre`
 Pour citer ce travail :
 
 > Rouarch, P. (2026). *Apertium2iramuteq-breton : dictionnaire breton pour IRaMuTeQ à partir d'Apertium*. Anakeyn. https://github.com/Anakeyn/Apertium2iramuteq-breton
+
+Pour en savoir plus :
+Visiter l'article de blog qui décrit ce travail Article de la v1 : https://www.anakeyn.com/2026/10/29/transformation-dun-dictionnaire-de-breton-apertium-utilisable-par-iramuteq/
+
